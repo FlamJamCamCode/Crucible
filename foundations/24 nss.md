@@ -8,7 +8,6 @@ Through detailed examination of the Actualization Layer, trust network dynamics,
 
 This work synthesizes technical architecture, economic theory, social dynamics, and philosophical foundations to present NSS not as a mandated system but as a competitive alternative that natural selection itself will choose. Through detailed examples—from fast food disruption where ethical craft can finally compete with industrial scale, to prophet algorithms achieving negative latency—we demonstrate how performance-based selection creates abundance while respecting human values. The future belongs not to those who control the most, but to those who perform the best in their chosen domains.
 
----
 
 ## Table of Contents
 
@@ -149,7 +148,7 @@ When natural selection operates on infrastructure:
 
 **Emergent Organization**: Order arises without central planning. (See [12. Will-Coalescence](../12%20will_coalescence_meta_utility.md))
 
-**Externality Integration**: Unlike traditional markets that ignore external costs, NSS makes all factors: visible—animal welfare, environmental impact, worker conditions—allowing "deep will intent" to drive selection. A burger isn't just fast and cheap, but carries its full ethical weight in consumer choice.
+**Externality Integration**: Unlike traditional markets that ignore external costs, NSS makes all factors visible—animal welfare, environmental impact, worker conditions—allowing "deep will intent" to drive selection. A burger isn't just fast and cheap, but carries its full ethical weight in consumer choice.
 
 **True Representation**: Unlike democracy's fiction of representatives embodying constituent will, NSS enables continuous voting through life choices. Every action is a vote, every association a political statement, every purchase a policy decision. Will manifests directly rather than through supposed representatives.
 
@@ -292,7 +291,7 @@ Critically, mutations never die—they persist in Layer 2 (Logic) waiting for th
 
 **Year 1**: Develop quantum routing algorithm (useless without quantum hardware)
 **Year 5**: Quantum hardware emerges
-**Instant**: Your dormant algorithm activates and dominates (See [Ownership/Pwnership and Lumen](../15%20will_manifestation_philosophy.md) throughout the documents: Trust Networks and Emergent Civilizations or emergent inter-civilization Worlds; Oceans and Worlds -- That which has to be "another world" on the Planet; Who Profits? Who gets the Laurels?)
+**Instant**: Your dormant algorithm activates and dominates (See [Ownership/Pwnership and Lumen](./15%20will_manifestation_philosophy.md) throughout the documents: Trust Networks and Emergent Civilizations or emergent inter-civilization Worlds; Oceans and Worlds -- That which has to be "another world" on the Planet; Who Profits? Who gets the Laurels?)
 
 This creates an ever-growing library of solutions waiting for their conditions, enabling instant adaptation when circumstances change.
 
@@ -308,7 +307,7 @@ Employment is a relatively recent human invention, arising from industrial organ
 
 **Innovation Capture**: All improvements belong to the employer regardless of who created them. With most wealth being dispersed out into hoarding stashes and some spent on luxury life-styles or other domains: Rarely does it result in natural selection growth of what worked will-well.
 
-**Time-Based Compensation**: Payment for presence rather than performance. Performance of workers or owners is rarely subject to real competition: stability and security (the comfortable life: Able to have family, vacations, good social standing, sometimes fulfilling work and so on) is the deal they lure employees with. (See [chapters 9-12](../9%20electricity_routing_markets.md) and extrapolate on stability and security. As well as Daemonias (in scales) and extrema case of ARK project (You can't make them all "do", but you can "fix the 'if - then' scenarios for all"))
+**Time-Based Compensation**: Payment for presence rather than performance. Performance of workers or owners is rarely subject to real competition: stability and security (the comfortable life: Able to have family, vacations, good social standing, sometimes fulfilling work and so on) is the deal they lure employees with. (See [chapters 9-12](./9%20electricity_routing_markets.md) and extrapolate on stability and security. As well as Daemonias (in scales) and extrema case of ARK project (You can't make them all "do", but you can "fix the 'if - then' scenarios for all"))
 
 **Artificial Hierarchies**: Authority from hot-hand position-history into shallow settling on person for position; rather than will-performance or will-competency.
 
@@ -846,6 +845,13 @@ Expected Value ≈ Extreme Uncertainty which makes most seek the ploy of employm
 
 **NSS System** (Guaranteed):
 ```
+"Human Worth" Dynamics → Makes anyone valuable for striving towards their will
+Perform well → Guaranteed comfortable life
+Innovate better → Definitely command more
+Create value → Certainly get recognition
+Expected Value = High for all performers
+```
+```
 Perform well → Guaranteed comfortable life (This is protocol design as well as NSS foundation Diversity preference as well as general "human value" in trying to will-coalesce/manifest/disentangle as well as foundation utility easy to add to: PoP PoU and even Trust Networking. All in 'strata' fashion adding to livability of anyone. But especially if able to then add real polymorphic crucible prowess in some morphism of it. Like that of Triads or whatever else 'utility' provided (Again, often, it is entirely unclear how the many positive-sum effects are present when simply trying to greedily fulfill your own will within a will-coalescence system like these))
 Innovate better → Definitely command more (Unless, of course, you are without any will-coalescence possibility. If you're outside actuality of others. An example could be some serial killer nobody wants, but finds mercy of the devil to have their own triad. They probably will never be trusted or willed to compete for utility; perhaps no matter their merit)
 Create value → Certainly get recognition
@@ -927,7 +933,7 @@ NSS Evolution: Performance-based control
    [N] [P] [E]  
     [P] [N] [C]
 
-Where: C=Capital, E=Established NSS, N=New NSS, P=Performance leader
+Where: C=Capital and closed, E=Symbiotic non-NSS substrate, N=Attempt Acquire (Ownership Transfer), P=Protocol Compatible with Ownership (parasitism and other aspects); so open.
 ```
 
 ### 9.6 The Real Established Advantage
@@ -935,16 +941,18 @@ Where: C=Capital, E=Established NSS, N=New NSS, P=Performance leader
 Established players DO get advantages, but not exclusive access, they are fundamentally open to losing at exponential rate:
 
 **Advantages of Established Position**:
-- More resources to run experiments
-- Existing infrastructure to test mutations on
-- Data from current operations
-- Trust network visibility ("more eyes on experiments")
+- They've grown to run their mutations on much of the substrate
+- Whatever they've kept exclusive to themselves or Trusted parties.
+- Established social dynamics like Trust network effects (Data share, access to types of substrate or actors with substrate, network bridging efforts and more)
 
 **But Crucially**:
-- Cannot prevent others from competing
+- Cannot prevent others Trust accepted from competing on same substrate
 - Cannot stop exponential takeover by better performers
 - Must continuously prove performance
 - Past success guarantees nothing
+
+Trust Networking effects act like "borders" or "corporations" of the old world.
+The new world is PoP ownership and no cover layers (like flags or corporate names etc), but then Trust Networking effects making "cuts of association" that makes dealing with many actors at once sensible and tangible. Easily assessible.
 
 ### 9.7 The Self-Funding Revolution
 
@@ -952,32 +960,33 @@ The transformative insight: NSS quickly becomes self-funding.
 
 **Phase 1: Capital Bootstrap**
 ```
-Initial: Capital provides substrate for competition
-Cost: $60M for new service infrastructure
-Parasitic load: 20-30% to capital returns
+Initial: Capital decides to become substrate for NSS competition
+Cost: They install published Discovery OS systems on their substrate. Which opens up the system for NSS competition.
+Parasitic load: NSS players see substrate node and the NSS protocol specifics which insists on a parasitical load: Y% or "20% of efficiency gains are cut for owner" as an example.
 ```
 
 **Phase 2: NSS Generates Surplus**
 ```
 After optimization: NSS protocol efficiency gains
-Cost reduction: 70% through natural selection
-Surplus generated: $40M+ available
-Parasitic load: Near zero
+Amortized Cost reduction: kk% through natural selection
+Surplus generated: $XeN
+Parasitic load: (Y+Protocol_Specifics_optimizer_parasiticism)% * XeN
+NSS Growth Funds: (1 - (Y+Protocol_Specifics_optimizer_parasiticism)) * XeN
 ```
 
 **Phase 3: Surplus Funds Mutations**
 ```
 Surplus allocation:
-- 40% to environment mutations
-- 50% to variant experiments  
-- 10% to participant rewards
+- 60% to Substrate mutations growth/(Substrate purchase into NSS protocol specified ownership (Protocols that reduce parasiticms are trade off with having sufficient incentive. But because systems open up, low paracistism systems can't be "held down" and will thus dominate. (Life free from parasites reducing their surplus value by massive amounts or not)))
+- 20% to Substrate demand connective experiments
+- 20% to entirely new domains
 ```
 
 ### 9.8 Hardwire System Evolution
 
 For physical infrastructure, the challenge is real:
 
-**Traditional Problem**: Can't easily swap phone lines → cable → fiber → wireless
+**Traditional Problem**: Can't easily swap phone lines → cable → fiber → wireless and suppliers redundantly establish substrate and compete a zero-sum game of utility provisioning to the same actors with the same mutations. (Innovation and growth stifling. Price increasing. Winner takes all gambling that possibly increase investment as compared to capital version with cooperation or sharing profits.)
 **NSS Solution**: Open access competition and mutation funding
 
 ```
@@ -1042,16 +1051,15 @@ While growth can be exponential, protocols shape it:
 
 These constraints ensure exponential growth doesn't create fragility while still allowing rapid evolution.
 
+
 ### 9.10 Natural Ventilation
 
-The system prevents permanent dominance through:
+The system prevents permanent dominance through diversity preference and rapid responsiveness and ultimately serving human-will (whatever it may be):
 
-**Domain Disruption**: New technologies reset advantages
+**Domain Disruption**: New innovation can reset advantages
 **Paradigm Shifts**: Quantum computing, fusion energy create new games
-**Continuous Entry**: Fresh players always arriving
-**Performance Decay**: Without innovation, positions erode
-
-**The Key**: Even with exponential growth, no position is permanent. The teenager with a quantum algorithm can disrupt the established player with classical dominance. The chef with ethical innovation can challenge industrial food giants. Natural selection ensures continuous renewal.
+**Continuous Entry**: Fresh players always arriving empowered to take-over
+**Performance Decay**: Without innovation, new mutations/variants are still tested and tried in the discovery process with natural selection upon it. 
 
 **Prophet Pattern Applications**:
 
@@ -1101,6 +1109,11 @@ When an entire city runs on prophet patterns:
 - The city feels alive and responsive
 
 This is the promise of NSS: not just optimization, but systems that anticipate and prepare, creating experiences that feel like the universe is conspiring to help you.
+
+---
+
+**The Key**: Because the usual constraints that limits one to constant logistical limitations are removed by opening up domains by Trust, and NSS exponential growth and rest of the architecture: no position is permanent.
+The teenager with a quantum algorithm can disrupt the established player with classical dominance. The chef with ethical innovation can challenge industrial food giants. Natural selection ensures continuous renewal, by making access to any system a question of Trust establishment, then creating your utility-islands that then can grow exponentially.
 
 ---
 
@@ -1251,8 +1264,13 @@ Time: 10-100ms minimum
 
 **Prophet Latency**:
 ```
-Predict → Precompute → Request arrives → Instant delivery
+Predict → Precompute → Response → Request arrives → Instant delivery
 Time: -1000ms to 0ms (negative!)
+```
+**Encrypted Data Prophet Latency**:
+```
+Predict → Precompute → Encrypted Response → Request arrives → Instant delivery of data → Response with Decryption Key → No Throughput latency only ping latency
+Time: 0ms
 ```
 
 **The Economic Origin of Prophecy**:
@@ -1263,9 +1281,9 @@ class ComputeDaemon:
     def evolve_strategy(self, task_history):
         # Generation 1: React to tasks as they arrive
         # Generation 10: Notice patterns in task types
-        # Generation 50: Predict likely next tasks
+        # Generation 50: AiDDaemon Evolution to begin Predicting likely next tasks
         # Generation 100: Precompute predicted tasks
-        # Generation 500: Break sequential dependencies
+        # Generation 500: Break sequential dependencies and gain "earnings of computing before the others task". It's connective ("spatial geometric" (Obvious example is GPU data streaming. Or HDD or Network pre-caching)) niche also taken into consideration beyond its computational niche.
         
         if self.can_predict_next_task():
             self.precompute_result()  # Earn before others even see task
@@ -1347,11 +1365,13 @@ NSS doesn't just optimize response time—it effectively reverses causality thro
 ### 11.1 The Governance Problem
 
 Current democratic systems force infinite human will into binary choices:
-- Representatives claim to represent "majority will" (impossible for diverse populations)
-- Club members rise through party systems offering package deals
-- These packages poorly approximate anyone's actual preferences
-- No one's actual will configuration is represented
-- Change requires violence or voting for lesser evil
+- Representatives claim to represent "majority will" (impossible for diverse populations and which part of their "will": What degree or overlap/intersection; Surely not all their will; as that would be impossible unless quantum entangled beings.)
+- Club members rise through party systems (How? Unbiased process of their "package philosophy"? Interest Groups? Intelligence services? Lobby organization? "Gray men" in club promotion-deciding positions?) offering package deals
+- These packages poorly approximate anyone's actual preferences (Will and emotion diverse in mankind. But hey: If you don't like A then B is the answer. If you like b_172723, then B is the answer with 200,000 other decisions about what "your will is".)
+- No one's actual will configuration is represented (Not even the ones rising to the top of clubs have their will represented, as they become "representatives of the 'package'")
+- Change requires violence or voting for lesser evil ("¬A!!!" -> "B". "A Won!!! And it is UNACCEPTABLE!" -> "Violent Revolution, since Voice or Will has no weight or space to express its dissent and be without A")
+
+"Those who make peaceful revolution impossible, make violent revolution inevitable." (Well, granted enough of those unwilling to accept what they find unacceptable...)
 
 The fantasy that representatives embody "will of the majority" is absurd - they're party operatives executing pre-packaged agendas that at best vaguely gesture toward constituent preferences.
 
@@ -1363,29 +1383,31 @@ Replace voting with voluntary association and natural selection:
 10,000+ sovereignty experiments running simultaneously
 Each internally coherent
 Citizens vote with feet, not ballots
-Natural selection determines success
+Natural selection determines success (This is a Might (High Levarage Actors. "He simply HAS THAT. And I want in, so I accept "a deal" or "a cost" in relation to something "he want") and Philosophical ("Things that they say. And how I find it appealing or not") and Rallying (What replaces voting "I see what they made or heard what they want or have reason to believe what they are: And I want to be part of it. I want to amplify that. To vote for that by becoming part of it. Subordinating as subject or citizen in that system") trade off)
 ```
 
-**The Key Innovation**: No one is trapped. Unlike current systems where minorities (whether 49%, 1%, or even a single person) must accept impositions, the Crucible ensures everyone can choose their tradeoffs. Don't like your current sovereignty? Leave and join another, or become sovereign yourself. The system removes entrapment entirely.
+**The Key Innovation**: No one is trapped. Unlike current systems where everyone (and also minorities whether 49%, 1%, or even a single person) must accept impositions by "representatives of parliamentary or majority Will", the Crucible ensures everyone can choose their tradeoffs. Don't like your current sovereignty? Leave and join another, or become sovereign yourself. The system removes entrapment (mechanisms that makes becoming trapped easier) and betrapment entirely.
 
 ### 11.3 The 123404321 Structure
 
-Base layer all sovereignties must accept:
+Base layer suggested or hoped that high leverage actors can agree upon no matter their "ocean"; "The Ubiquity Law"; The law that all sovereignties must accept: Benevolence Codex (BC).
 
-**Protective Floor** (1234):
-1. **No killing** (period - worst punishment is banishment)
-2. No extreme suffering  
-3. No permanent imprisonment
-4. Identity sovereignty respected
+**Protective Rights** (1234):
+1. Right to Exist (**No killing** (Do eternal Banishment and hardline Trust Networking to exclude them transitively.))
+2. Autorelease of harsh suffering. (To go free from harsh suffering)
+3. Free somewhere (Which entails no permanent imprisonment)
+4. Identity sovereignty respected (Especially the case of brain and bodily autonomy. Others "changing you" with e.g. drugs is hard limited by you and your "I")
 
 **The Routing System**: 
-The center (0) enforces these laws. The worst possible punishment is banishment - not to a neighboring sovereignty, but to "The Lord of Destruction Hellhouse" where assessment occurs. But even there, NO KILLING. This absolute prohibition prevents the exponential cycle of "justified" revenge killings that plague human societies.
+The center (0) enforces these laws (High Leverage (Which may include Laurels or Horns or Sword or Shield or whatever else)). Banishment solves almost everything anywhere - When you have Trust Networks - because you can banish to a degree of "as if they were dead" or "as you didn't exist to each other. Transitively". If you really want to make banishment severe in punishment, then banish not to a neighboring sovereignty, but to (0) who can be viewed as The Exception to BC as they are the Raw Power that enforces it. Thus (0) becomes "The Lord of Destruction" (The only actor able to act beyond the BC. The High Leverage Actor exception.). Here banishment can potential go beyond BC by their assessment.
+That is, they risk Laurel undermining of their Leverage. It becomes a sort of "purgatory" or "hell" that can function beyond the BC. Horns and Halos. The Halo (0) manage to make a "right" by their might, but then in turn their might becomes the key to violating the "right". Or in short: Their Horns makes the Halo real, but the Horns can go beyond Their Halo.
+I warn though, killing is a hard line of no return. When you make killing an absolute prohibition, then you prevent the exponential cycle of "justified" revenge killings that plague human societies; and you ensure that no one can accuse your rule of that level of ultimate injustice that killing allows for as potential, insofar they believe the person undeserving of death or innocent. It is an important line not to cross.
 
-**Aspirational Ceiling** (4321):
-4. Becoming (eternal growth)
-3. Fulfillment (active manifestation)
-2. Meaning (chosen purpose)
-1. Existence (will to be)
+**Aspirational Rights** (4321):
+4. Becoming (The i says "I" and 4 says "Then try to Become")
+3. Fulfillment (Will manifestation reaching crescendos)
+2. Meaning (Valleys and Peaks. That foundational meaning that makes valleys meaningful and peaks non-shallow. The Why.)
+1. Creation (Will of Existence To Be)
 
 ### 11.4 Sovereignty Examples
 
@@ -1410,7 +1432,8 @@ Each offers different terms. Citizens choose by joining. Success measured by who
 
 ### 11.5 Exit Rights Sacred
 
-The one inviolable rule: anyone can leave anytime. This transforms governance:
+The one inviolable rule (3 corollary): anyone can leave anytime to at least one other place they can be free. (0 provision of those nobody wants. Like serial killers etc. "Their Zones of Freedom. Where they suffer themselves or their own types. Bordering 'in' as no others accept them.")
+This transforms governance:
 - No trapped minorities
 - No permanent oppression
 - Bad systems lose citizens
@@ -1420,16 +1443,17 @@ The one inviolable rule: anyone can leave anytime. This transforms governance:
 ### 11.6 The End of Politics
 
 No more:
-- Voting for lesser evil
-- Forcing compromise on all
-- Pretending unity exists
-- Revolution as only option
+- Voting for faux-representative or lesser evil; But every act becomes "your vote". Holistic Voting of Choices.
+- Forcing compromise on all or domination without escape.
+- Pretending unity exists.
+- Revolution as only option.
 
 Instead:
 - Choose your sovereignty
-- Build your vision
+- Build your vision with hyper empowerment to find those others also willing your vision; While fundamentally of the same fabric or composition; daemon.
 - Rally others or join another
-- Natural evolution of governance
+- Natural evolution of governance. 
+- The "International" becomes a million "Fractally Sovereign Triad"/Nest interrelation and deal-making. Nest runs as hard law vertical inheritance. Whereas lateral and very dynamic agreements run as "intergovernmental law making" in "dynamics of the world meta-gaming" (More on this for another time.).
 
 ---
 
@@ -1566,7 +1590,8 @@ A chef who cares about:
 - Nutritional value (fresh, whole ingredients)
 - Taste excellence (crafted not manufactured)
 
-Cannot compete because scale economics crush quality/ethics.
+Cannot compete because scale economics having grown to include quality/ethics by design. But instead let's all else find optimal realities that optimize the metric space: bottom line.
+And cannot compete because he does not have access to using their vendor-points or logistical networks; and more. Like staff.
 
 **NSS Transformation**:
 
@@ -1575,6 +1600,8 @@ The same chef in NSS:
 2. **Publishes on food supplier network** with all metrics visible
 3. **Trust networks validate** ethical claims through PoU
 4. **Demand with "deep will intent"** flows to ethical option
+
+On 3. Trust Network may be established by Trust actors of "random or targeted checking of supply chains" and if any part in the chain violates then they are penalized in Trust and thus disadvantaged in getting the demand (if at all) and in price equilibriums. It is crucial here that it is PoP ♣ Trust Actor and not ♦ system. Because, when it is system, then you get all the same "convergences at the edges of the system". Fitting to the rule system and optimization towards those limits of the system at the cost of all other things. Any metric space chosen, becomes fitted for at the cost of all things not in metric space. Therefore, having the fundamental trust in a ♣ actor, who then uses ♦ systems at every layer of his ♣ fractal-pyramid organization: Provides the holistic eyes that is needed to Trust such checking is truly all-encompassing.
 
 ```yaml
 Burger_Performance_Metrics:
@@ -1619,7 +1646,7 @@ Day 365: Global adoption across 10,000 locations (5M daily)
 - Entire food system transforms through natural selection
 
 **The Key Insight**:
-In traditional capitalism, logistics efficiency beats ethical quality every time. In NSS, ethical quality that meets deep will intent can access the same logistics advantages, allowing true consumer preferences (including externalities) to drive selection.
+In traditional capitalism, there isn't a system in place like Trust Networks and PoP that allows for ethical concerns to be monetarily penalized sufficiently; so, logistics efficiency beats ethical quality every time. In NSS, ethical quality that meets deep will intent can access the same logistics advantages, allowing true consumer preferences (including externalities) to drive selection. Your Aiddaemon system can help you match with deep intent with Trust actors trying with all tools at their disposal and real eyes on the chain of production, showing up and examinating, whether it is "good" or not. If it is not, then it receives Trust penalty that results in "soft gradient exchange rates" and "price equilibrium changes" or ultimately exclusion from demand chain that uses that Trust Actor.
 
 The chef who makes one perfect, ethical burger can see it served in millions of locations within a year—IF it truly satisfies deeper human desires than industrial alternatives.
 
@@ -1647,18 +1674,24 @@ Phone: 64kbps voice
 Cable: 10Mbps data
 Power: 60Hz AC only
 Fiber: 1Gbps data
+Wireless: Autointerference and discoordination.
+Satelite: Redundant communication, remote and breaking "tyranny of territory institutions information control"
 
 Generation 5: Cross-access enabled
 Phone: Discovers DSL data capability
 Cable: Tests power-line communication
 Power: Experiments with DC data
 Fiber: Carries quantum states
+Wireless: Interference lowered, massive wireless potentials in devices discovered, but often islanded; meanwhile economic "space filling" with protocol harmonization such that it goes beyond economics for emergency uses. (Enabled by Trust Networking economic consequences of breaking trust)
+Satelite: Long distance wireless (lack of solid interference -- which allows for types of wireless communication beyond super low freq to scale well and relayed in satelites for long distances)
 
 Generation 10: Geometric winners emerge
 Phone: Niche voice quality applications
-Cable: Dies out (no unique advantage)
-Power: Dominates home DC microgrids
-Fiber: Wins long-distance everything
+Cable: Reliable low-latency communication and wireless-attack-resistant communication (low error rates)
+Power: Dominates home AC microgrids
+Fiber: Wins medium-distance everything with potential losses (light interference problems)
+Wireless: Bulk of localize data-flow running truly "at the edge" through opened "any wireless devices" (See [CohesionNet](./6%20cohesionnet_use_case.md))
+Satelite: Does bulk of long-distance to global data-flow communication.
 ```
 
 ### 12.7 The Hexagon Acquisition Model
@@ -1668,13 +1701,13 @@ NSS protocols don't just build new infrastructure—they acquire existing:
 **Acquisition Mechanics**:
 ```
 Existing Infrastructure [C] → NSS Protocol evaluates →
-If parasitic load > threshold → Acquire as new hexagon [N]
-If performance adequate → Partner access [P]
-If innovative → Collaborative evolution [E]
+If parasitic load > threshold → Attempt Acquire as new hexagon [N]
+If performance adequate → Implement NSS (Often simply by it running Discovery OS) [P]
+If ¬open ^ ¬acquirable ^ niche-advantage → Collaborative evolution [E]
 ```
 
 **No Distinction Between**:
-- Building new infrastructure from scratch
+- Building new infrastructure from scratch (Details of command chain for new substrate available different)
 - Buying existing and removing parasitism
 - Partnership agreements for access
 - Evolutionary collaboration
@@ -1685,24 +1718,27 @@ All are just "new hexagons" from the protocol's perspective, expanding the subst
 
 The critical distinction in protocol governance:
 
-**☘ Human-Guided Protocol**:
-- Human judgment with AI assistance
+**☘ Human-Dictation Protocol**:
+- Human judgement (using any tool (like AI), but a human above who can say yay or nay)
 - Adapts to unforeseen circumstances
 - Handles edge cases with wisdom
 - Maintains values through change
 - Can recognize when rules need breaking
+- Offers natural selection like in The Crucible variety upon PoP real persons and their ability to adapt and coordinate and choose parameters or rules or rulings with wisdom in all things.
 
 **♦ AI/Expert System Protocol**:
-- Pure algorithmic optimization
+- Systematic evaluations or Algorithmic optimization
 - Consistent rule application
-- No exceptions or mercy
+- No exceptions or mercy. (Does not have complexity of a humanity and a heart. Nor complexity that the system may get entirely wrong. Black Swans obvious to a human but for some reason was a system brittle point.)
 - Cliff failures at boundaries
 - Can't adapt beyond programming
 
-**The Key Point**: 
+**The Key Point**:
 It's not that ☘ lacks tools—humans use AI, analytics, expert systems. The question is whether final decisions come from:
-- Human wisdom (with tools) = ☘
+- A Human Wisdom (with tools) = ☘
 - Mechanical rules (however sophisticated) = ♦
+
+It is worth pointing out, in similar fashion to similar considerations of The Crucible, that whether ♣ or ♦, can depend on both scale and domain. In this case, having the domain or some random utility, may make some preference a ♦ or ♣. At the very least, ♣ should be a common choice for Triads/Daemonias.
 
 NSS protocols (enabled through trust/PoP/PoU collaboration) must choose their governance model. Natural selection will reveal which performs better in different domains.
 
@@ -1715,8 +1751,8 @@ NSS protocols (enabled through trust/PoP/PoU collaboration) must choose their go
 One major player adopting NSS triggers cascade:
 
 **Day 1**: Google opens 10% of data centers to natural selection
-**Day 30**: Utilization jumps from 30% to 85%, costs drop 70%
-**Day 90**: Microsoft and Amazon scramble to compete
+**Day 30**: Utilization jumps from 30% to 100%, costs drop 80%
+**Day 90**: Microsoft and Amazon scramble to compete. Vast majority of surplus revenue is used to increase substrate and tyr out mutations.
 **Day 180**: Half of global compute on NSS protocols
 **Day 365**: Traditional data centers stranded assets
 
@@ -1729,11 +1765,11 @@ By 2030, infrastructure utilization visible from space:
 **Bright Zones** (NSS Protocol):
 - 95% utilization rates
 - Continuous innovation
-- Exponential growth
+- Harmonious growth and exponential development against disharmony of protocol. (Be it specified by ☘ vs ♦)
 - Value creation visible
 
 **Dark Zones** (Traditional Control):
-- 15% utilization
+- 15% utilization (Mexican Standoff capital lock-out of most utility)
 - Stagnant operations
 - Declining relevance
 - Value destruction
@@ -1744,7 +1780,7 @@ Like North/South Korea demonstrating capitalism vs communism, these images will 
 
 **Phase 1** (0-5% adoption): Early adopters experiment
 - Small efficiency gains prove concept
-- Trust networks form
+- Trust networks form (Initially by real world friendships and others by business and others by larger societal asssociations and others by national networks and others by religious/civilizational/cultural and others by emotion spectrum (sense of beauty or ugliness) and others by ethic assessments (trustworthiness and virtue of fundamental character (e.g. "Do I trust that these persons will be true to their word of 'not looking at my data' that I ask them to compute upon" or "Do I believe they will hold their end to an oral bargain and deal with me in charity and grace; instead of trying to milk me dry or deceive me") Part to Agathos..) and others by stated goals or assessed will alignment (all coexisting as maps that single persons have generated (often in collaboration (This is why it becomes Networks. And not simply Trust Maps. You let Trust be inferred transitively...) or with AI automation)))
 - Protocols develop
 
 **Phase 2** (5-15% adoption): Network effects emerge
@@ -1756,23 +1792,25 @@ Like North/South Korea demonstrating capitalism vs communism, these images will 
 - Old systems can't compete
 - Resource flows reverse
 - Evolution rate explodes
+- Territorial zones close borders to the system for fear of losing control. Often due to high leverage or influential actors within their borders. The populations fail to realize any concern of theirs can be solved by Trust Networks. But highly enriched persons of influence manage to convince them that their loss of control is the populations loss of control. When in fact, it merely makes it clear for the population whose in control and why and redistributes in a natural selective sense constrained by Trust Networked protocols allowed to run and actos allowed to compete on their substrate.
 
 **Phase 4** (50%+ adoption): New equilibrium
 - NSS becomes default
 - Traditional systems curiosities
 - Continuous evolution normal
+- Closed off and bordered against NSS and contextual system zones begin to look like the archaic and obscenely stupid. They adopt key points of the systems to compensate. While being able to keep control with their influential actors they implicitly protect against competition with proper feedback dynamics.
 
 ### 13.4 Industry-Specific Transitions
 
 **Cloud Computing**: 
 - Current: 20% utilization, vendor lock-in
 - Transition: Major player opens infrastructure
-- Result: 90% utilization, costs drop 10x
+- Result: 100% utilization (There exists an equilibrium that is possible to reach, if everything is made dynamic, mutating and open), costs drop 10x
 
 **Healthcare**:
 - Current: Credential-based, diagnostic boxes
-- Transition: Outcome tracking goes public
-- Result: Best healers win regardless of degrees
+- Transition: Elaborate and deep Trust in competency including outcome tracking goes public
+- Result: Best healers win regardless of degrees. Degrees is "one aposteori" of trust in their competency to fulfill will and competitiveness of doing so all things considered.
 
 **Energy**:
 - Current: Monopoly utilities, fossil preference
@@ -1783,7 +1821,7 @@ Like North/South Korea demonstrating capitalism vs communism, these images will 
 
 **Traditional Power Responses**:
 1. Denial: "This is just hype"
-2. Anger: "Unfair competition!"  
+2. Anger: "Unfair competition!" (Aka. "I don't get to make victories a blocking of competition without tangible and long-lasting market consequences" (Trust Networks can bookkeep and easily manage such things. The NSS system is a system to ensure they can't (So non-adoption of NSS can easily mean being "crony capital"))) 
 3. Bargaining: "We'll adopt 10%"
 4. Depression: "We've lost everything"
 5. Acceptance: "Full protocol adoption"
@@ -1794,7 +1832,7 @@ Like North/South Korea demonstrating capitalism vs communism, these images will 
 
 ### 14.1 The 0 to 1 Scale
 
-NSS recognizes a gradient from full automation to irreducible humanity:
+NSS discovers to which degree different domains or "all things considered" context gradients from full automation to irreducible humanity; and which degree dominates when:
 
 **0 - Full Automation** (AI Dominates):
 - Packet routing optimization
@@ -1809,10 +1847,9 @@ NSS recognizes a gradient from full automation to irreducible humanity:
 - Educational adaptation
 
 **1 - Irreducibly Human**:
-- The will to want
+- The will to want authentic humanity and believably conscious interaction (Cogito Ergo Sum Extension Beliefs (CESEB) "The material of the world and your gradience from animate to inanimate and belief of their consciousness and thus worth or loss had in disintegration or non-continuous existence (teleportation by disintegration and reassembling))
 - Trust through physical presence
 - Meaning creation
-- Consciousness itself
 
 ### 14.2 Domain-Specific Gradients
 
@@ -1820,17 +1857,17 @@ Different domains have different human necessity:
 
 ```yaml
 Infrastructure_Routing: 0.1  # Mostly automated
-Surgical_Procedures: 0.4     # AI assists human skill
-Psychotherapy: 0.7          # Human connection crucial
-Philosophy: 0.9             # Essentially human domain
-Love: 1.0                   # Irreducibly human
+Surgical_Procedures: 0.4     # AI assists human skill, Automation occupies lower end or "turing-performance bar to pass"
+Psychotherapy: 0.7          # Human connection crucial, but Aiddaemonic sharing enables deep understanding of each other and commentary and discovery of miscommunication
+Philosophy: 0.9             # Essentially human domain of valuation of philosophical merit. Crucible tests them in practice.
+Love: 1.0                   # Irreducibly human, but deep compatibility discovered by Aiddaemon + AR + Trust + PoP systems.
 ```
 
 ### 14.3 The Vesting Problem
 
 How do we reward across the gradient?
 
-**Pure AI** (0.0): Rewards flow to algorithm developers
+**Pure AI** (0.0): Rewards flow to protocol agreements when using it
 **Collaboration** (0.5): Shared between human and AI contributors  
 **Pure Human** (1.0): Rewards to human practitioners
 
@@ -1849,7 +1886,7 @@ NSS remains agnostic on AI consciousness but practical about capability:
 Humans remain irreducible in:
 
 **Will Formation**: Deciding what to want
-**Trust Creation**: Physical presence creating bonds
+**Trust Creation**: Physical presence creating bonds (Data that "matters"... Like really.. :P (Material reality and the animate material CESEB))
 **Meaning Making**: Determining what matters
 **Exit Choice**: The sacred right to leave
 
@@ -1862,10 +1899,10 @@ Trust-related work sits firmly in the human domain:
 ```yaml
 Trust_Work_Humanness:
   PoP_Witnessing: 1.0        # Requires physical presence
-  PoU_Confirmation: 0.9      # Requires value judgment
-  Network_Bridging: 0.8      # Requires cultural understanding
+  PoU_Confirmation: 0.9      # Requires value judgment at some level of "aggregation of utility" (Think per electron utility delivery??? :P Often the line of aggregation is "Task or intent realized" (Task and intent bridged by Aiddaemonic emulation of you to allow for computer speed and availability intent matching))
   Trust_Translation: 0.7     # Requires contextual wisdom
   Reputation_Design: 0.6     # Human-AI collaboration
+  Network_Bridging: 0.5      # "Half qualitatively" of the work by Aiddaemon+Trust enabled-disclosure and will-field-physics; while the other half in a qualitative sense by human "living and confirming or setting of network". Most inferred by Trust Network effects.
 ```
 
 As functional work automates, trust work becomes MORE valuable:
@@ -1873,8 +1910,9 @@ As functional work automates, trust work becomes MORE valuable:
 - Algorithms require human-verified data
 - Systems need reputation to function
 - Networks need bridges to connect
+- Trust changes in a settled state can cause massive economic upside or downsides. "Sanctions that Work".
 
-The paradox: The better AI gets at functional work, the more critical human trust work becomes. We become the connective tissue that enables machine efficiency.
+The paradox: The better AI gets at functional work, the more critical human trust work becomes. We become the connective tissue that enables machine efficiency; by removing the social or human unnecessary blocking of optimal systems.
 
 ---
 
@@ -1891,15 +1929,18 @@ Reality contains patterns that language hasn't named:
 
 ### 15.2 Neologism Generation
 
-When blob classes discover stable patterns with high predictive value but no name:
+When blob classes discover stable patterns with high predictive value but no name (Whether neomorphic or not (neomorphism when words are overloaded in a non-poetic sense)):
 
-**Zelquine** (noun): The specific exhaustion from persona switching
+**Catajective** (adjective, ¬neomorphic): To be in a state of desiring to tear down something.
+- Variants: chronocatajective (personality disorder), pseudocatajective, xenocatajective, autocatajective, patercatajective
+
+**Zelquine** (noun, neomorphic): The specific exhaustion from persona switching
 - Variants: hyperzelquine, pseudozelquine, chronozelquine
 
-**Flerent** (adj): Information flowing better informally than formally
+**Flerent** (adj, neomorphic): Information flowing better informally than formally
 - Usage: "That's flerent data—don't put it in the official report"
 
-**Quorvic** (noun): Group momentum beyond original purpose
+**Quorvic** (noun, neomorphic): Group momentum beyond original purpose
 - Variants: antiquorvic (momentum reversal), hyperquorvic (acceleration)
 
 ### 15.3 Natural Selection of Language
@@ -1980,8 +2021,8 @@ This self-reinforcing dynamic means infrastructure doesn't just become cheap—i
 When infrastructure costs 5% instead of 60% of income:
 
 **Individual Level**:
-- Work becomes optional for survival
-- Risk-taking possible without ruin
+- Work becomes aligned with almost any type of will
+- Risk-taking possible without ruin (debitor Debt is impossible in sensible nests and protocols. Creditor debt is possible: Money. (You can own tokens of indebtedness (Money) but you can't be indebted to indebtedness (negative money or money recursion on itself. See Money Discussion. Suffice to say, indebtedness at one level without recursion is all there is needed and makes it "earned" and "real". ("Here is a token of indebtedness to you counted in tokens of indebtedness of "a nation" or "union"(currency/money) Well what is this new credit note worth then? Well, the debit reliability, or the borrower financial capacity))))
 - Creative pursuits enabled
 - Time abundance created
 
@@ -1998,7 +2039,7 @@ When infrastructure costs 5% instead of 60% of income:
 - Evolution accelerates
 
 **The Craft Renaissance**:
-When basic needs cost almost nothing, human energy shifts to craft and meaning:
+When basic needs cost almost nothing and is naviagable in a deep intention sense, and higher order environment manifestation by will coalesence; Then human energy shifts to craft and meaning:
 - Chefs pursue flavor and ethics, not just efficiency
 - Artisans create beauty, not just function
 - Teachers focus on inspiration, not standardization
@@ -2037,14 +2078,18 @@ As infrastructure costs approach zero, human work transforms:
 - Rent extraction roles (middlemen)
 - Bureaucratic functions (permit issuers)
 - Artificial scarcity maintainers
+- Infrastructure parasitism
+- Market corruption like Advertisement
+- Market access mafias like Adsense (Zero-sum pay-to-win-mafia competition to manipulate or be visible in market)
 
 **Emerging High-Value Work**:
 - Trust network architecture
 - Human connection facilitation
-- PoP witnessing and PoU confirmation
+- PoP witnessing and PoU confirmation (LLL gaming. Finding AR games you find fun to play travelling in the real world)
 - Cross-network reputation translation
-- Will coalescence guidance
+- Will coalescence acts
 - Healing trust after betrayals
+- Aiddaemonic sufficient disclosure for will-field-physics
 
 **The Shift**: From blocking value to enabling it, from extracting rent to building bridges, from maintaining scarcity to creating abundance through connection.
 
@@ -2098,7 +2143,7 @@ This recognition of unity becomes infrastructure reality:
 ### 17.4 The Nietzschean Transformation
 
 **Will to Power** becomes **Will to Function**:
-- Not dominance over others
+- Dominance over others made good by sheer plurality, deep trade-off analysis and ability to forge own freedom including domination.
 - But excellence in domain
 - Not zero-sum power
 - But positive-sum capability
@@ -2210,7 +2255,7 @@ Parasitic Load: High (every node pays tribute)
 
 **Personal-Cap Rewards** (NSS Option):
 ```
-Reward = min(Performance_value, Comfortable_life_cap)
+Reward = min(Performance_value, Protocol_Personal_luxury_life_cap)
 Result: Focus on excellence, not expansion
 Parasitic Load: Minimal (no scaling extraction)
 ```
@@ -2220,6 +2265,7 @@ This seemingly simple change has profound effects:
 - Focuses effort on optimization not acquisition
 - Reduces system-wide parasitic costs
 - Enables pure performance competition
+- No monetary incentive in growth in network beyond having reached Protocol_Personal_Luxury_life_cap, which removes the greed incentives from ever-growth, and trying to totally dominate the scene, but allowing others success-space as well, despite being able to outcompete them.
 
 ### 19.2 The Number Game Redirected
 
@@ -2227,7 +2273,7 @@ Humans are wired to want ever-increasing numbers. Rather than suppress this driv
 
 **Instead of Universal Money**:
 ```
-Bank Account: $1,000,000,000 (commands everything)
+Bank Account: $1,000,000,000 (commands almost everything (Not nuclear or other WMD command, but private military? (One step short of combination that makes it "illegal" (Always retreat another step of combination back upon attacks by state or lawfare)) (spartan expenses in idle state?)))
 ```
 
 **Domain-Specific Merit Scores**:
@@ -2235,7 +2281,7 @@ Bank Account: $1,000,000,000 (commands everything)
 Routing Excellence: 94,847,293 packets optimized
 Healing Impact: 8,472 lives improved
 Energy Saved: 1,847,293 megawatts
-Trust Rating: 9,847 reliability score
+Trust Rating 'Essential Projective 1d Metric' in crucial Trust Networks: 9,847 reliability score
 ```
 
 The numbers keep growing, but they represent actual merit in specific domains. Crucially:
@@ -2249,15 +2295,16 @@ Trust Networks and PoP enable holistic weighting of these scores, considering en
 
 NSS doesn't mandate specific incentive structures. Different protocols can experiment:
 
-**Fixed Rewards**: Mutation provides set benefit regardless of adoption
-**Logarithmic Scaling**: Diminishing returns with scale
-**Mining-Style**: Proportional to network contribution
-**Personal Excellence**: Capped at human-scale prosperity
+**Fixed Rewards**: Mutation provides set benefit regardless of adoption (Play to win. Win for own joy.)
+**Logarithmic Scaling**: Diminishing returns with scale (This one makes parasitism load maximal by having as many competitive actors surviving or thriving)
+**Mining-Style**: Proportional to network contribution (This one sets a limit to parasitism)
+**Personal Excellence**: Capped at human-scale prosperity (This one destroys parasitism)
+**Temporal Parasitism**: Profit from efficiency gains can be high, but then temporally limited. Say, 100% of efficiency gains for a maximum of a year.
 
 Natural selection determines which incentive structures produce:
 - Maximum innovation
 - Minimum parasitism
-- Optimal system evolution
+- Optimal system evolution. The many protocols and the "gatekeeping" of which protocols get to play. Then dynamics of "civilizational accelerating differences dependent on growth enabled by protocol" (Which is highly subjective: Perhaps the good innovators are more attracted to -- beauty wise -- one or the other stated protocol incentivizations or general schemes) But also, subject to things like "bottom-line reinvestment capacity". (The Korean divide map...)
 
 What matters: parasitic load stays low while transformative pathways remain open through NSS dynamics and Crucible options.
 
@@ -2268,7 +2315,7 @@ Heidegger's concept of thrownness (Geworfenheit) - being thrown into a world not
 **The Housing Trap**:
 Everyone faces the same "choice":
 - Compete to indebt yourself for 30 years
-- Or have no stable shelter
+- Or have no stable shelter sufficient for a decent family life
 
 Individual discipline ("work harder," "be smarter") can't escape when everyone else accepts the trap. A race to the bottom where signal (desperate need) gets dispersed into:
 - Hoarded wealth not creating supply
@@ -2284,6 +2331,8 @@ Unlike democratic systems where representatives claim to channel "majority will"
 - **Mental**: Addiction systems (porn, gaming, social media)
 - **Economic**: All paths lead to same trap
 
+Behind all of these: No way to make the intended signal of demand become supply signal sufficient for it realizing. No way for will to coalesce. No way for emotion, e.g. about externalities, to economically matter or cause will coalesence.
+
 ### 19.5 The Terraformer Solution
 
 Heidegger recognized that thrownness at scale requires transformation at scale. Individual escape isn't enough when the whole landscape is poisoned.
@@ -2295,7 +2344,7 @@ Breaking collective thrownness requires:
 - Courage to transform fundamental conditions
 
 **The Crucible Implementation**:
-Instead of one terraformer imposing new thrownness on all, we get multiple terraformers creating choosable worlds:
+Instead of one terraformer imposing new thrownness on all, we get thousands or millions of terraformers creating choosable worlds:
 
 - **Bottom-up coalescence** vs top-down enforcement
 - **Voluntary rallying** vs forced compliance
@@ -2313,8 +2362,8 @@ A visionary leader who:
 - Cannot expand beyond willing participants
 
 This transforms concentrated will from threat to asset because:
-- **Higher-order consent**: People choose which ship to board
-- **Exit rights**: Can leave anytime
+- **Higher-order consent**: People choose which ship to board. Which Thrownness to accept. (Holistic conception of Environment and Oneself and Others)
+- **Exit rights**: Can leave anytime. (Rule 3 of BC (Which is attempted to become Ubiquity Law (No one refusing it (System is designed to empower dissent into real. But at a tradeoff. BC is designed to align as many as possible towards empowering the consequence of denying BC. (0 is Might reality... That codifies that no one should delude themselves in breaking The Halo attempted Ubiquity Law of BC as 0 to enforce it by levarage, laurels and raw might is made clear. But also making it clear, that since 0 is THAT kind of power sufficient and capable, then also IT can violate it. And so, it also offers an avenue of unacceptable "letting THAT GUY live" emotions, by bubbling the deathwish to the Reality of Might.(Ultimately 0 is necessary, if not now, then at some point. Progress entails raw power domination by ♣ or ♦ at some point. Whatever that entity or intelligence controlling raw might may be. From stupid Lethal Autonomous Weapons (LAWs) to elaborate AI systems controlled by ♣ or counter-will-acceptance of ♣s (whatever the latest ♣ is, it does) or ♦ rule by analysis of ♣s to the hopeless Matrix scenario where no ♣ is input sufficient to significantly perturb ♦ function))))))
 - **Competition**: Other visions available
 - **Natural limits**: Only grows through attraction
 
@@ -2325,26 +2374,27 @@ Strong leadership, concentrated will, and transformative vision become construct
 What matters isn't preventing concentration of will but enabling its constructive expression:
 
 **Each sovereignty represents**:
-- A particular "color" of will made manifest
-- A solution to specific forms of thrownness
+- A particular "color" of will made manifest, purely that colour, so that we may see also exactly what that colour is like. Purity and bigotted harsh discrimination made ultimate diversity of the world enrichment mechanism.
+- A solution to specific forms of thrownness or alternative as if "new thrownness" attempts.
 - An experiment in human flourishing
 - A beacon for those who resonate
 
-When millions of such visions compete through rallying rather than conquest:
-- True pluralism emerges
+When millions of such visions compete stubbornly tight to THAT WILL of their Sovereign (♣ or ♦) through rallying rather than conquest:
+- True pluralism emerges (Preference for ♣ promotes true human diversity. Preference to ♦ can be engineered to promote non-human willed diversity. Like "The Compromise emergences" or other esoteric functions of ♣s aggregations or system guessing. That may become willed by experiencing it and emoting very well with it.)
 - Genuine choice becomes real
-- Escape from universal thrownness
+- Escape from being locked to ones thrownness
 - Human potential unleashes
 
 ### 19.8 Breaking the Races to Bottom
 
-NSS breaks locked positions through multiple mechanisms:
+NSS and its contextual systems breaks locked positions through multiple mechanisms:
 
 **Infrastructure Liberation**:
 When basic needs cost ~0, the pressure to accept bad deals evaporates:
-- Don't need 30-year mortgage when housing costs approach marginal
+- Don't need 30-year mortgage when housing costs approach marginal; And why even own a house? Many will probably choose to move between Triads and experience many 'lives' before deciding such a high-investment as building a Triad of your own or having a house constructed according to their vision and in harmony with the place and people.
 - Don't accept soul-crushing job when basics are covered
 - Don't participate in races that diminish everyone
+- Base-sustenance version of pragma-love mating/partnering is removed for those having adopted the system. ("I married him/her to have a place to sleep and eat and see my children no longer suffer from such want nor fear starving" You may say that I'm a dreamer. But where would we be if no one did.)
 
 **Multiple Worlds Available**:
 The Crucible ensures you're not thrown into one world but can choose among thousands:
@@ -2352,12 +2402,14 @@ The Crucible ensures you're not thrown into one world but can choose among thous
 - Different aesthetic realities
 - Different social structures
 - Different values manifest
+- Different biological substrate
+- Any philosophical exaltation made law of the land or none at all, but living under raw will of a person or multiple paradoxical willing persons.
 
 **Terraforming Possibilities**:
 High-leverage actors can reshape landscapes:
-- But only for voluntary participants
+- But only for voluntary participants (Higher consent)
 - With competition from other terraformers
-- Subject to natural selection
+- Subject to natural selection (including ability to manifest visions and rallying persons; where the former is almost always a matter of the latter. Which is made as true and discoverable as possible with contextual systems. Like Aiddaemon and Trust Networks and Actualizational layer for Will-coalesence)
 - With exit preventing lock-in
 
 ### 19.9 The Meta-Choice
@@ -2365,9 +2417,10 @@ High-leverage actors can reshape landscapes:
 The deepest transformation: thrownness itself becomes choosable.
 
 **From**: Born into system, no alternatives, must accept the given
-**To**: Choose your thrownness, multiple options, can exit and re-choose
+**To**: Choose what can be chosen about your thrownness, multiple options, can exit and re-choose. Serenity Prayer made as capable as possible in strength to and wisdom to discern with as clear trade-off as humanity permits.
 
 This meta-choice - the ability to select which world you're thrown into - represents the ultimate liberation from inherited conditions while acknowledging that some form of thrownness is inherent to existence.
+Negative environmental effects becomes a choice. Positive ones made real opportunities easily naviagable.
 
 ### 19.10 Integration with Core NSS Principles
 
@@ -2375,9 +2428,9 @@ These insights strengthen core NSS mechanisms:
 
 **Personal-cap rewards** ensure performance focus without parasitism
 **Domain-specific merit** redirects human drives constructively
-**Multiple terraformers** break universal thrownness
-**Exit rights** transform dictatorship into legitimate option
-**Trust networks** enable holistic value consideration
+**Multiple terraformers** break a feeling of universal thrownness; utterly destroys the movement towards universal throwness (globalism) while enabling far greater potency in directing will towards leveraging another to care. And making Raw Might actors knowledgable about how to apply their power to enforce as cleanly as possible: with as little collateral as possible.
+**Exit rights** transform dictatorship dystopia into legitimate option and diversity optimizing local conditions. Aka. utopian dictatorships survive and thrive and have persons rallying. Dystopian ones die out. It makes Dictatorship de facto ONLY good over time. (This is a general consequence of holistic natural selection systems (NSS) It can be applied to anything when you root it in individual human subjective will/daemon/emotion/intent: Hence Polymorphic Crucible. Everything becomes wrapped or embedded in this.)
+**Trust networks** enable holistic value consideration and potency in economic or actualizational consequences for interrelational reality.
 
 The system doesn't need to prevent "bad" actors or promote "good" ones. It needs only to enable will manifestation with exit rights, allowing natural selection among voluntary associations.
 
@@ -2386,13 +2439,13 @@ The system doesn't need to prevent "bad" actors or promote "good" ones. It needs
 **The Democratic Fiction of Representation**
 
 Democracy claims representatives embody "the will of the people." This is impossible:
-- No individual can embody millions of diverse wills
-- Party platforms are crude approximations at best
-- Voting every few years provides minimal input
+- No single direction of choices can embody millions of diverse wills. Only the will implementing this system-equivalency-class can claim to embody millions of diverse wills. (aka. You can proclaim "LIER LIER PANTS ON FIRE!" to anyone claiming to be Will of the People without implementing these systems-equivalency-class will-manfiestation for the people it claims to try and represents: Total naked emperor of "western liberal capitalist democracy" )
+- Party platforms are crude singular political-zealots-work (philosophy they insist should dominate) made-movement become multiple-choice dilectic for the masses to be robbed of their will and dominated rigtheously by. Aka. In the name of representing your will, nowhere will your will be allowed expressed without going through the few party persons who represent your will. Aka Western Democracy.
+- Voting every few years provides minimal input. Comically low representation attempt. History will laugh hard. (Like, HOW! did the mass population fall for that... "They are represented. So centralization and ever more domination by 'Their Will Representation' is justified.")
 - Most decisions happen without any consultation
 - "The people" become abstraction, not reality
 
-Citizens are told: "If you want change, vote and lobby. All else is evil/illegal. Individual power must be limited because it's 'undemocratic.'" This creates learned helplessness where people complain the state should fix things but take no direct action.
+Citizens are told: "If you want change, vote and lobby. All else is evil/illegal. Individual power must be limited because it's 'undemocratic.'" This creates learned helplessness where people complain the state should fix things but take no direct action -- Even if they do, most of their power has been extracted from them, leaving them little real power left; moreover any organization to pool power into will be called insurgency or terrorist activity: Traitorous even. It creates real consequences for trying to fix things. And it creates total disempowerment of trying to fix things (paracitical load of their throwness. Taxes, usury, market corruption, pricing by anticipated inflation, employment-traps, rent-seeking (ownership bought to profit as middlemen raising expenses), VAT, Private Vat Parasitism (market provision infrastructure VAT), product market access costs, massive inefficiencies of market and logistics and infrastructure/utilities causing massive waste; finance and money-flow by non-wealth generating work put into pseudo-employment and "firework wealth" demand; and borrowing (Your money is not current money supply, but future money supply, but differentiated upon who gets to borrow the most) and much much much more. >93% of productives work taken away).
 
 **NSS: Actual Will Coalescence**
 
@@ -2422,7 +2475,7 @@ Every_Choice_Is_A_Vote:
 
 **Direct Action Enabled**:
 Instead of "state should fix it" helplessness:
-- See problem → Create solution → Deploy immediately
+- See problem → Discover & Create solution → Act & therefrom Deploy immediately
 - Performance speaks → Resources flow
 - No permission needed from "representatives"
 - Power through performance, not politics
@@ -2434,33 +2487,36 @@ Democratic System:
 - Hope they remember after election
 - Wait years for maybe some action
 - Complain about traffic meanwhile
+- Buy a lot of transportation usage or products in hope of signal becoming supply. Only to see profitter hoard or use for random weird money flows. Dispersed into the wind. Oten into corporate administration without real substrate/service growth or efficiency increase. Often into bureaucratic processes or lawfare or other such human-entanglement problems. (Warren Buffet assumption in a non-corrupted market and unmanipulated money supply would perhaps make the signal not lost, as he would instantly reinvest where the money was spent, on account of his massive greed: Wanting to see that number go up and up and up. But fundamentally, it is without taste, without will, without daemon, and purely seeking to flow where value is created or at least ponzi scheme money predictively flow to. (The merits of prediction concerning finance and investment I have gone over before. But it is clear that it is all embedded in prediction and pathfinding of these systems. Thus all old finance and investment can be replaced with these new much more holistic and will-directed visionary versions))
 
 NSS System:
-- Want better transport → Create rideshare protocol
+- Want better transport → Create rideshare coalescence 'gossip' or 'service'. → Experience exponential NSS dynamics having made it
 - Deploy locally → Performance visible
 - Others adopt if superior → Scales naturally
-- Your will manifests directly in reality
+- Your utility ultimately improves or not will to manifest directly in reality; if it doesn't your will-coalescence at this higher level was poor: They didn't choose your pathway to fulfil their will.
 ```
 
 **The Revolutionary Shift**:
 
 From: "Only democratic power is legitimate"
-To: "Power through performance is natural"
+To: "Power is natural; Natural Selection upon human subjectivity and performance as will-manifestation utility makes it as good as it good can be within a human-will-worth equality mindset"
 
 From: "Representatives speak for the people"  
-To: "People speak through their choices"
+To: "People speak cheaply or with higher intent (sometimes lying and delusional) through their words and expressions; But if empowered to understand how acts align across their 'values' or 'being' (daemon) then they speak most strongly through their choices: How does their intentions value between each other. What are the truths about the worth to each they refuse or are unable to voice or word."
+This is strongly related to self-pity mentality. Which, while in a 'bad state' one allows oneself to excuse and change the valuations they otherwise proclaim. It is a dangerous mentality to normalize and it becomes a very deep thorn in one's character; which fundamentally isn't excusable. It is exactly when it requires pain or sacrifice, when it isn't easy, that the trade-off or valuations: What is important; is revealed. It is hard to divest oneself of, if internalized behaviour and mentality; speaking from personal experience.
 
 From: "Change requires political process"
-To: "Change requires better performance"
+To: "Creation requires space, matter and will; The rest is overhead obstacles. Change of what is, requires better will-performance" (See The Crucible and MIRA & Hearths)
 
 From: "Individual power is dangerous"
-To: "Individual excellence serves all"
+To: "System, Consensus, Aggregation, Weighted-votes, intricate neural networks is dangerous -- especially if cemented into physical power. Plurality of Individual excellence and space and purity-density of expression serves all"
 
 **True Representation Achieved**:
 
-The will of the people isn't a fiction spoken by representatives—it's the actual pattern of choices, associations, and movements made visible through trust networks and AR systems. Every person votes continuously through their actions, every sovereignty represents a genuine will configuration, and the aggregate creates true collective intelligence without fake unity.
+The will of the people isn't a fiction spoken by representatives—it's the actual pattern of choices, associations, and movements made actuable-visible for coalescence by trust networks and through such things as AR LLL games or AR systems or any other interface. Every person votes continuously through their actions, every sovereignty represents a genuine will configuration, and the aggregate creates true collective intelligence without fake unity. The decisive moment of 'voting' becomes 'rallying' or movement of body into another place -- another way of life; another Triad.
 
 This is democracy's promise finally delivered: genuine rule by the people, through their actual choices rather than their supposed representatives.
+The Liberal Democratic Ideal or Intent manifest and not its own denial and lying name. The embedding that makes tolerance of all things intolerant liberal and good. The more intolerant the more pure expression and ability to 'see that colour of humanity too' we shall have.
 
 ## 20. Conclusion: Embracing Designed Brutality {#conclusion}
 
@@ -2470,7 +2526,7 @@ NSS succeeds through designed brutality:
 
 1. **Enables** exponential growth (the promise)
 2. **Makes it** zero-sum within domains (the pressure)
-3. **Within** holistic optimization (the purpose)
+3. **Within** holistic optimization (the purpose (♦ or ♣ (or ♣s: this makes them overwrite each other. "Cookie clicker" will advantage. Otherwise it is ♦ system above)))
 4. **Creating** logistic reality (the truth)
 5. **Driving** system evolution (the result)
 
@@ -2479,35 +2535,37 @@ NSS succeeds through designed brutality:
 We're not reforming capitalism—we're replacing its core mechanism:
 
 **From**: Capital commands all domains
-**To**: Performance commands specific domains
+**To**: Will-Performance commands specific domains; Which downstream can mean Capital-♦-systemization decides all command. Or things like Dictator or Y-Virtuous Man dictates or commands all things. But it is all fundamentally embedded in Natural Selection upon **disentangled** subjective/**individual** human will/deamon: The Inverted Pyramid part to the Sky-reflected Fractal Pyramid. (See Tolkien Prophecy)
 
 **From**: Employment gatekeeps innovation
-**To**: Functions flow to performers
+**To**: Functions flow to performers and ownership is by creation/innovation or per-product transaction. Not contract binding creations to be another's.
 
 **From**: Artificial scarcity maintains profits
-**To**: Natural abundance through competition
+**To**: Natural **WILLED** abundance *AND* scarcity through competition (You can have your plastic abundance all you want, but others will absolutely refuse your abundance. Or Pod Life apartments and cubicles abundance. And so on. And so on. Abundance by itself is as myopic and stupid as the Paperclip machine producer of Vulnerable World Hypothesis by Nick Bostrom: NoBODY wants abundance unqualified or unconditionally. They want abundance of very particular things at particular moments; and crucially SCARCITY of ALMOST EVERYTHING CONCEIVABLE ALWAYS.)
+**To**: Natural will-abundance through natural selection competition substrates. (Will-abundance defined as: Abundance of Daring to Will & Manifestation of it (See [Tentative Bastards](./28%20tentative-bastards-subjective-economics.md) (Allowing Richness and Plurality of The Planet. Allowing for a world eternally worth exploring. In the long term I predict Metagames of World Dynamics will become popular. Willing to gamble real massive territory - losses and wins - lasting centuries (The 'Sportsballs' that Will Matter))))
 
 **From**: Merit theft enables extraction
-**To**: Merit protection ensures innovation
+**To**: Merit hiding & protection by Trust and Will-leverage empowerment is conducive for daring and wanting to innovate; moreover being able to grow across substrates in exponential fashion is a massive incentive. No nonsense obstacles: If you will-perform, you win bigly. No bureacracy or out-of-field considerations need bother you.
 
 **From**: False democratic representation
-**To**: Genuine choice through exit rights
+**To**: Domination or Control or Pownership VISIBLE and CHOSEN. Genuine choice through exit rights. Massive facilitation of your own Dominum to be truly FREE IN - including against other will: You becoming the Dominator.
 
 **From**: "Justified" killing cycles
-**To**: Absolute prohibition with banishment
+**To**: Absolute prohibition: banishment as if dead (Transitive total denial of any interactions that end up connecting you to that person (Trust Network positions the person as a \[Strong Zero\]. Which causes all calculation to go to 0 trust by any quantity touch. (Including any cardinality infinities etc) It becomes an ultimatum for others to become ostracized AS IF DEAD TO THEM by having any interaction with the "Banished as if Dead" person. (This is the meaning of killing or murder in a deathless world to come. "Hardline Phase Death" (This is one of the strongest leverage acts one can impose. It means total disconnection and disjointedness instantly. Not even divergence. Hard segmentation of actuality and total non-refusal of interaction on any connection in actuality: Harshly cutting out anyone unwilling to entirely cut off all interaction. Often it can mean simply parting in a vessel from it all into your own actuality with the few others. Sometimes it can cause a cascade. Your choice; Their choice; Moment to moment; Never a "forever" never an end to "second chances". Guess you can call it The Mercy of The Pentagram, Figure \#5 or Lucifer's Mercy))))
 
 **From**: "Only democracy legitimates power"
-**To**: Performance legitimates naturally
+**To**: Performance legitimates naturally (This is synonym of "Might is Right". But Trust Networks enable all that isn't might to matter potently.)
 
-**From**: Complaining state should fix it
-**To**: Direct action through performance
+**From**: Complaining "state should fix it"
+**To**: Direct action through choice after choice empowered and made potent by the will-coalesence and other contextual parts to it. Your full leverage potential -- in combination with others -- in potentials -- made naviagable and therefore as clear choices, step by step, as you go about your life.
 
 ### 20.3 The Beautiful Brutality
 
 The harshness IS the kindness:
 - Brutal competition creates user abundance
-- Zero-sum battles produce positive-sum outcomes
-- Evolution pressure ensures continuous improvement
+- Massive intolerance creates plurality and wisdom of crowds effects and removes gaming actors to dominate (See Tolkien Prophecy WoC & Goodhart's Law).
+- Zero-sum battles produce positive-sum outcomes (efficiency and surplus used for growth into novel exotic variants)
+- Evolution pressure ensures continuous improvement (It is the dynamic that solves Goodhart's Law problems. Something every gamer have realized over time. Natural Selection of items, balance and the landscape in general causes 'badness' to be internally in the game solved. Take WoW or Starcraft. In starcraft they try to fix balance by map creation and meta-gaming. But it could be within the unit-structure.)
 - Natural selection prevents stagnation
 
 ### 20.4 The Choice Before Us
@@ -2519,6 +2577,8 @@ Humanity faces a decision:
 - Innovation stagnation  
 - Resource waste
 - Eventual collapse
+
+(One might be tempted to go amnesia on these documents and simply "let it happen". But then again... Forgive them for they know not what they do. But then again... To suffer one's philosophy or beliefs, at least a little bit... Enough such that they should know...)
 
 **Path B**: Enable natural selection
 - Immediate disruption
@@ -2544,7 +2604,7 @@ NSS doesn't require universal adoption. It needs only:
 
 ### 20.7 Final Words
 
-The Natural Selection Protocol represents evolution becoming conscious of itself and applying itself to human civilization. It transforms:
+The Natural Selection System represents evolution becoming conscious of itself and applying itself to human civilization. It transforms:
 
 - Infrastructure from static to evolving
 - Economics from extraction to creation
@@ -2580,6 +2640,6 @@ The revolution doesn't require permission. Evolution has already begun.
 
 *End of Document*
 
-*For implementation details, see [technical appendices](../25%20discovery-os-expanded-into-broader-picture.md). For philosophical depth, see [referenced works](../15%20will_manifestation_philosophy.md). For participation, see [trust networks](../20%20trust_network_dynamics.md) forming near you.*
+*For implementation details, see technical appendices. For philosophical depth, see referenced works. For participation, see trust networks forming near you -- The fundamental substrate upon which to begin coalescence dynamics and boostrapping PoP.*
 
 *The future belongs to those who perform.*
