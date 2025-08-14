@@ -1,0 +1,1 @@
+Generate a document that is self-containing -- such that a person with no information can grasp what is meant -- containing all insights in this conversation.
