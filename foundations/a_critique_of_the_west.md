@@ -235,6 +235,9 @@ The old systems don't need defeating. They need exposing. Trust networks do this
 
 Pandora's Box isn't opened through argument but through building. Build the alternative, make it visible, let people choose. The parasites starve when the host stops feeding them.
 
+### Surveillence
+To instantly have all your merit collected into massive machinery that can massify it without credit. Paperclip operation brought to full fruition: 'AI' (LLM/Diffusion/LearningFromData Regurgitation) with Surveilence. Lumen baby! 
+
 ---
 
 *This appendix contains direct critiques usually softened in public documents. For measured discussion of market inefficiencies and political representation, see main documentation. For solutions, see Trust Networks and Will Manifestation Infrastructure.*
