@@ -139,7 +139,8 @@ Between any two economic actors, the rate may depend on:
 - The world gains a thousand flowers instead of uniform beige
 
 ### VII. Practical Implementation
-
+*A stage for the intermediary phase where $€¥ is still king - while you're no longer entirely blind to the holistic cost in relation to furthering or diminishing your many intents or will.*
+Here is presented an attempt at applying some of the foundations for more intelligent application of the wealth one has; to maximize the holistic impact of your dollar.
 **Technical Architecture:**
 
 ```
@@ -163,8 +164,8 @@ Transaction {
 **Social Dynamics:**
 
 1. **Onboarding:** Start with neutral rates, quickly learn preferences
-2. **Discovery:** Tools to find high-value exchange partners
-3. **Clustering:** Natural economic incentives create value-aligned communities
+2. **Discovery:** Tools to find high-value exchange partners; Or money spending demand/command chains that result in the opposite of one's will. It isn't only the product externality, but the chain of spending that results from it. Say, you pay for a product with less waste in the manufacturing, but the money spent will be passed into the hands of persons who then buy a lot of things that produce way more waste or perhaps even litter themselves in massive quantities from it. Or giving money to teenage boys to finance the industry that has brought high-performance modern computers about: Gaming. And so on. This is yet another example of why we do not talk about 'categories' but instead raw prediction that uses feature space (which is categorical to some degree). We do not care if a product has externalities that are a lot better, if the prediction is worse than the one who is a lot worse. Which can be caused by such things as the chain of command/demand/spending. Actuality baby! Transitivity. (Note: It will be a lot easier when (mult)aiddaemon, Trust Networks and PoP is running, because real investigation can be had at every junction - at every step of the way. You simply talk to your aiddaemon and through Trust networks and multaiddaemons 'answers' can be had to whatever question you have, with that 'whole context' of what you cared about considered. (See [31 Aiddaemonic Semantic Bridging](./31.%20aiddaemonic-semantic-bridging.md)))
+3. **Clustering:** Natural economic incentives create value-aligned communities; This is a soft-version of consequences of Will-economics (It becomes tautological when you write it thusly: Natural will-economic incentives create value-aligned communities. Or daemon-economics too.)
 4. **Border Protocols:** Formal exchanges for necessary cross-cluster trade
 
 ### VIII. The World That Could Be
@@ -176,32 +177,38 @@ Transaction {
 - **Mystics** whose currency carries spiritual weight in their communities
 - **Warriors** whose coins embody honor in their circles
 
+There is an interesting case to be made, that most money is hoarded and not in active circulation. This causes everything to be 'cheap' to those who have hoarded, but during a massive spending spree, then everything would get massively inflated prices. The same thing can be argued in terms of "your currency" in relation to others. Or "your will-aligned actors" in relation to others. Also, remember conspiracies are always absurd and tinfoiled lunacy 'theories'. Whether they are or not, they will be 'bona fide' 'A-OK' soon and everyone are expected to have 'conspiracies' to maximize their will manifestation: In context of system means will-..what? Even world-conquest conspiracies will be 'bona fide' and dealt with in leverage, actuality disjointness, Metagames of World Dynamics (MoWD) and MIRA (See [Might With Right](./29.%20cause-and-effect-might-with-right.md)).
+
 **No More:**
-- Tentative Bastards in positions of cultural power
-- Dilution of fierce vision for mass appeal
-- Gray compromise as the price of participation
-- Lost genius trapped in wrong contexts
+- Tentative Bastards as the 'safe and moral option'; and especially when leading the many through positions of cultural power
+- Dilution of fierce vision for mass appeal: "How do we change what we want, or at least say, such that we can appeal to more 'voters' or 'consumers' or 'sought after migrants'". Instead, do "What EXACTLY is it *i* want?! Every step of the way I will, will, exactly that.": That is 'leadership' in the new context. As it provides plurality. Of course, you'll find compromise still from time to time, but try not to. Argue instead: "No, if it does not suit you, that is what the grander scheme is for. So, go! Go and be on your way to a new place, or make your own". And if you really like the others, then consider forking or sharding.
+- Gray compromise as the price of participation; "Play nicely! Do what the average non-existant or else most manipulative or else parliamentary mode or else popular population mode or else persuasive persons want!": "No. Now, we can all get our own houses/dominum of domination: To be free within. To be The Will within. Not only 'you' dominum of 'gray compromise' (whatever that actually is)".
+- Bursting at the seams with will and ideas to manifest but being trapped in domination of [insert whatever context of domination or occupancy you can't escape; justifications/rituals you have to do to 'exist' or 'will' on your own (Like 'a job to get money to pay for ................. such that you can exist and do'; Cause and Effect without human will-against and systems or whatever else that dominates where no escape exists)] "wrong contexts".
 
 **Instead:**
-- Every true color expressed fully somewhere
-- Economic incentive for authentic expression
-- Natural sorting by deepest values
+- Every true color expressed fully somewhere; Somewhere in combination with this other colour; Or those other colours; And in any pattern of mixing and so on. (Human Will at the center. Vision and dreaming. Dream World. Nightmare World. It all depends if you LLL or Global Outlook. If you actively look at that which hurts you. Your polarities. Then yes you will find the world a nightmare, because many persons will what you hate or what would be a nightmare to you; Or even to know of its existence. You tell me the alternative. (See [Cause and Effect Might With Right](./29.%20cause-and-effect-might-with-right.md)))
+- Economic incentive for authentic expression (Which reasons for it? Altruistic? Plurality Richness? Will-disentanglement? Thriving of X causes X's fruit more easily acquirable? NSS Diversity Preference? Catastrophe prevention 'Diversity in Novel Solution Attempts' Preference (The existence of 'also that kind of place' corrected for catastrophe causing effects of its existence)? Other reasons?)
+- Natural sorting by deepest values (Natural sorting by will-economics in what you choose to preference or make matter. Sorting of conviction with intent in one decisive act and proclamation by rallying to- or creation of- Daemonia/Triad.)
 - Efficiency through alignment, not force
 
 ### IX. The Philosophical Victory
 
 **Money Becomes Moral:**
-Every transaction is a vote. Every exchange rate is a declaration. Every wallet is a manifesto.
+Every transaction is a 'vote' (Cause for effects upon the world). Every exchange rate is a declaration. Every wallet is a manifesto.
 
 **The Tentative Bastard Paradox Resolved:**
 They get exactly what they want — safety, compromise, mediocrity — but only with each other. They no longer have the power to dilute the fierce, because the fierce have opted into different economies entirely.
 
 **True Diversity Emerges:**
-Not the false diversity of everyone forced to tolerate everyone, but the true diversity of thousand different ways of being, each expressed fully in its own domain.
+*Not the false diversity of everyone forced to tolerate everyone, but the true diversity of thousand different ways of being, each expressed fully in its own domain.*
 
-### X. Conclusion: The Colored World
+### X. Conclusion: The United States of Whatever Colour World 
 
-The current system rewards Tentative Bastards because it treats all value as equivalent. Subjective coin valuation reveals the lie: **value is personal, moral, aesthetic.**
+Tentative Bastards not only prevent others, but also rob the world of what they - themselves - could have expressed: Whatever colour that may have been.
+
+The current system rewards Tentative Bastards because it is stuck in a self-righteous, self-sacralizing and eternally-consecrated framework of its own salvating effect upon the world since WWI and WII: The end of war (non-sense cold war proxy wars and disruption ever since (Much worse than colonialism of many European Countries (Not all at all times))) and 'liberation of everyone by fierce domination of all dissidents to ensure the liberation'. 
+
+It treats all value as equivalent. Subjective coin valuation reveals the lie: **value is personal, moral, aesthetic and recursive in its effect.**
 
 When money itself becomes expressive of values, when exchange rates encode trust and alignment, when economic clustering follows moral sympathies — then we get a world where:
 
