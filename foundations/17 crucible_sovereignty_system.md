@@ -47,7 +47,7 @@
 There aren't really any rules other than: Natural Selection is the point. But a nice functional viewpoint could be the following:
 1. Nesting: One inherits the laws from above. It makes routing easy amongst other gradient or continuity things.
 2. Forking: Splitting of nest top on dichotomization of some Law aspect. Often in this form: Takes top node with Law X. Splits X into X Triad-Nest and ¬X/without-X-in-routing Triad-Nest or anti-X Triad-Nest and so on. Then creates a new top Node without X in the name. Then provides new nestings below of difference. This includes X in terms of any element of Triad. Sovereign, Halo(Law etc. Routing information is condensed version of it including its contextual pragmatics of having nested) or substrate persons.
-3. Sharding: The splitting of a Triad into several Triads of the same Triad copy structure. Sometimes done in Space, sometimes done with new sovereign for each, sometimes done with exclusion or non-overlapping substrate.
+3. Sharding: The splitting of a Triad into several Triads of the same Triad copy structure. Sometimes done in Space, sometimes done with new sovereign for each, sometimes done with exclusion or non-overlapping substrate. (Routing - except persons - stay the same; mirror worlds in philosophy and intent and belief and aesthetics and so on. Some persons excluded or only some persons included.)
 - Lower levels inherit all laws from above
 - Can add restrictions, never subtract
 - Can fork interpretations
