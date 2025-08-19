@@ -197,7 +197,7 @@ There is an interesting case to be made, that most money is hoarded and not in a
 Every transaction is a 'vote' (Cause for effects upon the world). Every exchange rate is a declaration. Every wallet is a manifesto.
 
 **The Tentative Bastard Paradox Resolved:**
-They get exactly what they want — safety, compromise, mediocrity — but only with each other. They no longer have the power to dilute the fierce, because the fierce have opted into different economies entirely.
+They get exactly what they want — safety, compromise, conformity — but only with each other. They no longer have the power to dilute the fierce, because the fierce have opted into different economies entirely.
 
 **True Diversity Emerges:**
 *Not the false diversity of everyone forced to tolerate everyone, but the true diversity of thousand different ways of being, each expressed fully in its own domain.*
@@ -206,18 +206,18 @@ They get exactly what they want — safety, compromise, mediocrity — but only 
 
 Tentative Bastards not only prevent others, but also rob the world of what they - themselves - could have expressed: Whatever colour that may have been.
 
-The current system rewards Tentative Bastards because it is stuck in a self-righteous, self-sacralizing and eternally-consecrated framework of its own salvating effect upon the world since WWI and WII: The end of war (non-sense cold war proxy wars and disruption ever since (Much worse than colonialism of many European Countries (Not all at all times))) and 'liberation of everyone by fierce domination of all dissidents to ensure the liberation'. 
+The current system rewards Tentative Bastards because it is stuck in a self-righteous, self-sacralizing and eternally-consecrated framework of its own salvating effect upon the world since WWI and WII: The end of war (non-sense cold war proxy wars and disruption ever since (Much worse than colonialism of many European Countries (Not all at all times))) and 'liberation of everyone by fierce domination of all dissidents to ensure the liberation' and prosperity (Which is a due merit; By see [Collapse of Civ](./collapse/civ_collapse_appendix.md): The upside of instant massification of merit is obviously that the many get to benefit very quickly from any merit. It is short term versus long term effects. You could conceivably have both: By doing [Magic is Right](./66.%20magic-is-right.md)). 
 
 It treats all value as equivalent. Subjective coin valuation reveals the lie: **value is personal, moral, aesthetic and recursive in its effect.**
 
 When money itself becomes expressive of values, when exchange rates encode trust and alignment, when economic clustering follows moral sympathies — then we get a world where:
 
 - Every fierce vision finds its home
-- Every pure color shines undiluted  
+- Every pure color shines undiluted
 - Every authentic expression discovers its resonant audience
 - Every Tentative Bastard finds their appropriately gray corner
 
-The inefficiency isn't in the sorting. The inefficiency is in the current forced mixing. Let the colors separate. Let them shine. Let the world become as varied as the souls who inhabit it.
+The inefficiency isn't in the sorting. The inefficiency is in the current forced- or low-dimensional- mixing (usually economics and some 'neighbourhood and house sense'). Let the colors separate. Let them shine. Let the world become as varied as the souls who inhabit it.
 
 ---
 

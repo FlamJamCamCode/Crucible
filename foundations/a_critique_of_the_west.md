@@ -238,6 +238,11 @@ Pandora's Box isn't opened through argument but through building. Build the alte
 ### Surveillence
 To instantly have all your merit collected into massive machinery that can massify it without credit. Paperclip operation brought to full fruition: 'AI' (LLM/Diffusion/LearningFromData Regurgitation) with Surveilence. Lumen baby! 
 
+### Mercenaries
+The west runs on the premise that 'honest endeavour' is becoming a mercenary that maximizes his own profits. Whatever pays. If it doesn't: Don't expect any work done. No fire. No dignity. No vision. No quest. Only money with pride and disdain for those that refuse.
+
+
+
 ---
 
 *This appendix contains direct critiques usually softened in public documents. For measured discussion of market inefficiencies and political representation, see main documentation. For solutions, see Trust Networks and Will Manifestation Infrastructure.*
