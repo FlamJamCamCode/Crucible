@@ -36,10 +36,10 @@
 Symbols in sovereignty notation serve as **navigational data** - they tell you what laws, cultures, and requirements you'll encounter. They're not abstract rights but concrete realities:
 
 **Number Functions (Examples):**
-- **5**: Cultivation requirements (mandatory education/training)
-- **6**: Lumen obligations (transparency/surveillance level)
+- **5**: Biological Requirements (Only this Human-Kind is allowed) - "Kind of Human requirements". Biological exclusionism or inclusionism (Black or white list)
+- **6**: Lumen rules (Only these kinds of power-sharing is allowed. What may be shared is enforced)
 - **7**: Creed exclusivity (ONLY this belief system allowed)
-- **8**: Punishment severity (how violations are handled)
+- **8**: Punishment severity (Not ONLY Banishment as punishment is used. How violations are handled)
 
 **Symbol Combinations:**
 - **7☪**: Islamic creed exclusivity
@@ -119,6 +119,84 @@ When wills conflict within a nest, sovereigns must choose their methodology:
 - Create spaces for borderline cases (rehabilitative segmentation)
 - Pragmatic approach: "Dangerous out, confused to corners"
 - Clear enemies expelled, unclear given space
+
+### Flow Direction Examples from Sacred Sexual Transcendence
+
+**1234..↑..♦..↑..4321** - Double Banishment
+- They do dissent by removal of that which is non-normative in their will mesh, system or sovereign
+- They do banishment of "bad end", to allow for nest ascent, erring on side against "fish swimming against the river"
+- Where you banish and move persons from their "bad place" and also forcefully to their "better place"
+- This lets nothing be. And cuts and moves as it sees fit
+
+**1234..↓..♦..↑..4321** - Segment then Banish  
+- They nest-segmentation or branching to protect
+- But banishment to make ascent -- higher will alignment densities
+- Mixed approach: "Stay apart, or leave entirely"
+- Tolerates difference at edges, not at center
+
+**1234..↓..♦..↓..4321** - Pure Segmentation
+- Segmentation or branching both as shield and as sword
+- No banishment. Only cutting a place right in two
+- To Protect (offer safe space) and to allow for ascent
+- It is the "non-conflict" version. Where you never forcefully remove another
+- You simply "make another place". Cut what was considered one into two
+
+### Banishment on Ascent: The Cordial Outside
+
+**Critical Insight**: Will-divergence during ascent doesn't necessarily create discord. Sometimes the most loving act is to recognize when someone's path leads "outside" the current nest - not as punishment, but as natural evolution.
+
+**The Cordial Banishment**:
+- Recognition that different ascent paths require different environments
+- Mutual understanding that separation serves both parties' growth
+- "Outside" positioning as expansion, not exile
+- Cooperation across boundaries rather than conflict within them
+
+**Example: The Sharding of the Digital Nomad Collective**
+
+```
+Original Nest: 2#38129: 1234↓♥♦♠↓4321
+  †: "Efficient harmony of coordinated wills"
+  ⸸: "Chaos of unprocessed impulses"
+  Method: Creates sub-zones for different optimization styles
+
+Ascent Divergence: Two distinct optimization paths emerge:
+- Path A: "Deep work requires isolation and minimal coordination"
+- Path B: "Collaboration requires constant connection and shared protocols"
+
+Cordial Resolution: Sharding, not conflict
+```
+
+**The Sharding Process**:
+1. **Recognition**: Both paths are valid ascent strategies
+2. **Negotiation**: "Your optimization requires different infrastructure than ours"
+3. **Cooperation**: "We'll maintain trade routes and shared protocols"
+4. **Separation**: Each creates their optimal environment
+5. **Ongoing Relationship**: Regular exchange of insights and resources
+
+**Result**: Two sovereign nests with different methodologies but maintained cooperation:
+
+```
+2#38129A: 1234↓♥♣♠↓4321 (Isolation-Focused)
+  †: "Deep work sanctuaries in digital wilderness"
+  ⸸: "Constant interruption and shallow coordination"
+  Method: Minimal protocols, maximum individual sovereignty
+
+2#38129B: 1234↓♠♦♠↓4321 (Collaboration-Focused)  
+  †: "Seamless coordination across distributed teams"
+  ⸸: "Fragmented communication and missed connections"
+  Method: Rich protocols, optimized for group dynamics
+```
+
+**The Key Insight**: This wasn't banishment as punishment, but banishment as **architectural necessity**. Each group's ascent required different environmental conditions. The "outside" positioning was:
+- **Cordial**: "We love what you're becoming, but it needs different space"
+- **Cooperative**: "Let's maintain bridges while we diverge"
+- **Evolutionary**: "Your path enriches the whole ecosystem"
+
+**Contrast with Discordant Banishment**:
+- Discordant: "You're wrong, get out" (↑..X..↑)
+- Cordial: "You're right for a different place, let's build bridges" (↓..X..↓ with ongoing cooperation)
+
+This demonstrates how will-divergence can create "outside" positioning that serves ascent for all parties, not just the remaining nest.
 
 ### Example Sovereignty Notation
 
