@@ -1,0 +1,14 @@
+{
+	"id": "technical-builder",
+	"name": "Technical Builder",
+	"description": "Start with architecture and concrete systems, then see governance mechanics.",
+	"steps": [
+		{ "path": "system share/foundations/3 technical_architecture.md" },
+		{ "path": "system share/foundations/8 computational_utility_networks.md" },
+		{ "path": "system share/foundations/21 ar_phase_engine_specs.md" },
+		{ "path": "system share/foundations/17 crucible_sovereignty_system.md" },
+		{ "path": "system share/historical-entries/new-world-genesis-gpt5.md" }
+	]
+}
+
+

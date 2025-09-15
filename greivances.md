@@ -1,0 +1,284 @@
+# What not to do. Greivances of the past. Versus visions of the future and proclaiming your livable or necessary needs
+
+## Historical grievances (selected excerpts with source)
+- system share/foundations/32. neo-colon-nicety.md:
+  - "Any place. Any sort of progress happens ever. Total biological holocaust and destruction by insertion of equality memes on biological human life lines."
+  - Mentions: apartheid, historical displacement, betrayal, enslavement, massacres.
+- system share/foundations/32. neo-colon.md:
+  - References to apartheid outcomes and historical castration/enslavement tropes; grievance over civilizational decline and conquest cycles.
+- conversations/Sacred_Sexual_Transcendence.md:
+  - "attempts to run civilizations on family values (♥) create genocide" — reflection on historical cycles of extremism and mass violence.
+- old-dump/chatgpt delirium talks/fantastical-lived-world-utility-providers-facilitators-coalescors.md:
+  - Notes "historical grievances" tied to oppression/repression via territorial disputes.
+
+## Current grievances (selected excerpts with source)
+- system share/foundations/17 crucible_sovereignty_system.md:
+  - "Democratic Tyranny" — 51% domination; repression/abandonment dynamics.
+- system share/foundations/28 Metagame of World Dynamics.md:
+  - Call for structured grievance resolution instead of repression/capitulation.
+- system share/foundations/32. neo-colonialism.md:
+  - Repeated concerns about tyranny, displacement, parasitism, and failure modes; references to famine, unnecessary deaths, prisons/work-camps debates.
+- system share/foundations/32.ai neo-colonialism.md:
+  - Mirrors above with emphasis on exit guarantees, non-targeting of non-combatants, and basic floors.
+- system share/foundations/32. neo-colon-nicety.md / 32. neo-colon.md:
+  - Ongoing grievances: censorship/authoritarian moves, social contract breaches, expropriation, violence, calls of genocide/enslavement, community safety failures.
+
+## Contemporary grievance sentiments (individual → civilizational)
+- **Individual**
+  - **Cost of living/housing**: "Rent’s up 40%, pay hasn’t moved. I can’t stay in my city."
+  - **Healthcare/medical debt**: "I did everything right and one ER visit bankrupted me."
+  - **Safety vs over‑policing**: "I don’t feel safe" / "I’m treated like a suspect for existing."
+  - **Discrimination/harassment**: "I’m passed over and mocked because of who I am."
+  - **Mental health/burnout/loneliness**: "Work consumes me; I’m isolated and exhausted."
+  - **Digital surveillance/shadowbans**: "I’m watched, tracked, and throttled without recourse."
+  - **Misinformation/algorithms**: "You can’t tell what’s true; outrage rules."
+- **Community and workplace**
+  - **Housing, NIMBY–YIMBY**: "We need homes, not endless delays and lawsuits."
+  - **Schools/culture wars**: "My kids are pawns in ideological battles."
+  - **Precarious work/gig/AI displacement**: "No benefits; a model just replaced me."
+  - **RTO vs remote**: "Forced back for optics, not productivity."
+  - **Unionizing vs union‑busting**: "We’re fired for organizing, while profits soar."
+  - **Public services decay**: "Transit’s unreliable, streets crumble, outages drag on."
+- **City and national**
+  - **Corruption/capture**: "Politicians answer to donors, not voters."
+  - **Immigration/migration**: "Systems overwhelmed" / "People treated as disposable."
+  - **Crime/justice**: "Streets feel unsafe" / "Carceral state ruins lives."
+  - **Policing reform/morale**: "Accountability now" / "We’re vilified for doing the job."
+  - **Tax/fairness**: "The richest pay less" / "Middle class squeezed dry."
+  - **Inflation/energy costs**: "Everything costs more; wages don’t keep up."
+  - **Speech/censorship**: "Silenced on platforms" / "Harassment runs rampant."
+  - **Elections/legitimacy**: "My vote doesn’t count; maps are rigged."
+  - **Indigenous rights/land back**: "Promises without restitution."
+  - **Environmental justice**: "Toxic air and water in poor neighborhoods."
+- **Global and civilizational**
+  - **Wars/atrocities/double standards**: "Civilians pay; rules apply selectively."
+  - **Climate crisis/loss & damage**: "We didn’t cause it, but we drown and burn."
+  - **Platform monopolies/AI/data colonialism**: "Our data fuels empires; we get risk."
+  - **Supply chains/exploitation**: "Cheap goods hide coerced labor."
+  - **Pandemic aftershocks/trust**: "Institutions contradict themselves; trust is broken."
+  - **Border crises/trafficking**: "Families trapped between hunger and razor wire."
+  - **Food security/debt traps**: "We choose between default and starvation."
+  - **Authoritarianism/surveillance**: "Dissent equals prison; the internet is a cage."
+  - **Cultural homogenization/language loss**: "Our stories are replaced by feeds."
+  - **Resource extraction/e‑waste/deep‑sea mining**: "Short‑term profit, long‑term ruin."
+
+## Control-and-Force Methods (status-quo responses map)
+- Grievance: Cost of living / housing unaffordability
+  - Perceived antagonist: Speculators, restrictive zoning, absentee landlords, stagnant wages, utility monopolies
+  - Acceptable conditions and Vision While Free From: Block‑level consent for gentle density; by‑right ADUs; community land trusts and limited‑equity co‑ops; transparent, capped move‑in fees; utility co‑ops to cut bills; rent‑to‑own pathways; local permit fast‑lanes for code‑compliant small units; neighborhood escrow funds to prevent displacement.
+- Grievance: Healthcare costs and medical debt
+  - Perceived antagonist: Hospital billing practices, insurers, PBMs, opaque pricing
+  - Acceptable conditions and Vision While Free From: Community clinic cooperative with posted cash prices; direct primary care guild; local medical‑debt buyback fund; employer micro‑benefit pools; pharmacy co‑op with transparent formularies; hardship caps and mediation before collections.
+- Grievance: Safety vs over‑policing
+  - Perceived antagonist: Abusive officers, slow response, indiscriminate enforcement
+  - Acceptable conditions and Vision While Free From: Neighborhood safety cooperative for non‑violent calls; clear, consented policing charter; body‑cam transparency with community ombuds; street lighting/CPTED upgrades; restorative justice circles; crisis teams for mental health; opt‑in patrol coverage aligned to resident preferences.
+- Grievance: Discrimination and harassment
+  - Perceived antagonist: Biased managers, gatekeepers, hostile peers
+  - Acceptable conditions and Vision While Free From: Third‑space codes of conduct; independent ombuds and anonymous reporting; rapid, neutral arbitration; skills‑based hiring panels; mentorship commons; safe‑workplace certification visible at entrances.
+- Grievance: Mental health, burnout, loneliness
+  - Perceived antagonist: Overwork norms, isolation, lack of care access
+  - Acceptable conditions and Vision While Free From: Flexible‑hours compacts; neighborhood peer‑support clubs; low‑cost counseling co‑ops; time‑banking for care; shared community kitchens and workshops; quiet rooms in public spaces.
+- Grievance: Digital surveillance and shadowbans
+  - Perceived antagonist: Platforms, data brokers, opaque moderation
+  - Acceptable conditions and Vision While Free From: Local federated servers with transparent moderation charters; community mesh/wi‑fi with privacy defaults; public privacy clinics; data co‑op to manage opt‑outs and permissions.
+- Grievance: Misinformation and algorithmic manipulation
+  - Perceived antagonist: Engagement algorithms, low‑trust media
+  - Acceptable conditions and Vision While Free From: Community fact‑check circles with source libraries; weekly plural‑media salons; neighborhood newsletters with editorial standards; public "evidence board" kiosks linking to primary sources.
+- Grievance: Housing conflicts (NIMBY–YIMBY)
+  - Perceived antagonist: Blanket obstruction, thoughtless upzoning
+  - Acceptable conditions and Vision While Free From: Street‑scale design charrettes; form‑based codes; pre‑approved pattern books; by‑petition build‑by‑right ADUs; impact‑fee schedules reinvested on the same block.
+- Grievance: Schools and culture wars
+  - Perceived antagonist: Centralized mandates, ideological capture
+  - Acceptable conditions and Vision While Free From: Plural microschools and charters sharing facilities; transparent curricula menus; opt‑in tracks; parent councils with real authority; baseline safety and literacy floors for all.
+- Grievance: Precarious work, gig risks, AI displacement
+  - Perceived antagonist: Employer monopsony, platforms, automation without transition
+  - Acceptable conditions and Vision While Free From: Worker co‑ops; community makerspaces; portable benefits via city wallet; upskilling labs; AI tools library; local procurement that favors employee‑owned firms.
+- Grievance: RTO vs remote mandates
+  - Perceived antagonist: Optics‑driven mandates, inflexible management
+  - Acceptable conditions and Vision While Free From: Hybrid scheduling commons; employer‑funded coworking passes; neighborhood third‑spaces; outcome‑based performance compacts.
+- Grievance: Unionizing vs union‑busting
+  - Perceived antagonist: Retaliation, captive‑audience tactics
+  - Acceptable conditions and Vision While Free From: Neutrality agreements; card‑check where lawful; worker councils in firms >10 staff; community arbitration panel for first‑contract impasses.
+- Grievance: Public services decay
+  - Perceived antagonist: Deferred maintenance, opaque agencies
+  - Acceptable conditions and Vision While Free From: Adopt‑a‑stop/park programs; civic maintenance days; open infrastructure dashboards; micro‑utilities for last‑mile reliability; service‑level compacts with escalation paths.
+- Grievance: Corruption and regulatory capture
+  - Perceived antagonist: Donor influence, insider contracting
+  - Acceptable conditions and Vision While Free From: Participatory budgeting cells; public conflict‑of‑interest registry; open procurement marketplaces; community audit nights; rotation/term limits for boards and commissions.
+- Grievance: Immigration and migration strains or exclusions
+  - Perceived antagonist: Overwhelmed systems / exclusionary gatekeeping
+  - Acceptable conditions and Vision While Free From: Local integration office; language exchanges; rapid credentialing clinics; host‑family networks; capacity dashboards; voluntary resettlement support to matched neighborhoods; safety and wage floors for all residents.
+- Grievance: Crime and justice
+  - Perceived antagonist: Predation, impunity / overcriminalization
+  - Acceptable conditions and Vision While Free From: Lighting and CPTED; youth clubs and apprenticeships; on‑demand treatment for addiction; restorative justice with victim choice; swift, proportionate handling of repeat nuisances.
+- Grievance: Policing reform and morale
+  - Perceived antagonist: Lack of accountability / blanket vilification
+  - Acceptable conditions and Vision While Free From: Co‑produced policing charters; early‑warning and coaching systems; wellness and training funds; civilian review with binding remedies; neighborhood liaisons.
+- Grievance: Taxes and fairness
+  - Perceived antagonist: Regressive burdens, loopholes
+  - Acceptable conditions and Vision While Free From: Sliding‑scale local fees; property‑tax circuit breakers; land‑value capture funding local dividends; transparent benefit statements tied to addresses.
+- Grievance: Inflation and energy costs
+  - Perceived antagonist: Price shocks, energy pass‑throughs
+  - Acceptable conditions and Vision While Free From: Community solar; bulk‑buy heat‑pump programs; food co‑ops; price transparency boards; emergency utility relief fund.
+- Grievance: Speech and censorship
+  - Perceived antagonist: Platform bans / harassment mobs
+  - Acceptable conditions and Vision While Free From: Civil commons with clear safety floors and plural speech venues; federated forums with due‑process moderation; offline townhalls; anti‑harassment rapid response.
+- Grievance: Elections and legitimacy
+  - Perceived antagonist: Gerrymanders, opaque counts
+  - Acceptable conditions and Vision While Free From: Precinct‑level risk‑limiting audits; hand‑count checks; open source reporting; non‑partisan local districting; inclusive debates and voter info kiosks.
+- Grievance: Indigenous rights and land back
+  - Perceived antagonist: Dispossession, exclusion from governance
+  - Acceptable conditions and Vision While Free From: Co‑managed land trusts; voluntary land‑return incentives; cultural access corridors; dual‑language signage; shared revenue from local land‑value gains.
+- Grievance: Environmental justice
+  - Perceived antagonist: Toxic siting in poor areas
+  - Acceptable conditions and Vision While Free From: Neighborhood air and water sensors; emission caps with local triggers; industrial buffers; relocation assistance by choice; tree‑equity campaigns and cooling corridors.
+- Grievance: Wars, atrocities, double standards
+  - Perceived antagonist: Distant powers, selective enforcement
+  - Acceptable conditions and Vision While Free From: Sister‑city diplomacy hubs; refugee sponsor pipelines; conscientious‑objector aid; ceasefire advocacy forums; trauma services for arrivals.
+- Grievance: Climate crisis, loss & damage
+  - Perceived antagonist: High emitters, slow transitions
+  - Acceptable conditions and Vision While Free From: Cooling centers; floodproofing and rain gardens; distributed storage and microgrids; neighborhood heat‑health checks; local resilience corps.
+- Grievance: Platform monopolies, AI, data colonialism
+  - Perceived antagonist: Big tech enclosure of data and compute
+  - Acceptable conditions and Vision While Free From: Data cooperatives; municipal cloud and OSS civic stack; community AI commons cluster; procurement preference for interoperable, portable systems.
+- Grievance: Supply chains and labor exploitation
+  - Perceived antagonist: Race‑to‑the‑bottom sourcing
+  - Acceptable conditions and Vision While Free From: Local fair‑trade certification; buyer co‑ops with transparent supplier ledgers; reshoring maker alliances; living‑wage import pools.
+- Grievance: Pandemic aftershocks and trust
+  - Perceived antagonist: Inconsistent institutions, poor comms
+  - Acceptable conditions and Vision While Free From: Local stockpiles; pop‑up testing; pre‑agreed comms protocols; community volunteer corps; public dashboards with error‑logging.
+- Grievance: Border crises and trafficking
+  - Perceived antagonist: Smugglers, chaotic enforcement
+  - Acceptable conditions and Vision While Free From: Survivor services and safe houses; vetted work pathways; legal aid kiosks; cross‑border family tracing; neighborhood liaison teams.
+- Grievance: Food security and debt traps
+  - Perceived antagonist: Price spikes, predatory lending
+  - Acceptable conditions and Vision While Free From: Community gardens and CSAs; staple‑food co‑ops; debt clinic with legal aid; microcredit co‑ops; school meal guarantees.
+- Grievance: Authoritarianism and surveillance
+  - Perceived antagonist: Security states, mass monitoring
+  - Acceptable conditions and Vision While Free From: Library privacy programs; E2EE clinics; legal defense pooling; civic spaces with no‑ID entry; community journalism funds.
+- Grievance: Cultural homogenization and language loss
+  - Perceived antagonist: Globalized feeds displacing local culture
+  - Acceptable conditions and Vision While Free From: Language classes; cultural centers; local arts funds; frequent street festivals; indie media grants.
+- Grievance: Resource extraction, e‑waste, deep‑sea mining
+  - Perceived antagonist: Externalized costs, throwaway design
+  - Acceptable conditions and Vision While Free From: Repair cafés; right‑to‑repair ordinances; e‑waste drives; tool libraries; circular procurement for public agencies.
+
+## FREE FROM with YOUR VISION and ACCEPTABLE conditions (local, non-extractive)
+- Cost of living / housing unaffordability
+  - Separation needed: Live within neighborhoods where housing approvals are local/by-right up to a gentle density; avoid landlord monopolies via CLTs/co-ops; local utility co-ops; block-level price transparency.
+  - Actions while free from the other: Form land trusts and co-ops; adopt pattern books; set up permit fast-lanes; create escrow anti-displacement funds.
+- Healthcare costs and medical debt
+  - Separation needed: Access to clinics with transparent posted prices and direct care; community debt relief separate from hospital collectors.
+  - Actions while free from the other: Found a DPC guild; pharmacy co-op; hardship cap fund; mediation charter.
+- Safety vs over‑policing
+  - Separation needed: Clearly scoped, consented policing coverage; community-run response for non-violent issues; ombuds independence.
+  - Actions while free from the other: Draft neighborhood charter; stand up crisis teams; deploy lighting/CPTED; schedule restorative circles.
+- Discrimination and harassment
+  - Separation needed: Work/third spaces with independent ombuds and binding fast arbitration; skills-first hiring.
+  - Actions while free from the other: Post code-of-conduct; create reporting channels; certify spaces; run mentorship commons.
+- Mental health, burnout, loneliness
+  - Separation needed: Flexible time norms; community supports; quiet/public third spaces.
+  - Actions while free from the other: Time-banking; counseling co-ops; shared kitchens/shops; peer groups.
+- Digital surveillance and shadowbans
+  - Separation needed: Federated local servers; mesh with privacy defaults; data permissions under a co-op.
+  - Actions while free from the other: Run federated instances; privacy clinics; data co-op opt-out registry.
+- Misinformation and algorithms
+  - Separation needed: Plural news venues; transparent evidence boards; non-engagement-ranked community channels.
+  - Actions while free from the other: Fact-check circles; plural-media salons; editorial standards.
+- Housing conflicts (NIMBY–YIMBY)
+  - Separation needed: Street-scale design authority with form-based codes.
+  - Actions while free from the other: Charrettes; pre-approved plans; petition-based ADUs; local reinvestment of fees.
+- Schools and culture wars
+  - Separation needed: Plural microschools/charters with parent governance; opt-in tracks.
+  - Actions while free from the other: Facility-sharing compacts; curriculum menus; safety/literacy floors.
+- Precarious work, gig risks, AI displacement
+  - Separation needed: Local labor institutions offering portability and ownership.
+  - Actions while free from the other: Worker co-ops; makerspaces; city wallet; AI library; pro-co-op procurement.
+- RTO vs remote mandates
+  - Separation needed: Outcome-based compacts; access to third spaces.
+  - Actions while free from the other: Hybrid commons; coworking passes; neighborhood hubs.
+- Unionizing vs union-busting
+  - Separation needed: Neutrality zones; worker councils.
+  - Actions while free from the other: Card-check (where lawful); community arbitration.
+- Public services decay
+  - Separation needed: Transparent SLAs and local last-mile micro-utilities.
+  - Actions while free from the other: Adopt-a-stop; maintenance days; open infra dashboards.
+- Corruption and regulatory capture
+  - Separation needed: Insulate local budgets/procurement from donor capture.
+  - Actions while free from the other: PB cells; COI registry; open marketplaces; audit nights.
+- Immigration and migration strains/exclusions
+  - Separation needed: Local capacity management and integration services.
+  - Actions while free from the other: Integration office; credential clinics; host networks; safety/wage floors.
+- Crime and justice
+  - Separation needed: Prevention-first environments; restorative options.
+  - Actions while free from the other: Youth clubs; addiction treatment; swift nuisance handling.
+- Policing reform and morale
+  - Separation needed: Co-produced charters; early-warning and wellness supports.
+  - Actions while free from the other: Review with remedies; liaison programs; training funds.
+- Taxes and fairness
+  - Separation needed: Transparent, place-tied benefits; progressive relief locally.
+  - Actions while free from the other: Circuit breakers; LVT dividends; benefit statements.
+- Inflation and energy costs
+  - Separation needed: Local generation/efficiency and food co-ops.
+  - Actions while free from the other: Community solar; heat-pump bulk buys; food co-ops; price boards.
+- Speech and censorship
+  - Separation needed: Federated forums with due process; offline venues with safety floors.
+  - Actions while free from the other: Civil commons; anti-harassment response; townhalls.
+- Elections and legitimacy
+  - Separation needed: Verifiable precinct processes and fair maps.
+  - Actions while free from the other: RLAs; hand-checks; OSS reporting; non-partisan districting.
+- Indigenous rights and land back
+  - Separation needed: Co-management and cultural access without coercion.
+  - Actions while free from the other: Land trusts; incentives; dual signage; shared LVT gains.
+- Environmental justice
+  - Separation needed: Local monitoring and trigger caps.
+  - Actions while free from the other: Sensors; buffers; relocation by choice; tree equity.
+- Wars, atrocities, double standards
+  - Separation needed: Local humanitarian channels independent of geopolitics.
+  - Actions while free from the other: Sister-city hubs; sponsorship; trauma services.
+- Climate crisis, loss & damage
+  - Separation needed: Neighborhood resilience assets.
+  - Actions while free from the other: Cooling centers; microgrids; rain gardens; heat checks.
+- Platform monopolies, AI, data colonialism
+  - Separation needed: Community control of data/compute.
+  - Actions while free from the other: Data co-ops; municipal cloud; AI commons; interoperability rules.
+- Supply chains and labor exploitation
+  - Separation needed: Transparent, ethical local buyer networks.
+  - Actions while free from the other: Fair-trade labels; buyer co-ops; reshoring alliances.
+- Pandemic aftershocks and trust
+  - Separation needed: Local readiness and honest comms.
+  - Actions while free from the other: Stockpiles; pop-up testing; protocol playbooks; error logs.
+- Border crises and trafficking
+  - Separation needed: Safe local pathways and survivor support.
+  - Actions while free from the other: Safe houses; vetted work; legal kiosks; tracing.
+- Food security and debt traps
+  - Separation needed: Community staples and fair credit.
+  - Actions while free from the other: Gardens/CSAs; staple co-ops; debt clinics; microcredit.
+- Authoritarianism and surveillance
+  - Separation needed: Private civic spaces and encrypted comms.
+  - Actions while free from the other: Library privacy; E2EE clinics; no-ID spaces; legal pooling.
+- Cultural homogenization and language loss
+  - Separation needed: Protected local media and cultural venues.
+  - Actions while free from the other: Classes; cultural centers; arts funds; festivals; indie grants.
+- Resource extraction, e-waste, deep-sea mining
+  - Separation needed: Circular local consumption.
+  - Actions while free from the other: Repair cafés; R2R rules; e-waste drives; tool libraries.
+
+## Visions of the future and proclaimed livable/necessary needs
+- Baselines and floors (from foundations/32.*):
+  - Survival/escape corridors open; guaranteed exit
+  - No deliberate starvation/exposure; shelter, water, basic care exist
+  - Non‑combatants are not targets; no collective punishment for exit/voice
+- Governance/process proposals:
+  - Visible sovereignty; consent with real alternatives and routing clarity
+  - MoWD competitions for grievance resolution; challenger-run subzones
+  - Pilot readiness checklists; failure modes with freeze/fork options
+- Social guarantees and navigation:
+  - Trust networks, ombuds, public contact/complaints channels
+  - Demilitarization vs. security tradeoffs; transparency options
+- Economic/relief aims:
+  - Rapid reduction of famine/unnecessary deaths; routes out of destitution
+  - Work and financing models debated; caution re: prisons/forced labor (explicitly contrasted against gulag/atrocity precedents)
+
+## Notes
+- This document condenses themes explicitly present in your files. For deeper context, see the cited filenames. If you want direct, longer quotes collected under each item, say "expand quotes" and I’ll inline full passages per source.

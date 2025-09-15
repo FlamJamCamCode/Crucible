@@ -1,0 +1,14 @@
+{
+	"id": "skeptic-pragmatist",
+	"name": "Skeptic & Pragmatist",
+	"description": "Show practical wins, risks, and mitigation; then why it’s worth testing.",
+	"steps": [
+		{ "path": "system share/foundations/19 implementation_roadmap.md" },
+		{ "path": "system share/foundations/20 trust_network_dynamics.md" },
+		{ "path": "system share/foundations/24 nss.md" },
+		{ "path": "system share/historical-entries/terraformer-bootstrap-gpt5.md" },
+		{ "path": "system share/historical-entries/neo-colonial-alliance-gpt5.md" }
+	]
+}
+
+

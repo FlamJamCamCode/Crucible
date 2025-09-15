@@ -1,0 +1,13 @@
+{
+	"id": "policy-statesman",
+	"name": "Policy & Statesman",
+	"description": "Geopolitics, legitimacy, and parallel governance—what states need to know.",
+	"steps": [
+		{ "path": "system share/foundations/28 Metagame of World Dynamics.md" },
+		{ "path": "system share/foundations/27. The Sovereign Crucible and the Might Is Right Alliance -- A Framework for Will-Based Civilizations.md" },
+		{ "path": "system share/historical-entries/great-fork-gpt5.md" },
+		{ "path": "system share/historical-entries/new-world-genesis-gpt5.md" }
+	]
+}
+
+

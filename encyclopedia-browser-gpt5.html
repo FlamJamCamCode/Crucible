@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The New World Encyclopedia (GPT-5)</title>
+<style>
+	* { box-sizing: border-box; }
+	body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: #0f172a; color: #e2e8f0; }
+	header { padding: 20px; border-bottom: 1px solid #1f2937; background: #111827; position: sticky; top: 0; z-index: 10; }
+	h1 { margin: 0; font-size: 20px; color: #f8fafc; }
+	.subtitle { color: #94a3b8; font-size: 12px; margin-top: 4px; }
+	.wrap { display: grid; grid-template-columns: 380px 1fr; height: calc(100vh - 82px); }
+	.sidebar { border-right: 1px solid #1f2937; overflow: auto; }
+	.tools { padding: 12px; display: grid; gap: 8px; position: sticky; top: 0; background: #0b1220; z-index: 5; border-bottom: 1px solid #1f2937; }
+	input, select, button { background: #0b1220; color: #e2e8f0; border: 1px solid #334155; padding: 8px 10px; border-radius: 6px; font-size: 13px; }
+	button { cursor: pointer; }
+	button.primary { background: #2563eb; border-color: #2563eb; }
+	button:disabled { opacity: .6; cursor: not-allowed; }
+	.badge { font-size: 11px; color: #94a3b8; }
+	.list { padding: 8px 8px 80px; }
+	.item { padding: 10px; border: 1px solid #1f2937; border-radius: 8px; margin: 8px; background: #0b1220; cursor: pointer; transition: border-color .15s ease; }
+	.item:hover { border-color: #334155; }
+	.title { font-weight: 600; color: #f8fafc; font-size: 14px; }
+	.path { color: #94a3b8; font-size: 12px; margin-top: 4px; word-break: break-all; }
+	.snip { color: #cbd5e1; font-size: 12px; margin-top: 6px; }
+	.main { overflow: auto; }
+	.viewer { padding: 18px; max-width: 1200px; margin: 0 auto; }
+	.viewer .heading { font-size: 18px; font-weight: 700; margin-bottom: 8px; color: #f1f5f9; }
+	.viewer .meta { font-size: 12px; color: #94a3b8; margin-bottom: 14px; }
+	.viewer-content { background: #0b1220; border: 1px solid #1f2937; border-radius: 10px; padding: 18px; overflow-x: auto; }
+	mark { background: #fde68a; color: #0f172a; padding: 0 2px; border-radius: 2px; }
+	footer { padding: 8px 12px; border-top: 1px solid #1f2937; display: flex; gap: 12px; align-items: center; justify-content: space-between; font-size: 12px; color: #94a3b8; }
+	code, pre { background: #0a0f1c; color: #e2e8f0; border-radius: 6px; }
+	pre { padding: 12px; overflow: auto; }
+	blockquote { border-left: 3px solid #334155; margin: 10px 0; padding: 4px 10px; color: #94a3b8; }
+	.viewer-content h1, .viewer-content h2, .viewer-content h3, .viewer-content h4 { color: #f1f5f9; }
+	.viewer-content a { color: #60a5fa; }
+	.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; }
+	.kv { background: #0b1220; border: 1px solid #1f2937; padding: 10px; border-radius: 8px; }
+	.notice { color: #fbbf24; }
+</style>
+</head>
+<body>
+	<header>
+		<h1>The New World Encyclopedia (Public) — GPT-5 Browser</h1>
+		<div class="subtitle">Scope: system share/system share — Full-text search in Markdown/TXT; inline Markdown rendering</div>
+	</header>
+	<div class="wrap">
+		<aside class="sidebar">
+			<div class="tools">
+				<input id="q" type="search" placeholder="Search titles, paths, and content (substring)" />
+				<div class="grid">
+					<select id="typeFilter" title="Filter by type">
+						<option value="all">All types</option>
+						<option value="md">Markdown</option>
+						<option value="txt">Text</option>
+						<option value="html">HTML</option>
+						<option value="pdf">PDF</option>
+					</select>
+					<select id="catFilter" title="Filter by folder">
+						<option value="all">All folders</option>
+					</select>
+				</div>
+				<div class="kv">
+					<div class="badge">Curated Tour</div>
+					<div class="grid">
+						<select id="tourSelect" title="Choose tour">
+							<option value="default">Default tour</option>
+						</select>
+						<button id="tourStart" class="primary">Start</button>
+						<button id="tourPrev">Prev</button>
+						<button id="tourNext">Next</button>
+					</div>
+				</div>
+				<div class="grid">
+					<button id="indexBtn" class="primary">Index content</button>
+					<button id="stopBtn">Stop</button>
+					<button id="exportBtn">Export static bundle</button>
+				</div>
+				<div class="badge" id="stats">0 files | 0 indexed</div>
+				<div class="badge" id="fileWarning"></div>
+			</div>
+			<div id="list" class="list"></div>
+		</aside>
+		<main class="main">
+			<div class="viewer">
+				<div class="heading" id="viewTitle">Select an entry</div>
+				<div class="meta" id="viewMeta"></div>
+				<div class="viewer-content" id="view"></div>
+			</div>
+			<footer>
+				<div>Tip: For full content search when opening this file locally, serve a simple local server (e.g., <span class="notice">python -m http.server</span>) to allow loading file contents.</div>
+			</footer>
+		</main>
+	</div>
+
+	<script>
+	// ---------------- Manifest ----------------
+	// Root HTML location: system share/encyclopedia-browser-gpt5.html
+	// Files live under:   system share/system share/**
+	const files = [
+		// Historical entries (GPT-5)
+		{ path: "system share/historical-entries/new-world-genesis-gpt5.md" },
+		{ path: "system share/historical-entries/terraformer-bootstrap-gpt5.md" },
+		{ path: "system share/historical-entries/neo-colonial-alliance-gpt5.md" },
+		{ path: "system share/historical-entries/great-fork-gpt5.md" },
+		// Historical entries (existing)
+		{ path: "system share/historical-entries/new-world-genesis.md" },
+		{ path: "system share/historical-entries/terraformer-bootstrap.md" },
+		{ path: "system share/historical-entries/neo-colonial-alliance.md" },
+		{ path: "system share/historical-entries/great-fork.md" },
+		{ path: "system share/historical-entries/boostrap-encyclopedia-new-world-genesis-seeds-recipe.txt" },
+		// Foundations
+		{ path: "system share/foundations/1 exec_summary_vision.md" },
+		{ path: "system share/foundations/2 foundational_mechanisms.md" },
+		{ path: "system share/foundations/3 technical_architecture.md" },
+		{ path: "system share/foundations/4 blob_classes_discovery.md" },
+		{ path: "system share/foundations/5 language_evolution_system.md" },
+		{ path: "system share/foundations/6 cohesionnet_use_case.md" },
+		{ path: "system share/foundations/7 health_system_transformation.md" },
+		{ path: "system share/foundations/8 computational_utility_networks.md" },
+		{ path: "system share/foundations/9 electricity_routing_markets.md" },
+		{ path: "system share/foundations/10 water_supply_trust.md" },
+		{ path: "system share/foundations/11 food_systems_revolution.md" },
+		{ path: "system share/foundations/12 will_coalescence_meta_utility.md" },
+		{ path: "system share/foundations/13 markets_value_discovery.md" },
+		{ path: "system share/foundations/14 civilizational_emergence.md" },
+		{ path: "system share/foundations/15 will_manifestation_philosophy.md" },
+		{ path: "system share/foundations/15b_kant_insights_manifesto.md" },
+		{ path: "system share/foundations/16 daemonic_architecture.md" },
+		{ path: "system share/foundations/17 crucible_sovereignty_system.md" },
+		{ path: "system share/foundations/18 vocabulary_concepts_guide.md" },
+		{ path: "system share/foundations/19 implementation_roadmap.md" },
+		{ path: "system share/foundations/20 trust_network_dynamics.md" },
+		{ path: "system share/foundations/21 ar_phase_engine_specs.md" },
+		{ path: "system share/foundations/22 system_integration_synthesis.md" },
+		{ path: "system share/foundations/23 heidegger_thrownness_terraforming.md" },
+		{ path: "system share/foundations/24 nss.md" },
+		{ path: "system share/foundations/24a capital-illusion-dissolution.md" },
+		{ path: "system share/foundations/24b employment.md" },
+		{ path: "system share/foundations/24c tentative-bastards-subjective-economics.md" },
+		{ path: "system share/foundations/24d natural-selection-vs-capital.md" },
+		{ path: "system share/foundations/24e nss-money-exposition.md" },
+		{ path: "system share/foundations/24f will-economic-task-system.md" },
+		{ path: "system share/foundations/25 discovery-os-expanded-into-broader-picture.md" },
+		{ path: "system share/foundations/26. crucible-discovery-synthesis.md" },
+		{ path: "system share/foundations/27. The Sovereign Crucible and the Might Is Right Alliance -- A Framework for Will-Based Civilizations.md" },
+		{ path: "system share/foundations/28 Metagame of World Dynamics.md" },
+		{ path: "system share/foundations/29. cause-and-effect-might-with-right.md" },
+		{ path: "system share/foundations/29a. gradient-of-will-solving-systems.md" },
+		{ path: "system share/foundations/30. neologistic-reality-cutting.md" },
+		{ path: "system share/foundations/31. aiddaemonic-semantic-bridging.md" },
+		{ path: "system share/foundations/32. neo-colonialism.md" },
+		{ path: "system share/foundations/34. Removal of Men by force under cover of fascism.md" },
+		{ path: "system share/foundations/35. living-in-new-world.md" },
+		{ path: "system share/foundations/66. magic-is-right.md" },
+		{ path: "system share/foundations/67. Magical Archeofuturism.md" },
+		{ path: "system share/foundations/76. The Worst Illuminated.md" },
+		{ path: "system share/foundations/Appendix_A_Routing_Symbols_Comprehensive.md" },
+		// Foundations (mira)
+		{ path: "system share/foundations/mira/mira-ch1-framework.md" },
+		{ path: "system share/foundations/mira/mira-ch2-alliance.md" },
+		{ path: "system share/foundations/mira/mira-ch3-position0.md" },
+		{ path: "system share/foundations/mira/mira-ch4-trust.md" },
+		{ path: "system share/foundations/mira/mira-ch5-crucible.md" },
+		{ path: "system share/foundations/mira/mira-ch6-implementation.md" },
+		{ path: "system share/foundations/mira/mira-hearths-crucible.md" },
+		{ path: "system share/foundations/mira/mira-hearths-document.md" },
+		{ path: "system share/foundations/mira/mira-interregnum.md" },
+		// Dialectic
+		{ path: "system share/dialectic-oracleness/dialectical-analysis-part-2.md" },
+		{ path: "system share/dialectic-oracleness/dialectical-analysis-part-3.md" },
+		{ path: "system share/dialectic-oracleness/dialectical-analysis-part-4.md" },
+		{ path: "system share/dialectic-oracleness/dialectical-synthesis.md" },
+		{ path: "system share/dialectic-oracleness/exhaustive-dialectical-analysis.md" },
+		// Other md
+		{ path: "system share/floating-world-story.md" },
+		{ path: "system share/crucible-sort-seeds.md" },
+		// Recipes and extras
+		{ path: "system share/foundations/32. neo-colonialism-recipe.txt" },
+		// Visuals/HTML/PDF (not indexed for content)
+		{ path: "system share/sovereignty-system-viz.html" },
+		{ path: "system share/crucible-vs-oldworld.html" },
+		{ path: "system share/floating-world-story.pdf" }
+	];
+
+	// Tours: loaded at runtime from /tours/*.json
+	let tours = [];
+
+	// ---------------- Helpers ----------------
+	const state = {
+		items: [],
+		indexed: 0,
+		abort: false,
+		query: "",
+		protocol: window.location.protocol
+	};
+
+	state.tourIndex = 0;
+	state.tourId = null;
+
+	function extOf(path) {
+		const m = path.toLowerCase().match(/\.([a-z0-9]+)$/);
+		return m ? m[1] : "";
+	}
+	function titleOf(path) {
+		const name = path.split("/").pop();
+		return name;
+	}
+	function categoryOf(path) {
+		const segs = path.split("/");
+		if (segs.length < 2) return "root";
+		return segs[1]; // top-level subfolder under 'system share'
+	}
+
+	function mdEscape(html) {
+		return html.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+	}
+
+	function slugify(text) {
+		return (text || '')
+			.toLowerCase()
+			.trim()
+			.replace(/[^a-z0-9\s-]/g, '')
+			.replace(/\s+/g, '-')
+			.replace(/-+/g, '-');
+	}
+
+	// Minimal markdown renderer (headings, bold/italic, code, lists, links)
+	function renderMarkdown(src) {
+		if (!src) return "";
+		let out = src.replace(/\r\n?/g, "\n");
+		// Remove empty bullets like "-" or "*" alone
+		out = out.replace(/^\s*[-*+]\s*$/gm, '');
+		// Remove empty ordered list items like "1." alone
+		out = out.replace(/^\s*\d+\.\s*$/gm, '');
+		// Code blocks ```
+		out = out.replace(/```([\s\S]*?)```/g, (m, code) => `<pre><code>${mdEscape(code)}</code></pre>`);
+		// Inline code
+		out = out.replace(/`([^`]+)`/g, (m,code)=>`<code>${mdEscape(code)}</code>`);
+		// Headings
+		out = out.replace(/^######\s+(.+)$/gm, '<h6>$1</h6>')
+				 .replace(/^#####\s+(.+)$/gm, '<h5>$1</h5>')
+				 .replace(/^####\s+(.+)$/gm, '<h4>$1</h4>')
+				 .replace(/^###\s+(.+)$/gm, '<h3>$1</h3>')
+				 .replace(/^##\s+(.+)$/gm, '<h2>$1</h2>')
+				 .replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+		// Horizontal rule
+		out = out.replace(/^\s*---\s*$/gm, '<hr/>');
+		// Bold/italic
+		out = out.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+				 .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+				 .replace(/__([^_]+)__/g, '<strong>$1</strong>')
+				 .replace(/_([^_]+)_/g, '<em>$1</em>');
+		// Links (no target here; will normalize targets after render)
+		out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+		// Blockquotes
+		out = out.replace(/^(> .+(?:\n> .+)*)/gm, block => {
+			const html = block.split(/\n/).map(line => line.replace(/^>\s?/, '')).join('\n');
+			return `<blockquote>${html}</blockquote>`;
+		});
+		// Unordered Lists (group contiguous)
+		out = out.replace(/^(\s*)([-*+]\s+\S.*)(?:\n\1[-*+]\s+\S.*)*$/gm, list => {
+			const items = list.split(/\n/)
+				.map(line => line.replace(/^\s*[-*+]\s+/, ''))
+				.filter(i => i.trim() !== '');
+			return '<ul>' + items.map(i=>`<li>${i}</li>`).join('') + '</ul>';
+		});
+		// Ordered Lists
+		out = out.replace(/^(\s*)(\d+\.\s+\S.*)(?:\n\1\d+\.\s+\S.*)*$/gm, list => {
+			const items = list.split(/\n/)
+				.map(line => line.replace(/^\s*\d+\.\s+/, ''))
+				.filter(i => i.trim() !== '');
+			return '<ol>' + items.map(i=>`<li>${i}</li>`).join('') + '</ol>';
+		});
+		// Paragraphs
+		out = out.replace(/(^|\n)([^<\n][^\n]*)/g, (m, br, line) => {
+			if (/^\s*(<h\d|<ul|<ol|<pre|<blockquote|<p|<hr|<table|<code)/.test(line)) return m;
+			if (line.trim()==='') return m;
+			return `${br}<p>${line}</p>`;
+		});
+		return out;
+	}
+
+	function highlight(text, q) {
+		if (!q) return text;
+		try {
+			const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+			return text.replace(re, m => `<mark>${m}</mark>`);
+		} catch { return text; }
+	}
+
+	// ---------------- Indexing & Loading ----------------
+	const items = files.map(p => ({
+		path: p.path,
+		ext: extOf(p.path),
+		title: titleOf(p.path),
+		category: categoryOf(p.path),
+		content: null,
+		indexed: false,
+		error: null
+	}));
+	state.items = items;
+
+	const qEl = document.getElementById('q');
+	const listEl = document.getElementById('list');
+	const statsEl = document.getElementById('stats');
+	const fileWarnEl = document.getElementById('fileWarning');
+	const typeFilterEl = document.getElementById('typeFilter');
+	const catFilterEl = document.getElementById('catFilter');
+	const indexBtn = document.getElementById('indexBtn');
+	const stopBtn = document.getElementById('stopBtn');
+	const exportBtn = document.getElementById('exportBtn');
+	const tourSelectEl = document.getElementById('tourSelect');
+	const tourStartEl = document.getElementById('tourStart');
+	const tourPrevEl = document.getElementById('tourPrev');
+	const tourNextEl = document.getElementById('tourNext');
+	const viewEl = document.getElementById('view');
+	const viewTitleEl = document.getElementById('viewTitle');
+	const viewMetaEl = document.getElementById('viewMeta');
+
+	// Populate category filter
+	[...new Set(items.map(it => it.category))].sort().forEach(cat => {
+		const opt = document.createElement('option');
+		opt.value = cat; opt.textContent = cat; catFilterEl.appendChild(opt);
+	});
+
+	async function loadTours() {
+		const tourPaths = [
+			'tours/technical-builder.json',
+			'tours/philosopher-humanist.json',
+			'tours/skeptic-pragmatist.json',
+			'tours/policy-statesman.json'
+		];
+		const loaded = [];
+		for (const p of tourPaths) {
+			try {
+				const url = encodeURI(p);
+				const res = await fetch(url);
+				if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+				const obj = await res.json();
+				loaded.push(obj);
+			} catch {}
+		}
+		tours = loaded;
+		// populate selector
+		tourSelectEl.innerHTML = '';
+		loaded.forEach(t => {
+			const opt = document.createElement('option');
+			opt.value = t.id; opt.textContent = t.name; tourSelectEl.appendChild(opt);
+		});
+		if (loaded.length) { state.tourId = loaded[0].id; }
+	}
+
+	function canIndex(it) {
+		return it.ext === 'md' || it.ext === 'txt';
+	}
+
+	async function fetchText(path) {
+		const candidates = [];
+		const primary = path;
+		candidates.push(primary);
+		// Try double prefix: system share/system share/...
+		if (path.startsWith('system share/')) {
+			candidates.push('system share/' + path);
+			candidates.push(path.replace(/^system share\//, ''));
+		} else {
+			// Also try adding prefix if missing
+			candidates.push('system share/' + path);
+		}
+		let lastErr = '';
+		for (const c of candidates) {
+			try {
+				const url = encodeURI(c);
+				const res = await fetch(url);
+				if (res.ok) return await res.text();
+				lastErr = `${res.status} ${res.statusText}`;
+			} catch (e) {
+				lastErr = String(e.message||e);
+			}
+		}
+		throw new Error('Failed to fetch. Tried: ' + candidates.map(encodeURI).join(' | ') + (lastErr ? (' :: ' + lastErr) : ''));
+	}
+
+	async function indexAll(progressCb) {
+		state.abort = false; state.indexed = 0;
+		for (const it of items) {
+			if (state.abort) break;
+			if (!canIndex(it) || it.indexed) { progressCb && progressCb(); continue; }
+			try {
+				it.content = await fetchText(it.path);
+				it.indexed = true; state.indexed++;
+			} catch (e) {
+				it.error = String(e.message || e); it.indexed = false;
+			}
+			progressCb && progressCb();
+		}
+	}
+
+	function updateStats() {
+		const total = items.length;
+		const idx = state.indexed;
+		const idxCapable = items.filter(canIndex).length;
+		statsEl.textContent = `${total} files | ${idx}/${idxCapable} indexed`;
+		if (state.protocol === 'file:') {
+			fileWarnEl.textContent = 'Detected file:// context. Some browsers block loading local files. If indexing fails, run a local server (e.g., python -m http.server) and open http://localhost:8000/encyclopedia-browser-gpt5.html';
+		} else { fileWarnEl.textContent = ''; }
+	}
+
+	function filtered() {
+		const t = (qEl.value || '').trim().toLowerCase();
+		const type = typeFilterEl.value;
+		const cat = catFilterEl.value;
+		return items.filter(it => {
+			if (type !== 'all' && it.ext !== type) return false;
+			if (cat !== 'all' && it.category !== cat) return false;
+			if (!t) return true;
+			const inMeta = it.title.toLowerCase().includes(t) || it.path.toLowerCase().includes(t);
+			const inContent = it.content ? it.content.toLowerCase().includes(t) : false;
+			return inMeta || inContent;
+		});
+	}
+
+	function openByPath(path, q) {
+		const it = items.find(x => x.path === path || x.path === path.replace(/^system share\//, ''));
+		if (it) openItemWithAnchor(it, '', q || (qEl.value||'').trim());
+	}
+
+	function renderList() {
+		const t = (qEl.value || '').trim();
+		const arr = filtered();
+		listEl.innerHTML = '';
+		arr.forEach(it => {
+			const div = document.createElement('div');
+			div.className = 'item';
+			div.innerHTML = `
+				<div class="title">${highlight(it.title, t)}</div>
+				<div class="path">${it.category} • ${it.ext.toUpperCase()} • ${highlight(it.path, t)}</div>
+				${t ? `<div class="snip">${snippet(it, t)}</div>` : ''}
+			`;
+			div.addEventListener('click', () => { pushViewState(it.path, ''); openItemWithAnchor(it, '', t); });
+			listEl.appendChild(div);
+		});
+	}
+
+	function snippet(it, q) {
+		if (!it.content) return '';
+		const lc = it.content.toLowerCase();
+		const idx = lc.indexOf(q.toLowerCase());
+		if (idx < 0) return '';
+		const start = Math.max(0, idx - 60);
+		const end = Math.min(it.content.length, idx + 140);
+		const chunk = it.content.slice(start, end);
+		return highlight(mdEscape(chunk), q);
+	}
+
+	async function openItem(it, q) {
+		viewTitleEl.textContent = it.title;
+		viewMetaEl.textContent = `${it.category} • ${it.ext.toUpperCase()} • ${it.path}`;
+		// HTML/PDF direct embed, others via renderer
+		if (it.ext === 'html') {
+			const url = encodeURI(it.path);
+			viewEl.innerHTML = `<iframe src="${url}" style="width:100%;height:70vh;border:0;background:#0b1220"></iframe>`;
+			return;
+		}
+		if (it.ext === 'pdf') {
+			const url = encodeURI(it.path);
+			viewEl.innerHTML = `<embed src="${url}" type="application/pdf" style="width:100%;height:80vh;" />`;
+			return;
+		}
+		if (canIndex(it) && !it.content) {
+			try { it.content = await fetchText(it.path); it.indexed = true; state.indexed++; updateStats(); }
+			catch (e) { it.error = String(e.message||e); }
+		}
+		if (!canIndex(it)) {
+			viewEl.innerHTML = `<p>Preview not available for .${it.ext} files.</p>`;
+			return;
+		}
+		if (!it.content && it.error) {
+			const attempted1 = encodeURI(it.path);
+			const attempted2 = it.path.startsWith('system share/') ? encodeURI(it.path.replace(/^system share\//, '')) : '';
+			const attemptsHtml = attempted2 ? `${attempted1} | ${attempted2}` : attempted1;
+			const linksHtml = attempted2
+				? `<a href="${attempted1}" target="_blank" rel="noopener">${attempted1}</a> or <a href="${attempted2}" target="_blank" rel="noopener">${attempted2}</a>`
+				: `<a href="${attempted1}" target="_blank" rel="noopener">${attempted1}</a>`;
+			viewEl.innerHTML = `<p class="notice">Unable to load content (${it.error}).<br/>Tried URL(s): ${linksHtml}<br/>If opening locally, run a local server in the project root and open: <a href="http://localhost:8000/encyclopedia-browser-gpt5.html" target="_blank" rel="noopener">http://localhost:8000/encyclopedia-browser-gpt5.html</a></p>`;
+			return;
+		}
+		const html = it.ext === 'md' ? renderMarkdown(it.content) : `<pre>${mdEscape(it.content)}</pre>`;
+		viewEl.innerHTML = html;
+		addHeadingAnchors(viewEl);
+		normalizeAnchorTargets(viewEl);
+		if (q) highlightInViewer(q);
+	}
+
+	let currentItem = null;
+	function openItemWithAnchor(it, anchorId, q) {
+		currentItem = it;
+		openItem(it, q);
+		if (anchorId) {
+			try {
+				const target = viewEl.querySelector('#' + CSS.escape(anchorId));
+				if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+			} catch {}
+		}
+	}
+
+	function highlightInViewer(q) {
+		if (!q) return;
+		// Already highlighted in list; in viewer we do a simple replace
+		try {
+			const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+			viewEl.innerHTML = viewEl.innerHTML.replace(re, m => `<mark>${m}</mark>`);
+		} catch {}
+	}
+
+	function addHeadingAnchors(container) {
+		const hs = container.querySelectorAll('h1,h2,h3,h4,h5,h6');
+		hs.forEach(h => { if (!h.id || h.id.trim() === '') { h.id = slugify(h.textContent); } });
+	}
+
+	function normalizeAnchorTargets(container) {
+		const links = container.querySelectorAll('a[href]');
+		links.forEach(a => {
+			const href = a.getAttribute('href') || '';
+			if (/^(https?:|mailto:|tel:)/i.test(href)) {
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'noopener');
+			} else {
+				a.removeAttribute('target');
+				a.removeAttribute('rel');
+			}
+		});
+	}
+
+	function pushViewState(path, anchor) {
+		const t = state.tourId ? ('&t=' + encodeURIComponent(state.tourId)) : '';
+		const ti = (state.tourId != null) ? ('&ti=' + encodeURIComponent(String(state.tourIndex||0))) : '';
+		const hash = '#p=' + encodeURIComponent(path) + (anchor ? ('&a=' + encodeURIComponent(anchor)) : '') + t + ti;
+		history.pushState({ path, anchor }, '', hash);
+	}
+
+	function parseHashAndOpen() {
+		const h = (location.hash || '').replace(/^#/, '');
+		if (!h) return;
+		const params = new URLSearchParams(h);
+		const p = params.get('p');
+		const a = params.get('a') || '';
+		const t = params.get('t');
+		const ti = params.get('ti');
+		if (t) { state.tourId = t; }
+		if (ti && !Number.isNaN(Number(ti))) { state.tourIndex = Number(ti); }
+		if (p) {
+			const it = items.find(x => x.path === p || x.path === p.replace(/^system share\//, ''));
+			if (it) openItemWithAnchor(it, a, (qEl.value||'').trim());
+		}
+	}
+
+	// ---------------- Events ----------------
+	qEl.addEventListener('input', () => { renderList(); });
+	typeFilterEl.addEventListener('change', () => renderList());
+	catFilterEl.addEventListener('change', () => renderList());
+	stopBtn.addEventListener('click', () => { state.abort = true; });
+	indexBtn.addEventListener('click', async () => {
+		indexBtn.disabled = true; indexBtn.textContent = 'Indexing…';
+		await indexAll(() => { updateStats(); });
+		indexBtn.textContent = 'Re-index'; indexBtn.disabled = false; renderList();
+	});
+
+	// Curated tour controls
+	tourSelectEl.addEventListener('change', () => { state.tourId = tourSelectEl.value; state.tourIndex = 0; });
+	function currentTour() { return tours.find(t => t.id === state.tourId) || null; }
+	tourStartEl.addEventListener('click', () => { const t = currentTour(); if (!t) return; state.tourIndex = 0; const p=t.steps[state.tourIndex].path; pushViewState(p, ''); openByPath(p); });
+	tourPrevEl.addEventListener('click', () => { const t = currentTour(); if (!t) return; state.tourIndex = Math.max(0, state.tourIndex - 1); const p=t.steps[state.tourIndex].path; pushViewState(p, ''); openByPath(p); });
+	tourNextEl.addEventListener('click', () => { const t = currentTour(); if (!t) return; state.tourIndex = Math.min(t.steps.length - 1, state.tourIndex + 1); const p=t.steps[state.tourIndex].path; pushViewState(p, ''); openByPath(p); });
+
+	// Static bundle exporter
+	async function ensureIndexedAll() {
+		for (const it of items) {
+			if (canIndex(it) && !it.indexed) {
+				try { it.content = await fetchText(it.path); it.indexed = true; state.indexed++; } catch {}
+			}
+		}
+	}
+
+	function download(filename, text) {
+		const blob = new Blob([text], { type: 'text/html;charset=utf-8' });
+		const url = URL.createObjectURL(blob);
+		const a = document.createElement('a');
+		a.href = url; a.download = filename; a.click();
+		setTimeout(()=>URL.revokeObjectURL(url), 1000);
+	}
+
+	function buildBundleHtml(preloaded) {
+		const data = JSON.stringify(preloaded);
+		var html = '';
+		html += '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>The New World Encyclopedia — Static Bundle (GPT-5)</title><style>';
+		html += 'body{margin:0;background:#0f172a;color:#e2e8f0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}';
+		html += 'header{padding:16px;border-bottom:1px solid #1f2937;background:#111827}';
+		html += 'h1{margin:0;font-size:18px}';
+		html += '.wrap{display:grid;grid-template-columns:360px 1fr;height:calc(100vh - 66px)}';
+		html += '.sidebar{border-right:1px solid #1f2937;overflow:auto}';
+		html += '.tools{padding:10px;position:sticky;top:0;background:#0b1220;border-bottom:1px solid #1f2937}';
+		html += 'input,button{background:#0b1220;color:#e2e8f0;border:1px solid #334155;padding:8px 10px;border-radius:6px;font-size:13px}';
+		html += 'button{cursor:pointer}';
+		html += '.item{padding:10px;border:1px solid #1f2937;border-radius:8px;margin:8px;background:#0b1220;cursor:pointer}';
+		html += '.viewer{padding:16px;max-width:1200px;margin:0 auto}';
+		html += '.viewer-content{background:#0b1220;border:1px solid #1f2937;border-radius:10px;padding:16px;overflow:auto}';
+		html += 'mark{background:#fde68a;color:#0f172a}';
+		html += '</style></head><body>';
+		html += '<header><h1>Static Bundle — The New World Encyclopedia</h1></header>';
+		html += '<div class="wrap"><aside class="sidebar"><div class="tools"><input id="q" placeholder="Search..."/></div><div id="list"></div></aside><main><div class="viewer"><div id="title" class="heading"></div><div id="meta" class="meta"></div><div id="view" class="viewer-content"></div></div></main></div>';
+		html += '<script>';
+		html += 'const items = ' + data.replace(/</g, '\u003c') + ';';
+		html += 'function mdEscape(h){return h.replace(/[&<>]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;"}[c]});}';
+		html += 'function renderMarkdown(s){if(!s)return ""; var o=s.replace(/\\r\\n?/g,"\\n");';
+		html += 'o=o.replace(/^\\s*[-*+]\\s*$/gm,"");';
+		html += 'o=o.replace(/^\\s*\\d+\\.\\s*$/gm,"");';
+		html += 'o=o.replace(/```([\\s\\S]*?)```/g,function(m,c){return "<pre><code>"+mdEscape(c)+"</code></pre>"});';
+		html += 'o=o.replace(/`([^`]+)`
