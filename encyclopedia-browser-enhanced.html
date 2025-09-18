@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The New World Encyclopedia - Enhanced</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: rgba(15, 23, 42, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        h1 {
+            color: #f8fafc;
+            font-size: 3em;
+            margin-bottom: 15px;
+            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            background: linear-gradient(45deg, #60a5fa, #a78bfa, #f472b6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            color: #cbd5e1;
+            font-style: italic;
+            font-size: 1.3em;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            color: #94a3b8;
+            font-size: 1.1em;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .search-container {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        #searchInput {
+            width: 100%;
+            max-width: 700px;
+            padding: 18px 25px;
+            font-size: 18px;
+            border: 2px solid #475569;
+            border-radius: 30px;
+            outline: none;
+            transition: all 0.3s ease;
+            background: rgba(15, 23, 42, 0.9);
+            color: #f8fafc;
+            backdrop-filter: blur(10px);
+        }
+
+        #searchInput:focus {
+            border-color: #60a5fa;
+            box-shadow: 0 0 30px rgba(96, 165, 250, 0.4);
+            background: rgba(15, 23, 42, 0.95);
+        }
+
+        #searchInput::placeholder {
+            color: #64748b;
+        }
+
+        .category-tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: rgba(15, 23, 42, 0.8);
+            border: 2px solid #475569;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            color: #cbd5e1;
+            backdrop-filter: blur(10px);
+        }
+
+        .tab:hover, .tab.active {
+            background: linear-gradient(45deg, #60a5fa, #a78bfa);
+            color: white;
+            border-color: #60a5fa;
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(96, 165, 250, 0.3);
+        }
+
+        .entries-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .entry-card {
+            background: rgba(15, 23, 42, 0.9);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(20px);
+            transition: all 0.4s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .entry-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #60a5fa, #a78bfa, #f472b6);
+        }
+
+        .entry-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.3);
+            border-color: rgba(96, 165, 250, 0.3);
+        }
+
+        .entry-type {
+            display: inline-block;
+            background: #dc2626;
+            color: white;
+            padding: 6px 16px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            margin-bottom: 15px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .entry-type.historical { background: linear-gradient(45deg, #dc2626, #ef4444); }
+        .entry-type.foundation { background: linear-gradient(45deg, #2563eb, #3b82f6); }
+        .entry-type.dialectic { background: linear-gradient(45deg, #7c3aed, #8b5cf6); }
+        .entry-type.technical { background: linear-gradient(45deg, #059669, #10b981); }
+        .entry-type.magic { background: linear-gradient(45deg, #d97706, #f59e0b); }
+        .entry-type.polymorphic { background: linear-gradient(45deg, #be185d, #ec4899); }
+        .entry-type.philosophy { background: linear-gradient(45deg, #7c2d12, #ea580c); }
+        .entry-type.economics { background: linear-gradient(45deg, #1e40af, #3b82f6); }
+        .entry-type.other { background: linear-gradient(45deg, #6b7280, #9ca3af); }
+
+        .entry-title {
+            color: #f8fafc;
+            font-size: 1.4em;
+            margin-bottom: 12px;
+            font-weight: bold;
+            line-height: 1.3;
+        }
+
+        .entry-description {
+            color: #cbd5e1;
+            margin-bottom: 20px;
+            font-size: 1em;
+            line-height: 1.5;
+        }
+
+        .entry-link {
+            display: inline-block;
+            color: #60a5fa;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 20px;
+            border: 2px solid #60a5fa;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            background: rgba(96, 165, 250, 0.1);
+        }
+
+        .entry-link:hover {
+            background: #60a5fa;
+            color: white;
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(96, 165, 250, 0.3);
+        }
+
+        .stats {
+            text-align: center;
+            margin-top: 50px;
+            padding: 30px;
+            background: rgba(15, 23, 42, 0.9);
+            border-radius: 20px;
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .stats h3 {
+            color: #f8fafc;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        .stats p {
+            color: #cbd5e1;
+            font-size: 1.1em;
+            margin: 8px 0;
+        }
+
+        .highlight {
+            background: linear-gradient(45deg, #fde68a, #fbbf24);
+            color: #0f172a;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .no-results {
+            text-align: center;
+            grid-column: 1/-1;
+            padding: 60px;
+            color: #94a3b8;
+            font-size: 1.2em;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 2.2em;
+            }
+            
+            .entries-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .category-tabs {
+                justify-content: center;
+            }
+            
+            .tab {
+                font-size: 0.9em;
+                padding: 10px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The New World Encyclopedia</h1>
+            <p class="subtitle">A Comprehensive Guide to the Great Transition</p>
+            <p class="description">Exploring the transformation from predatory systems to will-manifestation infrastructure through polymorphic crucibles, trust networks, and magical interfaces.</p>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search entries by title, content, or keywords...">
+        </div>
+
+        <div class="category-tabs">
+            <div class="tab active" data-category="all">All Entries</div>
+            <div class="tab" data-category="foundation">Foundations</div>
+            <div class="tab" data-category="historical">Historical</div>
+            <div class="tab" data-category="philosophy">Philosophy</div>
+            <div class="tab" data-category="magic">Magic</div>
+            <div class="tab" data-category="polymorphic">Polymorphic</div>
+            <div class="tab" data-category="technical">Technical</div>
+            <div class="tab" data-category="economics">Economics</div>
+            <div class="tab" data-category="dialectic">Dialectic</div>
+        </div>
+
+        <div class="entries-container" id="entriesContainer">
+            <!-- Entries will be populated by JavaScript -->
+        </div>
+
+        <div class="stats" id="stats">
+            <!-- Statistics will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <script>
+        // Comprehensive Encyclopedia entries data
+        const encyclopediaEntries = [
+            // Historical Entries
+            {
+                title: "New World Genesis",
+                type: "historical",
+                category: "Historical Overview",
+                description: "The pivotal period when three distinct bootstrap scenarios emerged as pathways for establishing Polymorphic Crucible-based governance systems.",
+                keywords: ["bootstrap", "terraforming", "neo-colonialism", "constitutional fork", "polymorphic crucible"],
+                path: "system share/historical-entries/new-world-genesis.md"
+            },
+            {
+                title: "The Terraformer Bootstrap",
+                type: "historical",
+                category: "Private Sovereignty Initiative",
+                description: "The first bootstrap scenario involving high-leverage land acquisition in anarchic territories to establish Crucible-based governance through private means.",
+                keywords: ["high leverage", "land acquisition", "private military", "triad implementation", "anarchic territories"],
+                path: "system share/historical-entries/terraformer-bootstrap.md"
+            },
+            {
+                title: "The Neo-Colonial Alliance",
+                type: "historical",
+                category: "International Intervention Initiative",
+                description: "Coalition of nations establishing Triad-based governance in regions with suffering populations, challenging traditional sovereignty concepts.",
+                keywords: ["alliance", "neo-colonialism", "humanitarian intervention", "triad bootstrap", "sovereignty rights"],
+                path: "system share/historical-entries/neo-colonial-alliance.md"
+            },
+            {
+                title: "The Great Fork",
+                type: "historical",
+                category: "Constitutional Division Initiative",
+                description: "Peaceful constitutional division within existing nation-states to establish parallel Polymorphic Crucible governance systems.",
+                keywords: ["semi-revolution", "constitutional fork", "peaceful transition", "fractal pyramid", "empty sovereign"],
+                path: "system share/historical-entries/great-fork.md"
+            },
+
+            // Core Foundation Documents
+            {
+                title: "Executive Summary & Vision",
+                type: "foundation",
+                category: "Core Vision",
+                description: "Comprehensive overview of the New World vision and foundational principles. The world as will manifestation engine.",
+                keywords: ["vision", "executive summary", "overview", "will manifestation", "cosmic truth"],
+                path: "system share/foundations/1 exec_summary_vision.md"
+            },
+            {
+                title: "Foundational Mechanisms",
+                type: "foundation",
+                category: "Core Systems",
+                description: "Basic mechanisms underlying the New World governance and organizational systems.",
+                keywords: ["mechanisms", "foundation", "systems", "core architecture"],
+                path: "system share/foundations/2 foundational_mechanisms.md"
+            },
+            {
+                title: "Technical Architecture",
+                type: "technical",
+                category: "Implementation",
+                description: "Technical framework for implementing New World systems and infrastructure.",
+                keywords: ["technical", "architecture", "implementation", "infrastructure"],
+                path: "system share/foundations/3 technical_architecture.md"
+            },
+            {
+                title: "Blob Classes Discovery",
+                type: "technical",
+                category: "AI Systems",
+                description: "Neural learning of patterns too complex for categorization through blob class discovery.",
+                keywords: ["blob classes", "neural learning", "pattern discovery", "categorization"],
+                path: "system share/foundations/4 blob_classes_discovery.md"
+            },
+            {
+                title: "Language Evolution System",
+                type: "technical",
+                category: "Communication",
+                description: "System for evolving and managing language within New World contexts through AI-discovered patterns.",
+                keywords: ["language", "evolution", "communication", "neologism", "semantic"],
+                path: "system share/foundations/5 language_evolution_system.md"
+            },
+
+            // Philosophy and Will Systems
+            {
+                title: "Will Manifestation Philosophy",
+                type: "philosophy",
+                category: "Core Philosophy",
+                description: "Philosophical foundations of will-based authority and manifestation principles.",
+                keywords: ["will", "manifestation", "philosophy", "authority", "intention"],
+                path: "system share/foundations/15 will_manifestation_philosophy.md"
+            },
+            {
+                title: "Daemonic Architecture",
+                type: "philosophy",
+                category: "Personal Systems",
+                description: "Architecture for personal daemon systems and Aiddaemon interfaces.",
+                keywords: ["daemon", "aiddaemon", "personal", "architecture", "interface"],
+                path: "system share/foundations/16 daemonic_architecture.md"
+            },
+            {
+                title: "Will Coalescence & Meta-Utility",
+                type: "philosophy",
+                category: "Collective Systems",
+                description: "Philosophical foundations of will-based authority and meta-utility frameworks for collective action.",
+                keywords: ["will", "coalescence", "meta-utility", "authority", "collective"],
+                path: "system share/foundations/12 will_coalescence_meta_utility.md"
+            },
+
+            // Magic and Polymorphic Systems
+            {
+                title: "Magic is Right",
+                type: "magic",
+                category: "Magical Philosophy",
+                description: "The fundamental principle that magic and power should be kept secret to prevent chaos and maintain order.",
+                keywords: ["magic", "power", "secrecy", "lumen", "order"],
+                path: "system share/foundations/66. magic-is-right.md"
+            },
+            {
+                title: "Magical Archeofuturism",
+                type: "magic",
+                category: "Magical Vision",
+                description: "The vision of a world where technology becomes magical, aesthetic, and empowering rather than opaque and alienating.",
+                keywords: ["magic", "archeofuturism", "aesthetics", "technology", "empowerment"],
+                path: "system share/foundations/67. Magical Archeofuturism.md"
+            },
+            {
+                title: "Polymorphism and Layers of Meaning",
+                type: "polymorphic",
+                category: "Polymorphic Systems",
+                description: "The crucible of empowerment without power sharing through polymorphic semantics and natural selection.",
+                keywords: ["polymorphism", "meaning", "crucible", "empowerment", "natural selection"],
+                path: "system share/foundations/60. Polymorphism and Layers of Meaning.md"
+            },
+            {
+                title: "Magic Seed",
+                type: "polymorphic",
+                category: "Language Systems",
+                description: "Polymorphic semantics made clear through distributed word-based systems and semantic compression.",
+                keywords: ["magic", "seed", "polymorphic", "semantics", "language", "distributed"],
+                path: "system share/foundations/61. Magic Seed.md"
+            },
+            {
+                title: "Spell Casting",
+                type: "magic",
+                category: "Magical Interface",
+                description: "The magical interface of deep semantic communication through spell-casting metaphors.",
+                keywords: ["spell", "casting", "magic", "interface", "semantic", "communication"],
+                path: "system share/foundations/62. Spell Casting.md"
+            },
+
+            // Economic Systems
+            {
+                title: "Natural Selection System (NSS)",
+                type: "economics",
+                category: "Economic Framework",
+                description: "Economic system based on natural selection principles and performance-based ownership.",
+                keywords: ["nss", "natural selection", "economics", "performance", "ownership"],
+                path: "system share/foundations/24 nss.md"
+            },
+            {
+                title: "Capital Illusion Dissolution",
+                type: "economics",
+                category: "Economic Critique",
+                description: "Analysis of how capital systems create illusions that prevent true value creation and distribution.",
+                keywords: ["capital", "illusion", "dissolution", "value", "economics"],
+                path: "system share/foundations/24a capital-illusion-dissolution.md"
+            },
+            {
+                title: "Employment",
+                type: "economics",
+                category: "Labor Systems",
+                description: "Reimagining employment through will-based task systems and natural selection.",
+                keywords: ["employment", "labor", "tasks", "will-based", "natural selection"],
+                path: "system share/foundations/24b employment.md"
+            },
+            {
+                title: "Markets Value Discovery",
+                type: "economics",
+                category: "Market Systems",
+                description: "Systems for discovering true value through markets rather than imposed pricing.",
+                keywords: ["markets", "value", "discovery", "pricing", "subjective"],
+                path: "system share/foundations/13 markets_value_discovery.md"
+            },
+
+            // Governance and Sovereignty
+            {
+                title: "Crucible Sovereignty System",
+                type: "foundation",
+                category: "Governance",
+                description: "Detailed exposition of the Crucible system for sovereignty and governance structures.",
+                keywords: ["crucible", "sovereignty", "governance", "voluntary", "marketplace"],
+                path: "system share/foundations/17 crucible_sovereignty_system.md"
+            },
+            {
+                title: "The Sovereign Crucible and Might Is Right Alliance",
+                type: "foundation",
+                category: "Governance Framework",
+                description: "A framework for will-based civilizations through sovereign crucibles and might-right alliances.",
+                keywords: ["sovereign", "crucible", "might", "right", "alliance", "civilization"],
+                path: "system share/foundations/27. The Sovereign Crucible and the Might Is Right Alliance -- A Framework for Will-Based Civilizations.md"
+            },
+            {
+                title: "Metagame of World Dynamics",
+                type: "foundation",
+                category: "Strategic Framework",
+                description: "Strategic framework for understanding and navigating global power dynamics.",
+                keywords: ["metagame", "world dynamics", "strategy", "power", "global"],
+                path: "system share/foundations/28 Metagame of World Dynamics.md"
+            },
+
+            // Technical Infrastructure
+            {
+                title: "Computational Utility Networks",
+                type: "technical",
+                category: "Infrastructure",
+                description: "Technical framework for computational infrastructure and utility networks.",
+                keywords: ["computational", "utility", "networks", "infrastructure", "technical"],
+                path: "system share/foundations/8 computational_utility_networks.md"
+            },
+            {
+                title: "AR Phase Engine Specifications",
+                type: "technical",
+                category: "Augmented Reality",
+                description: "Technical specifications for augmented reality phase engine systems enabling will manifestation.",
+                keywords: ["ar", "augmented reality", "phase engine", "specifications", "will manifestation"],
+                path: "system share/foundations/21 ar_phase_engine_specs.md"
+            },
+            {
+                title: "Discovery OS",
+                type: "technical",
+                category: "Operating Systems",
+                description: "Systems that build themselves by discovering actual capabilities rather than assuming them.",
+                keywords: ["discovery", "os", "operating system", "capabilities", "self-building"],
+                path: "system share/foundations/25 discovery-os-expanded-into-broader-picture.md"
+            },
+
+            // Dialectic Analysis
+            {
+                title: "Exhaustive Dialectical Analysis",
+                type: "dialectic",
+                category: "Philosophical Analysis",
+                description: "Comprehensive dialectical examination of New World principles and contradictions.",
+                keywords: ["dialectical", "analysis", "philosophy", "contradictions", "principles"],
+                path: "system share/dialectic-oracleness/exhaustive-dialectical-analysis.md"
+            },
+            {
+                title: "Dialectical Synthesis",
+                type: "dialectic",
+                category: "Philosophical Synthesis",
+                description: "Synthesis of dialectical tensions and resolutions within New World frameworks.",
+                keywords: ["dialectical", "synthesis", "resolution", "tensions", "frameworks"],
+                path: "system share/dialectic-oracleness/dialectical-synthesis.md"
+            },
+
+            // Additional Foundation Documents
+            {
+                title: "System Integration Synthesis",
+                type: "foundation",
+                category: "Integration",
+                description: "Comprehensive synthesis of how various New World systems integrate and function together.",
+                keywords: ["integration", "synthesis", "systems", "function", "coordination"],
+                path: "system share/foundations/22 system_integration_synthesis.md"
+            },
+            {
+                title: "Civilizational Emergence",
+                type: "foundation",
+                category: "Civilization Theory",
+                description: "Framework for understanding how new civilizations emerge and develop through natural selection.",
+                keywords: ["civilization", "emergence", "development", "natural selection", "evolution"],
+                path: "system share/foundations/14 civilizational_emergence.md"
+            },
+            {
+                title: "Living in New World",
+                type: "foundation",
+                category: "Practical Life",
+                description: "Practical guide to life and organization within New World systems.",
+                keywords: ["living", "practical", "daily life", "organization", "guidance"],
+                path: "system share/foundations/35. living-in-new-world.md"
+            },
+            {
+                title: "Trust Network Dynamics",
+                type: "foundation",
+                category: "Social Systems",
+                description: "The primary information substrate enabling collective intelligence and will-coalescence.",
+                keywords: ["trust", "networks", "dynamics", "collective intelligence", "will-coalescence"],
+                path: "system share/foundations/20 trust_network_dynamics.md"
+            },
+            {
+                title: "Neologistic Reality Cutting",
+                type: "philosophy",
+                category: "Language Philosophy",
+                description: "How language cuts reality at its joints through AI-discovered patterns and neologism generation.",
+                keywords: ["neologistic", "reality", "cutting", "language", "patterns"],
+                path: "system share/foundations/30. neologistic-reality-cutting.md"
+            },
+            {
+                title: "Aiddaemonic Semantic Bridging",
+                type: "technical",
+                category: "AI Interface",
+                description: "Semantic bridging systems that enable deep communication between humans and AI systems.",
+                keywords: ["aiddaemonic", "semantic", "bridging", "ai", "interface", "communication"],
+                path: "system share/foundations/31. aiddaemonic-semantic-bridging.md"
+            }
+        ];
+
+        let currentFilter = 'all';
+        let filteredEntries = [...encyclopediaEntries];
+
+        // DOM elements
+        const searchInput = document.getElementById('searchInput');
+        const entriesContainer = document.getElementById('entriesContainer');
+        const tabs = document.querySelectorAll('.tab');
+        const statsContainer = document.getElementById('stats');
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            renderEntries();
+            updateStats();
+            
+            // Search functionality
+            searchInput.addEventListener('input', function() {
+                const searchTerm = this.value.toLowerCase();
+                filterEntries(searchTerm, currentFilter);
+            });
+            
+            // Tab functionality
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    this.classList.add('active');
+                    currentFilter = this.dataset.category;
+                    const searchTerm = searchInput.value.toLowerCase();
+                    filterEntries(searchTerm, currentFilter);
+                });
+            });
+        });
+
+        function filterEntries(searchTerm, category) {
+            filteredEntries = encyclopediaEntries.filter(entry => {
+                const matchesSearch = searchTerm === '' || 
+                    entry.title.toLowerCase().includes(searchTerm) ||
+                    entry.description.toLowerCase().includes(searchTerm) ||
+                    entry.keywords.some(keyword => keyword.toLowerCase().includes(searchTerm));
+                
+                const matchesCategory = category === 'all' || entry.type === category;
+                
+                return matchesSearch && matchesCategory;
+            });
+            
+            renderEntries();
+            updateStats();
+        }
+
+        function renderEntries() {
+            entriesContainer.innerHTML = '';
+            
+            if (filteredEntries.length === 0) {
+                entriesContainer.innerHTML = '<div class="no-results">No entries found matching your search criteria.</div>';
+                return;
+            }
+            
+            filteredEntries.forEach(entry => {
+                const entryCard = document.createElement('div');
+                entryCard.className = 'entry-card';
+                
+                const highlightedTitle = highlightSearchTerm(entry.title, searchInput.value);
+                const highlightedDescription = highlightSearchTerm(entry.description, searchInput.value);
+                
+                entryCard.innerHTML = `
+                    <div class="entry-type ${entry.type}">${entry.category}</div>
+                    <div class="entry-title">${highlightedTitle}</div>
+                    <div class="entry-description">${highlightedDescription}</div>
+                    <a href="${entry.path}" class="entry-link" target="_blank">Read Entry</a>
+                `;
+                
+                entriesContainer.appendChild(entryCard);
+            });
+        }
+
+        function highlightSearchTerm(text, searchTerm) {
+            if (!searchTerm) return text;
+            
+            const regex = new RegExp(`(${searchTerm})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function updateStats() {
+            const totalEntries = encyclopediaEntries.length;
+            const displayedEntries = filteredEntries.length;
+            const categories = [...new Set(encyclopediaEntries.map(entry => entry.type))];
+            
+            const categoryCounts = categories.map(category => {
+                const count = encyclopediaEntries.filter(entry => entry.type === category).length;
+                return `${category.charAt(0).toUpperCase() + category.slice(1)}: ${count}`;
+            }).join(' | ');
+            
+            statsContainer.innerHTML = `
+                <h3>Encyclopedia Statistics</h3>
+                <p>Displaying ${displayedEntries} of ${totalEntries} total entries</p>
+                <p>${categoryCounts}</p>
+            `;
+        }
+    </script>
+</body>
+</html>

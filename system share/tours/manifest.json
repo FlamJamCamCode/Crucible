@@ -1,0 +1,7 @@
+[
+	{ "id": "entry-app", "title": "Entry Tour", "description": "Self-rendered tour app focused on immediate relevance.", "path": "tours/entry/index.html", "audience": ["personal"], "default": true },
+	{ "id": "gov-law", "title": "Government & Law Entry", "description": "Legitimacy, accountability, and sovereignty mechanisms.", "path": "tours/gov-law/index.html" },
+	{ "id": "economists", "title": "Economists Entry", "description": "Markets, value discovery, NSS incentives.", "path": "tours/economists/index.html" },
+	{ "id": "hard-worker", "title": "Hard-Working Entry", "description": "Respect for builders, stop the drain, choose paths.", "path": "tours/hard-worker/index.html" },
+	{ "id": "native-launch", "title": "Native Launcher Tour (PoC)", "description": "Demonstrates opening a custom protocol (e.g., steam://, myapp://).", "path": "tours/native-launch/index.html" }
+]

@@ -24,7 +24,6 @@ Will Manifestation System
 ├── Uses AR to visualize AR possibilities
 └── Uses will coalescence to build itself
 ```
-Positive Spirals of potency of any part.
 
 ## The Core Pattern
 

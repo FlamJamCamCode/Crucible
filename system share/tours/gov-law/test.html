@@ -1,0 +1,84 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Government & Law Entry - Test</title>
+<style>
+	body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #0b0e12; color: #e6e8eb; }
+	.container { padding: 16px; }
+	.section { margin-bottom: 16px; max-height: 50vh; overflow: auto; }
+	.card { border: 1px solid #1d232b; border-radius: 8px; padding: 16px; background: #0f141a; }
+	.tab-bar { display: flex; gap: 8px; margin-bottom: 16px; border-bottom: 1px solid #1d232b; }
+	.tab { padding: 8px 12px; border: 1px solid transparent; border-radius: 6px 6px 0 0; background: #0f141a; color: #9aa4af; cursor: pointer; transition: all 120ms ease; }
+	.tab:hover { background: #121a22; color: #e6e8eb; }
+	.tab.active { background: #16212d; color: #e6e8eb; border-color: #2a3542; border-bottom-color: #16212d; }
+	.file-content { display: none; }
+	.file-content.active { display: block; }
+</style>
+<div class="container" id="root">
+	<div class="section" id="test">
+		<div class="card">
+			<h2>Test Tabs</h2>
+			<div class="tab-bar" id="testTabs"></div>
+			<div id="testContent" class="file-content active">
+				<p>Loading test content...</p>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	const files = [
+		{ id: 'file1', title: 'File 1' },
+		{ id: 'file2', title: 'File 2' },
+		{ id: 'file3', title: 'File 3' }
+	];
+	
+	function createTabBar(containerId, files) {
+		const container = document.getElementById(containerId);
+		if (!container) {
+			console.log('Tab container not found:', containerId);
+			return;
+		}
+		
+		console.log('Creating tabs for:', containerId, files);
+		container.innerHTML = '';
+		files.forEach(file => {
+			const tab = document.createElement('div');
+			tab.className = 'tab';
+			tab.textContent = file.title;
+			tab.dataset.fileId = file.id;
+			tab.onclick = () => switchFile(file.id, containerId.replace('Tabs', 'Content'));
+			container.appendChild(tab);
+		});
+		
+		// Set first tab as active
+		if (container.firstChild) {
+			container.firstChild.classList.add('active');
+		}
+		
+		console.log('Tabs created:', container.children.length);
+	}
+	
+	function switchFile(fileId, contentId) {
+		console.log('Switching to file:', fileId, contentId);
+		
+		// Update active tab
+		const tabs = document.querySelectorAll('.tab');
+		tabs.forEach(tab => {
+			tab.classList.remove('active');
+			if (tab.dataset.fileId === fileId) {
+				tab.classList.add('active');
+			}
+		});
+		
+		// Update content
+		const content = document.getElementById(contentId);
+		if (content) {
+			content.innerHTML = `<p>Content for ${fileId}</p>`;
+		}
+	}
+	
+	// Initialize tabs
+	createTabBar('testTabs', files);
+	switchFile('file1', 'testContent');
+</script>
+
+

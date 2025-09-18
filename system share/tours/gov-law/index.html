@@ -1,0 +1,492 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Government & Law Entry - True Stateful Variables</title>
+<style>
+	body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #0b0e12; color: #e6e8eb; }
+	.container { padding: 16px; }
+	.section { margin-bottom: 16px; max-height: 50vh; overflow: auto; }
+	.card { border: 1px solid #1d232b; border-radius: 8px; padding: 16px; background: #0f141a; }
+	.button { padding: 8px 12px; border: 1px solid #2a3542; border-radius: 6px; background: #16212d; color: #e6e8eb; cursor: pointer; }
+	.link { color: #7cc7ff; }
+	.tab-bar { display: flex; gap: 8px; margin-bottom: 16px; border-bottom: 1px solid #1d232b; }
+	.tab { padding: 8px 12px; border: 1px solid transparent; border-radius: 6px 6px 0 0; background: #0f141a; color: #9aa4af; cursor: pointer; transition: all 120ms ease; }
+	.tab:hover { background: #121a22; color: #e6e8eb; }
+	.tab.active { background: #16212d; color: #e6e8eb; border-color: #2a3542; border-bottom-color: #16212d; }
+	.file-content { display: none; }
+	.file-content.active { display: block; }
+	.file-content h1, .file-content h2, .file-content h3 { color: #e6e8eb; margin-top: 0; }
+	.file-content p { line-height: 1.6; margin-bottom: 12px; }
+	.file-content code { background: #0e1620; padding: 2px 4px; border-radius: 4px; }
+	.file-content pre { background: #0e1620; padding: 12px; border-radius: 6px; overflow: auto; }
+	.file-content blockquote { margin: 12px 0; padding: 8px 12px; border-left: 3px solid #2e86de; background: #0e1620; }
+	.state-debug { background: #0e1620; padding: 8px; border-radius: 4px; font-family: monospace; font-size: 12px; margin-top: 8px; }
+	.state-debug .stateful { color: #2e86de; }
+	.state-debug .active { color: #4ade80; }
+	.state-debug .parameter { color: #9aa4af; }
+</style>
+<div class="container" id="root"></div>
+<script>
+	function post(msg) { parent && parent.postMessage({ source: 'tour-app', ...msg }, '*'); }
+	
+	// Stateful Variable Implementation - Works exactly like normal variables
+	class StatefulVariable {
+		constructor(name, initialValue, parentPath = {}) {
+			this._name = name;
+			this._active = initialValue;
+			this._states = new Map();
+			this._parentPath = parentPath;
+			this._listeners = [];
+			
+			// Store initial state
+			if (initialValue !== null && initialValue !== undefined) {
+				this._states.set(this._getValueId(initialValue), initialValue);
+			}
+			
+			// Restore from storage
+			this._restoreState();
+		}
+		
+		// Get value ID
+		_getValueId(value) {
+			if (typeof value === 'object' && value !== null) {
+				return value.id || JSON.stringify(value);
+			}
+			return String(value);
+		}
+		
+		// Set parent path
+		setParentPath(path) {
+			this._parentPath = { ...path };
+			this._persistState();
+		}
+		
+		// Persist state
+		_persistState() {
+			const key = this._buildStorageKey();
+			const state = {
+				active: this._active,
+				states: Object.fromEntries(this._states)
+			};
+			
+			try {
+				localStorage.setItem(key, JSON.stringify(state));
+			} catch (e) {
+				console.warn('Failed to persist state:', e);
+			}
+		}
+		
+		// Restore state
+		_restoreState() {
+			const key = this._buildStorageKey();
+			try {
+				const stored = localStorage.getItem(key);
+				if (stored) {
+					const state = JSON.parse(stored);
+					this._active = state.active;
+					this._states = new Map(Object.entries(state.states || {}));
+				}
+			} catch (e) {
+				console.warn('Failed to restore state:', e);
+			}
+		}
+		
+		// Build storage key
+		_buildStorageKey() {
+			const parts = ['ssb:stateful'];
+			Object.entries(this._parentPath).forEach(([key, value]) => {
+				parts.push(key, String(value));
+			});
+			parts.push(this._name);
+			return parts.join(':');
+		}
+		
+		// Notify change
+		_notifyChange(newValue, oldValue) {
+			this._listeners.forEach(listener => {
+				try {
+					listener(newValue, oldValue);
+				} catch (e) {
+					console.warn('Stateful variable listener error:', e);
+				}
+			});
+		}
+		
+		// Add listener
+		onChange(listener) {
+			this._listeners.push(listener);
+		}
+		
+		// Remove listener
+		offChange(listener) {
+			const index = this._listeners.indexOf(listener);
+			if (index > -1) {
+				this._listeners.splice(index, 1);
+			}
+		}
+	}
+	
+	// Create a proxy that makes the stateful variable act exactly like a normal variable
+	function createStatefulProxy(name, initialValue, parentPath = {}) {
+		const statefulVar = new StatefulVariable(name, initialValue, parentPath);
+		
+		return new Proxy(statefulVar, {
+			get(target, prop) {
+				// If accessing properties of the active value itself
+				if (target._active && typeof target._active === 'object' && prop in target._active) {
+					return target._active[prop];
+				}
+				
+				// If accessing stateful variable internal properties
+				if (prop === '_active') return target._active;
+				if (prop === '_states') return target._states;
+				if (prop === '_name') return target._name;
+				if (prop === '_parentPath') return target._parentPath;
+				if (prop === 'states') return target._states;
+				if (prop === 'setParentPath') return target.setParentPath.bind(target);
+				if (prop === 'onChange') return target.onChange.bind(target);
+				if (prop === 'offChange') return target.offChange.bind(target);
+				
+				// For other properties, delegate to the active value
+				if (target._active && typeof target._active === 'object') {
+					return target._active[prop];
+				}
+				
+				return target[prop];
+			},
+			
+			set(target, prop, value) {
+				// If setting properties of the active value itself
+				if (target._active && typeof target._active === 'object' && prop in target._active) {
+					target._active[prop] = value;
+					return true;
+				}
+				
+				// If setting the entire variable (this is the key part!)
+				if (prop === '_active' || prop === 'value') {
+					const oldValue = target._active;
+					target._active = value;
+					
+					// Store state for the new value
+					if (value !== null && value !== undefined) {
+						const valueId = target._getValueId(value);
+						target._states.set(valueId, value);
+					}
+					
+					// Persist to storage
+					target._persistState();
+					
+					// Notify listeners
+					target._notifyChange(value, oldValue);
+					return true;
+				}
+				
+				target[prop] = value;
+				return true;
+			},
+			
+			// Make it callable if the active value is a function
+			apply(target, thisArg, args) {
+				if (typeof target._active === 'function') {
+					return target._active.apply(thisArg, args);
+				}
+				throw new Error('Cannot call non-function value');
+			},
+			
+			// Make it iterable if the active value is iterable
+			[Symbol.iterator]() {
+				if (target._active && typeof target._active[Symbol.iterator] === 'function') {
+					return target._active[Symbol.iterator]();
+				}
+				return [][Symbol.iterator]();
+			},
+			
+			// String conversion
+			toString() {
+				return String(target._active);
+			},
+			
+			valueOf() {
+				return target._active;
+			}
+		});
+	}
+	
+	// Now create stateful variables that work exactly like normal variables
+	const tour = createStatefulProxy('tour', 'gov-law');
+	const step = createStatefulProxy('step', 0, { tour: tour._active });
+	const fileTab = createStatefulProxy('fileTab', null, { tour: tour._active, step: step._active });
+	const scroll = createStatefulProxy('scroll', 0, { tour: tour._active, step: step._active, fileTab: fileTab._active });
+	const cursor = createStatefulProxy('cursor', '0;0', { tour: tour._active, step: step._active, fileTab: fileTab._active });
+	
+	// Update parent paths when variables change
+	tour.onChange((newTour) => {
+		step.setParentPath({ tour: newTour });
+		fileTab.setParentPath({ tour: newTour, step: step._active });
+		scroll.setParentPath({ tour: newTour, step: step._active, fileTab: fileTab._active });
+		cursor.setParentPath({ tour: newTour, step: step._active, fileTab: fileTab._active });
+	});
+	
+	step.onChange((newStep) => {
+		fileTab.setParentPath({ tour: tour._active, step: newStep });
+		scroll.setParentPath({ tour: tour._active, step: newStep, fileTab: fileTab._active });
+		cursor.setParentPath({ tour: tour._active, step: newStep, fileTab: fileTab._active });
+	});
+	
+	fileTab.onChange((newFileTab) => {
+		scroll.setParentPath({ tour: tour._active, step: step._active, fileTab: newFileTab });
+		cursor.setParentPath({ tour: tour._active, step: step._active, fileTab: newFileTab });
+	});
+	
+	// Step configurations
+	const stepConfigs = {
+		0: {
+			title: 'Mandate: Legitimacy and Accountability',
+			files: [
+				{ id: 'mandate', title: 'Mandate', path: '../..//foundations/17%20crucible_sovereignty_system.md' },
+				{ id: 'genesis', title: 'Genesis', path: '../..//immersion/historical-entries/new-world-genesis.md' }
+			]
+		},
+		1: {
+			title: 'Case: Genesis',
+			files: [
+				{ id: 'genesis', title: 'Genesis', path: '../..//immersion/historical-entries/new-world-genesis.md' },
+				{ id: 'sovereignty', title: 'Sovereignty', path: '../..//foundations/32.%20neo-colonialism.md' }
+			]
+		},
+		2: {
+			title: 'See it',
+			files: [
+				{ id: 'sovereignty', title: 'Sovereignty', path: '../..//foundations/32.%20neo-colonialism.md' },
+				{ id: 'lobby', title: 'Lobby', path: '../..//immersion/lobbies/sovereignty-system-viz.html' }
+			]
+		}
+	};
+	
+	let idx = 0;
+	let restoring = false;
+	let fileContents = {};
+	
+	const root = document.getElementById('root');
+	
+	async function loadFileContent(fileId, path) {
+		if (fileContents[fileId]) return fileContents[fileId];
+		
+		try {
+			const response = await fetch(path);
+			if (!response.ok) throw new Error('Failed to load');
+			const text = await response.text();
+			
+			let html = text
+				.replace(/^# (.*$)/gim, '<h1>$1</h1>')
+				.replace(/^## (.*$)/gim, '<h2>$1</h2>')
+				.replace(/^### (.*$)/gim, '<h3>$1</h3>')
+				.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+				.replace(/\*(.*?)\*/g, '<em>$1</em>')
+				.replace(/`(.*?)`/g, '<code>$1</code>')
+				.replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>')
+				.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="link">$1</a>')
+				.replace(/\n\n/g, '</p><p>')
+				.replace(/\n/g, '<br>');
+			
+			html = '<p>' + html + '</p>';
+			fileContents[fileId] = html;
+			return html;
+		} catch (error) {
+			fileContents[fileId] = `<p>Error loading file: ${error.message}</p>`;
+			return fileContents[fileId];
+		}
+	}
+	
+	function createTabsForStep(stepIdx) {
+		const config = stepConfigs[stepIdx];
+		if (!config) return;
+		
+		const container = document.getElementById('stepTabs');
+		if (!container) return;
+		
+		container.innerHTML = '';
+		config.files.forEach(file => {
+			const tabEl = document.createElement('div');
+			tabEl.className = 'tab';
+			tabEl.textContent = file.title;
+			tabEl.dataset.fileId = file.id;
+			tabEl.onclick = () => switchToFile(file.id);
+			container.appendChild(tabEl);
+		});
+		
+		// Set active tab
+		if (fileTab._active) {
+			const activeTab = container.querySelector(`[data-file-id="${fileTab._active}"]`);
+			if (activeTab) activeTab.classList.add('active');
+		} else if (config.files.length > 0) {
+			fileTab._active = config.files[0].id; // This triggers the proxy setter
+			container.firstChild.classList.add('active');
+		}
+	}
+	
+	async function switchToFile(fileId) {
+		console.log('Switching to file:', fileId);
+		
+		// Update active tab
+		document.querySelectorAll('.tab').forEach(tab => {
+			tab.classList.remove('active');
+			if (tab.dataset.fileId === fileId) {
+				tab.classList.add('active');
+			}
+		});
+		
+		// Set new active fileTab - this works exactly like a normal variable!
+		fileTab._active = fileId;
+		
+		// Load content
+		const content = document.getElementById('stepContent');
+		if (!content) return;
+		
+		content.innerHTML = 'Loading...';
+		
+		const config = stepConfigs[idx];
+		const file = config.files.find(f => f.id === fileId);
+		if (file) {
+			const html = await loadFileContent(fileId, file.path);
+			content.innerHTML = html;
+			
+			// Restore state for this file
+			const savedScroll = scroll._active;
+			const savedCursor = cursor._active;
+			content.scrollTop = savedScroll;
+		}
+		
+		// Update URL
+		updateUrl();
+	}
+	
+	function updateUrl() {
+		const params = new URLSearchParams();
+		if (tour._active) params.set('tour', tour._active);
+		if (step._active !== null) params.set('step', step._active);
+		if (fileTab._active) params.set('fileTab', fileTab._active);
+		if (scroll._active) params.set('scroll', scroll._active);
+		if (cursor._active) params.set('cursor', cursor._active);
+		
+		const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+		if (window.location.search !== '?' + params.toString()) {
+			history.pushState({}, '', newUrl);
+		}
+	}
+	
+	function render() {
+		const config = stepConfigs[idx];
+		if (!config) return;
+		
+		root.innerHTML = `
+			<div class="section" id="step${idx}">
+				<div class="card">
+					<h2>${config.title}</h2>
+					<div class="tab-bar" id="stepTabs"></div>
+					<div id="stepContent" class="file-content active">
+						<p>Loading content...</p>
+					</div>
+					<div class="state-debug" id="stateDebug">
+						<div><span class="stateful">*tour</span>: ${tour._active} (${tour.states?.size || 0} states)</div>
+						<div><span class="stateful">*step</span>: ${step._active} (${step.states?.size || 0} states)</div>
+						<div><span class="stateful">*fileTab</span>: ${fileTab._active || 'none'} (${fileTab.states?.size || 0} states)</div>
+						<div><span class="parameter">scroll</span>: ${scroll._active || 0}</div>
+						<div><span class="parameter">cursor</span>: ${cursor._active || '0;0'}</div>
+					</div>
+				</div>
+			</div>
+		`;
+		
+		post({ type:'state', step: idx, total: Object.keys(stepConfigs).length, title: config.title, stepLabel: config.title, progress: (idx+1)/Object.keys(stepConfigs).length });
+		
+		// Create tabs for current step
+		createTabsForStep(idx);
+		
+		// Load initial file
+		if (fileTab._active) {
+			switchToFile(fileTab._active);
+		} else if (config.files.length > 0) {
+			switchToFile(config.files[0].id);
+		}
+		
+		// Update scroll tracking
+		const content = document.getElementById('stepContent');
+		if (content) {
+			content.addEventListener('scroll', () => {
+				scroll._active = content.scrollTop;
+			});
+		}
+	}
+	
+	function snapshot() {
+		if (restoring) return;
+		const state = {
+			step: idx,
+			activeFile: fileTab._active,
+			scroll: scroll._active || 0,
+			cursor: cursor._active || '0;0'
+		};
+		post({ type:'snapshot', payload: state });
+	}
+	
+	// Initialize from URL
+	function initFromUrl() {
+		const urlParams = new URLSearchParams(window.location.search);
+		if (urlParams.has('tour')) tour._active = urlParams.get('tour');
+		if (urlParams.has('step')) step._active = parseInt(urlParams.get('step'), 10);
+		if (urlParams.has('fileTab')) fileTab._active = urlParams.get('fileTab');
+		if (urlParams.has('scroll')) scroll._active = parseInt(urlParams.get('scroll'), 10);
+		if (urlParams.has('cursor')) cursor._active = urlParams.get('cursor');
+		
+		if (step._active !== null) {
+			idx = step._active;
+		}
+	}
+	
+	post({ type:'capabilities', steps: true, nav: true });
+	initFromUrl();
+	render();
+	
+	window.addEventListener('message', (e)=>{ 
+		const d=e.data||{}; 
+		if(d.type==='nav'){ 
+			if(d.action==='prev') {
+				idx = Math.max(0, idx-1);
+				step._active = idx;
+				fileTab._active = null; // Reset fileTab when changing steps
+				render();
+			}
+			if(d.action==='next') {
+				idx = Math.min(Object.keys(stepConfigs).length-1, idx+1);
+				step._active = idx;
+				fileTab._active = null; // Reset fileTab when changing steps
+				render();
+			}
+			if(d.action==='goto' && Number.isInteger(d.index)) {
+				idx = Math.max(0, Math.min(Object.keys(stepConfigs).length-1, d.index));
+				step._active = idx;
+				fileTab._active = null; // Reset fileTab when changing steps
+				render();
+			}
+		} 
+		if(d.type==='restore' && d.payload){ 
+			restoring = true; 
+			const p=d.payload; 
+			if(Number.isInteger(p.step)) {
+				idx = Math.max(0, Math.min(Object.keys(stepConfigs).length-1, p.step));
+				step._active = idx;
+			}
+			if (p.activeFile) fileTab._active = p.activeFile;
+			if (p.scroll) scroll._active = p.scroll;
+			if (p.cursor) cursor._active = p.cursor;
+			render(); 
+			restoring=false; 
+		} 
+	});
+	
+	window.addEventListener('scroll', snapshot, true);
+	window.addEventListener('keydown', (e)=>{ 
+		if(e.key==='ArrowLeft'){ e.preventDefault(); idx=Math.max(0,idx-1); step._active = idx; fileTab._active = null; render(); } 
+		if(e.key==='ArrowRight'){ e.preventDefault(); idx=Math.min(Object.keys(stepConfigs).length-1,idx+1); step._active = idx; fileTab._active = null; render(); } 
+	});
+</script>
