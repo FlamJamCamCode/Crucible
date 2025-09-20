@@ -176,6 +176,18 @@ When it is said all are equal in "having NO binding nature" - no inherent taste,
 - Pure protocol space
 - Mechanical interaction
 
+Progres O Progress. Why do we seek its impass. Some notion of what it may do to me, to you. 
+But never The reason why empowering "anyone" indiscriminately as a goal "progress". Is bad, is because, it is precisely indiscriminate.
+So, it simply stating: "However whoever but if ever sooner then good."
+
+Here i am trying to make you change the progress sections, to not be against progress persay, but be against progress unqualified indiscriminate and undirectioned.
+
+Yeah. Mud being state of disorganized complex or chaotic nature and interaction.
+The Hut represents a membrane that makes this and that distinct or distanced.
+The Tower represents the shoulders of giants and brick by brick reaching towards a sky.
+
+The Sky above is the direction and the ought that ought be known and strived towards.
+
 ### Architectured Revelation
 
 **The System Does Not Reveal**:
