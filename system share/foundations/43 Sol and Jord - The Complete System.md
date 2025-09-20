@@ -104,11 +104,11 @@
 **Replacement of States**:
 - Crucible Triads replace states as we know them
 - **Justified Dominance Acting** = Four levels of justified dominance acting
-- **Might with Right Levels**:
-  - Level 1: "You do what I want, because you get something I can offer you" (will-coalescence)
-  - Level 2: "Because you're in my Triad" or "zone"
-  - Level 3: Horns (raw power, direct force)
-  - Level 4: Laurels (devotional power through love/respect)
+- **Might with Right Levels** (Four levels of justified dominance acting):
+  - **Level 1**: Will-manifestation capacity and hyper-facilitated will-coalescence ("You do what I want, because you get something I can offer you" - voluntary exchange)
+  - **Level 2**: Chosen governance or explicit authority ("Because you're in my Triad" or "zone" - dominance by dominus in dominum)
+  - **Level 3**: Competition in structured games as the only contracts (gamified will-against-will resolution)
+  - **Level 4**: Raw causality and ultimate reality (MIRA - when all other levels fail, might makes right through pure cause and effect)
 
 ### The History as Science vs Propaganda System
 
