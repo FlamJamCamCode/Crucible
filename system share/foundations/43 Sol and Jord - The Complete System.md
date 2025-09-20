@@ -12,7 +12,7 @@
 **The Three-Layer Integration**:
 1. **Designing Layer**: Architectures, will, and intent specification
 2. **Technicalities Layer**: NSS-style solving of implementation details
-3. **Actualizational Layer**: DiscoveryOS, NSS, and Aiddaemonic will-coalescence markets
+3. **Actualizational Layer**: DiscoveryOS, NSS, and Aiddaemonic will-coalescence markets (and Aiddaemonic recursion on the layers)
 
 ---
 
@@ -54,10 +54,10 @@
 
 **Zone Architecture**:
 - **Precision**: Down to millimeter (1e-3) or even micrometer (1e-6)
-- **Scale**: Billions/trillions of end nodes mapped on Earth (Jord) or cosmos (Sol)
+- **Scale**: Billions/trillions/10e100 of end nodes mapped on Earth (Jord) or cosmos (Sol)
 - **Hierarchy**: Tree-like structure with infinite nesting capability
 - **Visualization**: 4-color theorem for nesting levels, heat-map for population density clustering
-- **Navigation**: Eve Online + Civilization zoom mechanics, 3D view preferred
+- **Navigation**: Eve Online + Civilization zoom mechanics, 3D view preferred (It looks 2d when zoomed is)
 
 **Zone Evolution Through Will-Manifestation**:
 - Zones change over time as "events" unfold representing all human activity
@@ -71,9 +71,10 @@
 - Zones represent **will-coalescence opportunities**
 - **Will-Equilibrium** dynamics determine zone interactions
 - **Phase Separation** enables incompatible wills to coexist
-- **Trust Networks** provide the information substrate for will-manifestation
+- **Trust Networks** provide the information flow and will-economic realization of will-pathways (including computational pathways) substrate for will-manifestation
 
 **The LLL (Live Life Locally) Game**:
+*Live Life Where You Find Yourself Less In Only Virtual Spaces. Like Social Media or Media in general. But bring the Local that can become much more stimulating about and enhance it further with AR: LLL Gaming (Will-coalescence, daemoniasm and AR enchancements and smoothing of experience)*
 - **Hue and Saturation**: Different paths lit up according to will manifestation probability
 - **Will-Field Physics**: Prediction of seeing will come to fruition
 - **Path Lighting**: Stepping out door, seeing different roads lit up differently
@@ -92,9 +93,11 @@
 **The Springs, Rivers, Lakes, Seas, Oceans**:
 - **Springs**: Purest daemon expression, single daemon type, intense coherence
 - **Rivers**: Few compatible types, dynamic interaction, creative tension
-- **Lakes**: Many types coexisting, complex negotiations, rich possibilities
-- **Seas**: Metacoherent patterns, emergent aesthetics, civilizational scale
-- **Oceans**: Between incompatible seas, pure protocol space, mechanical interaction
+- **Lakes**: Many types coexisting, complex negotiations, rich possibilities (Typically known as non-chaotic cities; Coherent or harmonious or symphonic cities; Some cities of today at in the Planetary Triad-quality)
+- **Seas**: Metroversal truths or patterns, emergent aesthetics, culture as civilization scale
+- **Oceans**: Metacoherent patterns, emergent aesthetics, civilizational scale
+- **Worlds**: Between incompatible Oceans, but a shared morality against something "bad" that allows them to share space still.
+- **Planetary**: pure protocol space, mechanical interaction
 
 #### The Crucible Triads System
 
