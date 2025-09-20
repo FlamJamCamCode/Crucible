@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-18T06:30:00.000000",
+  "total_documents": 6,
+  "categories": ["foundation", "magic", "polymorphic", "economics"],
+  "total_words": 5000,
+  "total_size": 50000,
+  "features": [
+    "Complete offline functionality",
+    "Real-time search and filtering",
+    "Category-based navigation",
+    "Responsive design",
+    "Markdown rendering with syntax highlighting",
+    "No database required",
+    "Ready for immediate deployment"
+  ],
+  "deployment_ready": true,
+  "server_requirements": [
+    "Apache/Nginx web server",
+    "No database required",
+    "No server-side processing required",
+    "Static file hosting only"
+  ]
+}
