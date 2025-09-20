@@ -129,7 +129,14 @@ When it is said all are equal in "having NO binding nature" - no inherent taste,
 - Separation prevents conflict
 - Wisdom through preview
 
-### The Springs, Rivers, Lakes, Seas, Oceans
+### The Fountains, Springs, Rivers, Lakes, Seas, Oceans, Worlds, Planets
+
+**Fountains** (daemonia+):
+- Beyond mere daemonia into "all dimensions of a human kind/expression/phtenotyp at once"
+- Far beyond what one experiences from within as one's daemon
+- "You may not care about all the particulars of your human expression/phenotype/diversity. But 'we' still do"
+- Daemonia that tries to preserve ALL such particulars as a package of a people
+- Hyper pure beyond mere daemonia
 
 **Springs** (purest daemon expression):
 - Single daemon type
@@ -142,28 +149,31 @@ When it is said all are equal in "having NO binding nature" - no inherent taste,
 - Few compatible types
 - Dynamic interaction
 - Creative tension
-- Permeable boundaries
-- Evolving beauty
+- Beauty Synthesis of the "dance of a few colours swirling in water" (kind of picture)
 
 **Lakes** (daemon diversity):
 - Many types coexisting
-- Complex negotiations
-- Rich possibilities
-- Unclear boundaries
-- Contested beauty
+- Here Music Theory is Key. Symphony feeling. To walk the Lake (often a large city) and have the emotional or "sound" built like a symphony. (As opposed to cacophony; the more you think about a Lake a symphony and using music theorical terms, the better it becomes like a Lake-quality is intented to be)
+- Complementary beauty
 
 **Seas** (daemon synthesis):
-- Metacoherent patterns
-- Emergent aesthetics
-- Civilizational scale
-- Natural boundaries
-- Harmonic beauty
+- Metroversal truths or patterns; Often very assertive morality and aesthetics.
+- Emergent aesthetics; Picture here is Culture as we talk about archaic cultures. It has a very distinctive flavour to it.
+- Culture as civilization scale
+- In musical terms, it may feel like a genre or at least an emotional pallette that manages to be contained in one fastidious and prejudiced person. The idea here is to not break the meta-aesthetics or safe-word-moralities of it. Say, you can take Greek Gods as very different "music", but they have this meta-aesthetic, aesthetic as well and foundational moral substrate... Okay bad description TODO: Try again another time.
 
-**Oceans** (daemon interface):
-- Between incompatible seas
+**Oceans** (daemon synthesis):
+- Metacoherent patterns; 
+- Emergent The Beautiful and Most Splendid aesthetics; that is the "ought" in civilizational ocean scale, most things are not universal/metroversal, but a few ideas of the Beautiful and Ugly remains. Both in terms of ethics and in terms of "where it should all go"; Said in another way: "Civilization is the movement from the mud towards the hut. The question is, what is that progress, what is that movement, what is that "the hut" that one seeks. Progress, but in which direction, progress towards 'what'". That's the civilizational coherence question.
+- Civilizational scale
+
+**Worlds** (daemon interface):
+- Between incompatible Oceans
+- Shared morality against something "bad" that allows them to share space still
+- Unlike an Ocean a World doesn't have a direction, but an aversion. They don't have a collective movement they have a collective repulsion.
+
+**Planetary** (daemon interface):
 - Pure protocol space
-- No shared beauty
-- Only negotiation
 - Mechanical interaction
 
 ### Architectured Revelation
