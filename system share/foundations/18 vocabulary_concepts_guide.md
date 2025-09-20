@@ -47,7 +47,7 @@ Sovereign moral/spiritual worlds created around unifying will and daemon -- that
 Opinionated desire to see all Triads with nested-accumulated-routing to include that axis law structure:
 - 1234: Protective floor (no killing, suffering, imprisonment/go-free-somewhere, "I" transformation)
 - 0: The Sovereign enforcer
-- 4321: Aspirational ceiling (becoming, fulfillment, meaning, existence)
+- 4321: Open Sky for Aspiration (becoming, fulfillment, meaning, existence)
 
 ### Triadic Formation
 Three requirements for sovereignty: Will (leader), Law (philosophy), Substrate (people/territory). Special degenerate cases: system-of-no-system-as-sovereign, no-added-law-as-law, no-particular-persons-as-substrate-but-free-roam. (In routing symbols it would look like "♦_{∅}✳" Which is a useful surrounding within a Triad between sub-triads/nested-triads. Then it is inferred by routing information the rest. Or it could be used at planetary level too. Though Ubiquity Law of MBC suggested. But hey, maybe some asteroid miner civilization do it fully :P)

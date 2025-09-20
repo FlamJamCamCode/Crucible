@@ -66,7 +66,7 @@ There aren't really any rules other than: Natural Selection is the point. But a 
 - Can judge and punish
 - Can choose to promise not to violate 1234
 
-**Aspirational Ceiling** (4321):
+**Open Sky for Aspiration** (4321):
 4. Becoming → Freedom to manifest; To change; Become. Including exactly what you are now.
 3. Fulfillment → That moment of having seen work and effort come to fruition and crescendoes. To feel empowered in impact upon the planet or at least one-self. To move and do, then experience and behold what came of it.
 2. Meaning → It isn't all between "nice" and "nicer". But truly depths in it all.

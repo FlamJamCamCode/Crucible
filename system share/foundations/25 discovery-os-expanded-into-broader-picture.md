@@ -135,7 +135,7 @@ Maximum freedom through fractal nesting
 - The REALITY of power: Horns, Golden Laurels, Laurels
 - Without their might, the protections are just words
 
-**Aspirational Ceiling (4321):**
+**Open Sky for Aspiration (4321):**
 - **4**: Becoming
 - **3**: Fulfillment
 - **2**: Meaning

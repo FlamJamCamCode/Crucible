@@ -12,7 +12,7 @@ The Halo or law "Is the Kind or Guiding Garment of what not to do" - the 1234 pr
 - **3**: Free Somewhere (having at least one place to be free)
 - **4**: Self Boundary (protection of the "I" against unwanted invasion)
 
-The aspirational ceiling 4321:
+The Open Sky for Aspiration 4321:
 - **4**: Subjectivity As End (the subject's will/becoming valued as an end)
 - **3**: Meaning (refusal to level all things, maintaining distinctions)
 - **2**: Fulfillment (will manifesting and reaching its fulfillment)

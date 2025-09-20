@@ -62,7 +62,7 @@ Since Ocean is the pragmatic force uniting incompatible Seas:
 - **3** - Free Somewhere (having at least one place to be free, manifest will, and be safe)
 - **4** - Self Boundary (protection of the "I" against unwanted invasion or change)
 
-### Aspirational Ceiling (4321)
+### Open Sky for Aspiration (4321)
 - **4** - Subjectivity As End (the subject's will/becoming valued as an end in itself)
 - **3** - Meaning (refusal to level all things, maintaining distinctions and value hierarchies)
 - **2** - Fulfillment (will manifesting and reaching its fulfillment)
