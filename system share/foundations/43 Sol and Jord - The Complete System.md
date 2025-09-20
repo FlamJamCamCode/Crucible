@@ -90,7 +90,7 @@
 - **Natural sorting by resonance** creates voluntary separatedness
 - **Simulation before suffering** prevents daemon clash
 
-**The Springs, Rivers, Lakes, Seas, Oceans**:
+**The Springs, Rivers, Lakes, Seas, Oceans, Worlds, Planetary, Fountains**:
 - **Springs**: Purest daemon expression, single daemon type, intense coherence
 - **Rivers**: Few compatible types, dynamic interaction, creative tension
 - **Lakes**: Many types coexisting, complex negotiations, rich possibilities (Typically known as non-chaotic cities; Coherent or harmonious or symphonic cities; Some cities of today at in the Planetary Triad-quality)
