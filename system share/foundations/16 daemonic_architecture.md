@@ -232,7 +232,7 @@ True progress requires direction, discrimination, and qualification. We must kno
 
 **Sophisticated Power Distribution**:
 - **The Navigator** (vision/direction)
-- **The Pilot** (execution/implementation/intelligence)  
+- **The Pilot** (execution/implementation/intelligence/navigational-assistent/map)  
 - **The Keeper** (maintenance/preservation/the-is)
 
 This triad structure allows for natural specialization while maintaining fluidity and mutual enhancement rather than rigid hierarchy.
