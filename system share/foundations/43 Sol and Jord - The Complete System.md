@@ -12,7 +12,7 @@
 **The Three-Layer Integration**:
 1. **Designing Layer**: Architectures, will, and intent specification
 2. **Technicalities Layer**: NSS-style solving of implementation details
-3. **Actualizational Layer**: DiscoveryOS and Aiddaemonic will-coalescence markets
+3. **Actualizational Layer**: DiscoveryOS, NSS, and Aiddaemonic will-coalescence markets
 
 ---
 
@@ -221,7 +221,7 @@
 
 ---
 
-## Layer 3: Actualizational - DiscoveryOS and Aiddaemonic Will-Coalescence Markets
+## Layer 3: Actualizational - DiscoveryOS, NSS, and Aiddaemonic Will-Coalescence Markets
 
 ### The DiscoveryOS Self-Constructing Infrastructure
 
@@ -351,6 +351,7 @@
 
 **Actualizational Layer Operations**:
 - DiscoveryOS hardware discovery and capability mapping
+- NSS performance-based resource flow and natural selection
 - Aiddaemonic will-manifestation and personal AI assistance
 - Will-coalescence markets and pwnership systems
 - AR/VR information enrichment and phase separation
