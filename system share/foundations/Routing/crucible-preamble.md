@@ -25,7 +25,7 @@
 - **3 - Free Somewhere**: Having at least one place to be free, manifest will, and be safe
 - **4 - Self Boundary**: Protection of the "I" against unwanted invasion or change
 
-**For Ascent (4321) - Aspirational Ceiling:**
+**For Ascent (4321) - Open Sky for Aspiration:**
 - **4 - Subjectivity As End**: The subject's will/becoming valued as an end in itself
 - **3 - Meaning**: Refusal to level all things, maintaining distinctions and value hierarchies
 - **2 - Fulfillment**: Will manifesting and reaching its fulfillment

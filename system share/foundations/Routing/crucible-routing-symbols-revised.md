@@ -17,7 +17,7 @@ Where:
 - **♥**: Preference/particular love orientation
 - **[CENTER]**: Sovereignty type or binding force
 - **♠**: Universal/baseline love orientation  
-- **4321**: Aspirational ceiling
+- **4321**: Open Sky for Aspiration
 
 ### The MBC Hope
 The 123 (no killing, no extreme suffering, somewhere free) represents the hope for planetary or at least cross-oceanic routing - the minimal agreements that might enable universal movement.
