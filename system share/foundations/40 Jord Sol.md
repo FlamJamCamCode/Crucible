@@ -27,7 +27,7 @@
 **Jord** serves as the **Universal Knowledge and Social Platform** that visualizes nested zones on Earth, evolving over time with "events" that represent all human activity. This system fundamentally replaces existing human systems:
 
 - **Replaces Academia**: Historical research, peer review, knowledge sharing through trust networks
-- **Replaces Encyclopedias**: Comprehensive knowledge base with history/historiography separation
+- **Replaces Encyclopedias**: Comprehensive knowledge base with history/historiography separation. Clear difference between landscape and maps. Most of science has category error on those lines
 - **Replaces Social Matchmaking**: Connection through shared zones and will-resonance
 - **Replaces Governance**: Zone-based decision making and representation through Crucible Triads
 - **Replaces Marketplaces**: Zone-based commerce and resource trading through will-coalescence
