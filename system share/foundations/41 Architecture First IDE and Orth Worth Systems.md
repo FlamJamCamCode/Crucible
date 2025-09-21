@@ -18,7 +18,7 @@ The system implements three layers or languages to the same "language-closure":
 - Like Forth programming language, but much fewer definitions out of the box
 - Much more "general" or unopinionated in relation to the underlying model
 - All it implements is a meta structure of generating a language when running WebAssembly interpreter
-- **Orth** = "Ord" (Danish: Word, English: Order shorthand)
+- **Orth** = "Ord" (Danish: Word and d ending being eth which sometimes becomes thorn in english or th, English: Order shorthand)
 - Removes the "F" from Forth (The Fail shorthand), eliminating opinionated mental model requirements
 - **Private Language**: Your personal symbols-of-meaning, not shared
 

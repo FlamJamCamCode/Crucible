@@ -289,6 +289,10 @@ Your AR becomes a **learned intuition engine**:
 - Your system learns to "taste" these patterns
 - But it's all felt as intuition, not conscious choice
 
+The usual interaction is LLL will-manifesting, having tacit PoP and PoU and even Trust network and general predictive capacity learning increase. Which causes anyone to earn by playing the game of trying to manifest their will in the real world.
+
+LLL games then usually use AR to visualize, intuit or create a more interesting or easily understood human-to-human interactive dynamic.
+
 Blob class learning happens at the gossip level:
 - Blob class #7823: [gossip pattern leading to deep conversations]
 - Blob class #3421: [gossip pattern creating flow states]
@@ -300,14 +304,25 @@ Blob class learning happens at the gossip level:
 
 ## Trust Networks Through Witness Testimony {#trust-networks}
 
-**Proof of Person (PoP)** establishes that pseudonyms represent real humans through accumulated witness testimony, NOT through specific verification methods. While rhythm games in AR might be one approach, the core is:
+**Proof of Person (PoP)** establishes that pseudonyms represent real humans through accumulated witness testimony, NOT through specific verification methods. While rhythm games (music, dance or simply "harmonizing/phase-aligning" movement of person) in AR might be one approach, the core is:
 
-- Real people witnessing other real people in physical space
+- Real people witnessing other real people in physical space; (Providing them the equality assumption of trustless systems vote, that otherwise requires PoW: Strength of Person Belief and connectness+coverage proved as person. A lot more on this in some other documents somewhere.)
 - Accumulation of testimony creating "network-strength-of-existence"
-- Binding pseudonyms to persons who face real tit-for-tat consequences
+- Binding pseudonyms to persons who face real tit-for-tat consequences; The ability to act against a person, not flags, corporations or other abstractions.
 - No identity revelation required, just personhood verification
 
 This enables trust without surveillance. Bad actors can't just create new identities after betrayal - they lose their accumulated witness network. **More importantly, their reputation becomes "trust network viscous"** - but this viscosity operates through gradients of trust network overlap.
+
+"My brother told me he beat, raped and stole from her!"
+Such things is "nice to be able to tit and tat for"
+Then any other aspect you can imagine. Empowerment to affect the world in your any interaction or choice to the degree it matters to you.
+To have information spread in reliable and trustworhy fashion.
+And to coalesce and disentangle on those lines of Will.
+
+("Why would you lie about such a thing! You've ruined your own trustworthiness.. And mine!! My otherwise splendid transitivity of trust was ruined by my blood-trust without actually having viewed your true trustworthiness with unbiased and critical eyes!"
+"Before I was viewed as trust improving, if information had flown through me, gossip or a statement, then I was a filter than made it much more likely to be true! But now it has all collapsed by my unquestionable loyalty and trust in you... A blood curse it seems to me! Don't you understand I was earning so much being such an information gold standard node!")
+
+(P.s. Economic game theory simulation strategies, has some interesting results when anonymity or cover (corporation etc) can be applied - especially when it is global or very large markets - in terms of cheating and other non-consentual strategies. I.e. PoP without corporations or flags/states and so on, on its own would revolutionize the quality of those who attain power. In states and in the market.)
 
 ### Trust Networks as Information Conduits
 
@@ -315,10 +330,10 @@ A crucial insight: Trust networks don't just filter out bad actors - they **enab
 
 - **Shared discoveries**: When one member finds a great utility provider, the knowledge spreads
 - **Collective learning**: Trust networks accumulate wisdom about what works
-- **Desire visibility**: Learning what others actually want, not just what works
-- **Pathway optimization**: Members share successful computational routes
-- **Will coalescence enhancement**: Information about compatible gatherings flows through trust
-- **Economic opportunities**: Trust networks become channels for valuable opportunities
+- **Desire visibility**: Learning what others actually want, usually learning how to facilitate what other want, without keeping state of what each other want in any explicit fashion (note it is also inherent by privacy need (not full 'I' shared) and the reality of changing 'wants' in a person: 'I shall inform the absolute minimum to the sufficiently trusted only and with as much stealth but in order to achieve what I want').
+- **Pathway optimization**: Members share successful computational routes; Often they 'are' the computational/manifestational-whatever-domain routes. (Consider needing brain surgery. Or an airplane ride. Or a renovation of your bathroom. It fundamentally plays into anything. And especially in terms of privacy preserving sufficient to be allowed the computers of the information substrate)
+- **Will coalescence enhancement**: Information about compatible gatherings flow through trust
+- **Economic opportunities**: Trust networks become channels for valuable opportunities; Exit node for obfuscation. Entry nodes for massive information filtration. All things coordination.
 
 This creates positive network effects where being in a trust network provides:
 - Better utility options through collective discovery
@@ -326,8 +341,8 @@ This creates positive network effects where being in a trust network provides:
 - Enhanced will fulfillment through information flow
 - Economic advantages through trusted opportunities
 - **Richer vocabulary** as networks adopt useful neologisms for discovered patterns
-- **Privacy through social trust** rather than cryptographic overhead
-- **The right to be forgotten** as a social rather than technical guarantee
+- **Privacy through social trust** rather than cryptographic overhead; The current state is unspoken trust in providers like AWS, but then pretending that trust relationship assumption, or acting as if, isn't already there, causing: cryptographic protection against 'outside' because you're not 'inside'. But if trust was explicit, then you were 'inside' and it then need no interface outside that needs protection.
+- **The right to be forgotten** as a social rather than technical guarantee; There exists no technical guarantee in the modern world. No system is secure, and usually it is done through law with the subsequent promise of having implemented it correctly. Which very few even attempt. Most simply have the latent risk of bankruptcy if circumstances turn against them and use the law with it; See CohesionNet as an alternative to law and regulation. Protocol design that 'makes it so' or 'brings convergence towards it'.
 
 ### Varieties of Trust
 
@@ -346,9 +361,9 @@ Different providers specialize in different trust types. A provider might be tru
 Perhaps most importantly, trust networks **eliminate enormous amounts of defensive work**:
 
 **Without trust, systems require**:
-- Heavy regulation and compliance checking
+- Heavy regulation and compliance checking; post hoc solving and gaming the system; deceit and hiding cheat.
 - Trustless computation with cryptographic overhead
-- Constant surveillance and verification
+- Constant surveillance in blind application, random targeting, equal rules/law and verification. ("You have to do this overhead work, such that we can verify that blah blah blah" against anyone. Waste. Of. Time. Against those who need it not. Because of those who need to be whipped have swarmed their society, while they believe it good "to be equal before the law". Trust Networks fix it all. It manages to catch ANYONE who fails, but it allows those who do not fail, to be unbothered, even by things like cryptography or contracts and law)
 - Complex legal frameworks and enforcement
 - Encryption and data isolation architectures
 
@@ -356,17 +371,19 @@ Perhaps most importantly, trust networks **eliminate enormous amounts of defensi
 - Skip regulation when you trust the food maker
 - Share data freely with trusted computational nodes
 - Allow rich AR predictions without privacy concerns
-- Enable heavy Aiddaemon reasoning without encryption overhead
+- Allow rich AR visualizations without knowing the computation
+- Enable heavy Aiddaemon reasoning on trusted third-party machines
 - Let coalescence services access your preferences directly
 
-**Trust providers as spot-checkers**: When you need verification but not constant surveillance, trust providers can do random checks:
+**Trust providers as spot-checkers**: When you need verification but not constant surveillance, trust providers can do strategic checks:
 - Animal welfare verification
 - Ethical compliance auditing
 - Quality assurance sampling
 - All without constant overhead
+- Hot Hand Cold Hand fallacy prevention by holistic perspective and not only score or test results.
 
 **Computational efficiency through trust**: High trust enables:
-- Direct data sharing instead of encrypted computation
+- Direct and broad and otherwise private data sharing instead of encrypted computation; (The government and hospital knows.... Well who are they really?? Why do you trust 'them'. All of them. Every single one of them. From supplier, machine owners or managers, to persons able to access it, to security issues, to law changes (trust "popularity representatives in perpetuity") and more.)
 - Rich predictive services that know your patterns
 - Heavy machinery AR visualizations with full context
 - Aiddaemon reasoning with complete information access
@@ -375,6 +392,7 @@ Perhaps most importantly, trust networks **eliminate enormous amounts of defensi
 - **Trust to forget** - providers delete your patterns after use
 
 **The Trust Spectrum**: The system accommodates all trust levels:
+(Stupid categories again. But let's assume the sentences have interpretations in context that makes them true for som PoP persons)
 - **High trust**: Let providers access everything, trust them to not look and to forget
 - **Medium trust**: Selective data sharing with audit trails
 - **Low trust**: Self-hosted solutions with your own hardware
@@ -382,17 +400,17 @@ Perhaps most importantly, trust networks **eliminate enormous amounts of defensi
 
 Each level is just another utility option - trustless computation is simply a provider that compensates for insufficient trust by offering cryptographic guarantees instead of social ones. The market serves all trust preferences equally.
 
-The amount of work eliminated by trust is staggering. Every defensive mechanism, every verification layer, every privacy-preserving computation - all can be replaced by simple trust relationships. This is why trust networks are economically transformative: they don't just enable new value, they eliminate massive costs.
+The amount of work eliminated by trust is staggering. Every defensive mechanism, every verification layer, every privacy-preserving computation, every disruption, every deceit, every regulation, every law, every contract - all can be replaced by sufficient simple trust relationships. This is why trust networks are economically transformative: they don't just enable new value, they eliminate all non-essential costs. (They encapsulate human constraints that "society" and "government" and "law" usually occupy and try to solve when you can't learn anything about anyone and all are equal before the law. They are the "society control" main interaction dynamic. Where Triads serve as the physical or dominating aspect: overacting or overriding or overpowering aspect.)
 
 ### How Reputation Viscosity Actually Works
 
 - You betray people in trust network A
-- You create new pseudonym witnessed by people from network B
+- You create new pseudonym, forsake all connection to old pseudonym, all possession tied to the pseudonym can only enter trustless domain or else tie new pseudonym to the old by transfer. Then with new pseudonym witnessed by people from network B
 - The reputation "follows" based on:
   - Overlap between witness networks A and B
   - Transitive trust connections between networks
   - Strength of proof-of-person chains connecting old and new
-- If networks A and B are completely disjoint, reputation doesn't transfer
+- If networks A and B are completely disjoint, reputation doesn't transfer; it can even anti-transfer: Belief in A by X causes belief ¬A or anti-A by Y. This dynamic is on full display in politics and most other antixenian (wrongly called tribalism. You can be xenian (Love of the other / exotic ) tribal or neutral tribal too. Tribalism merely states that one perceives the actors/entities of the world in tagged groups (memetic tribalism) or tribes (ethnic biological reality naming and lense focus) "culturism"? "Hellenism" "Chauvanism" "nationalism" "civilizationalism" "exceptionalism") human interaction.
 - If there's overlap or trust transitivity, reputation bleeds through proportionally
 
 This isn't "reputation follows you everywhere" but rather "reputation follows you in proportion to trust network connectivity." A bad actor might escape to entirely different trust clusters, but loses access to all trust networks connected to their betrayal.
@@ -403,9 +421,9 @@ The system provides a "soft valuation or belief in you being the owner of an acc
 
 **The Recovery Formula**:
 - You claim ownership of a pseudonym
-- Your trust network (who verified you as a person) agrees you're the owner
+- Your trust network (who verified pseudonym often as a person) agrees you're the owner
 - No legitimate contestants exist (or only enemies of your trust network)
-- = Good reason to accept a hard fork granting you new keys
+- Good reason to accept a hard fork granting you new keys; This the current cryptocurrency network could do too. "I lost my $2 billion key!! Oh no!" The same claim hunt could be had. "It's been three years now, and no one else has claimed to own that address and those money, and no one come forth now and prove it when we are about to hard fork it to the claimant". Sometimes I talk about I deserve some money from some persons... Whatever. What would I even use it for? Hobbiton ? Maybe someone to do all things that distract me. xD If I begin focusing on spending money I believe I have less impact.
 
 **Enhanced Recovery Through Network Diversity**:
 - Being verified across multiple "soft-disjoint" trust networks provides very strong recovery justification
