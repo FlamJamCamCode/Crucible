@@ -213,10 +213,10 @@ Following is Bad:
 
 
 
-Their utility is measured by outcomes:
-- Did their hints lead to good coalescence? +trust
+Their utility is measured by discovery and learning of good pathways prediction:
+- Did their hints prove useful to good coalescence?
 - Did they respect privacy boundaries? +trust
-- Did their predictions waste your time? -trust
+- Did their predictions waste your time?
 - Did they leak information? -trust
 
 The most trusted gossipers become **reality composers** - their AR recommendations literally shape how will-fulfilling your world becomes.
@@ -275,6 +275,8 @@ As the system scales, privacy increases through:
 - **Plausible deniability**: Even intermediaries can't prove specific predictions
 
 The global will-field becomes like atmospheric pressure - invisible but influential, while local systems create the weather you actually experience. No single actor can control it because it emerges from millions of anonymous interactions.
+
+Mining can function by PoP PoU of usefulness. Basically all person PoP receive mining-strata they then reward with as "blocks" upon Po(W/U).
 
 ### From Gossip to Intuition
 
