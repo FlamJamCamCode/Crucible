@@ -278,6 +278,9 @@ The global will-field becomes like atmospheric pressure - invisible but influent
 
 Mining can function by PoP PoU of usefulness. Basically all person PoP receive mining-strata they then reward with as "blocks" upon Po(W/U).
 
+Any utility can be rewarded in such fashion, of providing infrastructure trustlessly. A "democratic" and "trustless" provisioning of infrastructure where the payment is had by each person 'block rewarding' those that did it better than others. (See NSS document)
+In this case, it is "collecting information" or "being trusted to receive private information" then generating will-field physical perturbation that is useful in stealth/privacy mode. Then reaping block mining reward PoU from PoP utility actualization, beliefs or realizations. (Trusted to. Then betrayed it, let it leak, then no longer trusted. Such dynamic from the other end.)
+
 ### From Gossip to Intuition
 
 Your AR becomes a **learned intuition engine**:
