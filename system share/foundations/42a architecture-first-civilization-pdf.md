@@ -1123,7 +1123,7 @@ Whether finding computational paths, compatible humans, or healing journeys, the
 Everything learns and adapts:
 - Discovery OS learns actuator patterns in relation to will-topology projected into it for will-economic pathway discovery of will-manifestation of master commands, islanded or idle functioning.
 - Trust networks learn relationship topologies; find atlas coherence for private language learning or aiddaemonic intercommunicative precision learning. To utilize the communication gains from human-to-machine gained by Aiddaemonic will-topological mapping and encoding schemes (including all avenues of biometric reading and sending); towards coherence against other aiddaemons to allow for such hyper empower human-to-human communication. (Either you to aiddaemon, aiddaemon to human communication. Or if you want to talk directly to human. THen this: "Master, this word: [..]"... *pupils dilating in the other human* "... exactly.. yes..")
-- ~~Neural routers learn pathway effectiveness~~ I am not fan of it. Growing brains in vats. Nope. Imagine experience as that.
+- ~~Neural routers learn pathway effectiveness~~ I am not fan of it. Growing brains in vats. Nope. Imagine experience as that. Who the fuck was it that grew a human brain in a pig. I forgot. But man. It must be horrible.
 - Humans learn will-understanding through AI dialogue
 - Markets learn value distributions
 - The system learns how to learn better
