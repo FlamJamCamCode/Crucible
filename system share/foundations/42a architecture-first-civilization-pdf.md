@@ -633,42 +633,50 @@ The economic impact is profound: every dollar not spent on verification, regulat
 
 **Professional Services Revolution**:
 Instead of paying for credentials, markets pay for proven utility:
-- Lawyers ranked by case outcomes, not bar passage
-- **Doctors ranked by healing pathways found, not diagnoses named**
-- Engineers ranked by working systems, not certifications
-- Teachers ranked by student success, not credentials
+- Lawyers predictive in arguing your case well, not bar passage
+- **Doctors predictive in healing pathways, not diagnoses named**
+- **Surgeons predictive in never having unnecessary mess up surgeries and always having best effort and competent at that in relative terms** (See standard simpsons paradox of doctors; outcome versus skill of and degree of effort and concentration; or equality of category allowing for correlation when in category to be anti correlation when stratified within category in all subcategories. Which is to say, positive correlation can be negative in all importance. It is curse of the incomplete and attempted solved by blob classes 'all things considered' with subjective ought or importance of reduction or projective tractibilities)
+- Engineers predictive in systems coming about or working, not certifications
+- Teachers predictive in subjective satisfaction of "development" or "learning" or "becoming" or "perturbation" or "socializing" or "enjoying" or "happiness increasing" (impossible to give a reasonable shared idea of what matters to those seeking teachers), not credentials
 
 This creates massive economic efficiency as capable practitioners no longer need expensive institutional approval to provide value. The trust-utility system becomes the universal credential.
 
 **Medical Discovery Through Blob Classes**:
 The same dimensional reduction that finds computational pathways finds healing pathways:
-- Traditional: "Match symptoms to disease category → apply protocol"
-- Blob Class: "Map total health state → find successful healing patterns"
-- Result: Personalized pathways based on what actually worked for similar states
+- Traditional: "Match symptoms to disease category → apply protocol" (Often so blind as to kill patients in ignorance of other particularities that makes protocol lose its correlative benefit and become causally lethal. Also, less worse than lethal varieties down the line.)
+- Blob Class: "Map total health state in subjective patient 'caring' or 'description of issues or symptoms' and related to it all: predictive reductions → find successful healing patterns"
+- Result: Personalized pathways based on what actually worked for similar states of health and symptomatic description. (Note: lying too much about symptoms could be beneficial and could be worsening in ability to predictively find curing/healing pathways for someone. 'I am always tired', 'I am no longer tired', pathway inbetween. Curing healing only somatic versus also incorporating subjective valuation of body and mind. The system in the end, serves the subjective, even if it means divergence in 'functional types' of subjectivity in terms of objectivity predictiveness. (Note: This is descriped in detail enough to enforce any one way of consequence. So we will see how it turns out, when the many try to make these things, which are far superior to 'test/observation phase' into 1d category space description of a human health state "diagnosis" into treatment. (This is super duper hyper retarded for anyone other than the statistical person or the learning from books and theory person, basically: The ones writing the books that introduce a field to others, become so venerated, that their constraints of communicating the reality, becomes the profession. Which is so sad and retarded. "Figure out what is wrong with this person". "Aha! He is [insert diagnosis]. Therefore do [Insert correlative "statistical signifanct symptomatic treatment" (less than 1 in 20 when assuming no effect means stat sig. aka make 20 drugs with no effect and one of them is expected to be significant and then used by doctors. It is that sad.)]". Where it ought to be a rough guideline for investigating the mechanisms faulting in the organism, then finding a way to bring those parts back into proper functioning. Whether that is old age senescence of cells or that is apoptosis malfunction of cancer cells or whatever else it is.)))
 
 Practitioners who consistently find healing pathways gain high utility scores, regardless of whether they name diseases "correctly" according to traditional taxonomy.
 
 ### Cryptocurrency Backing
 
 The cryptocurrency gains fundamental value from:
-- Being the unit of account for global utility provision
-- Enabling computation without trust to recorded trust to subjective trust
-- Supporting refusal without explanation
-- Maintaining trustless fallback options
-- **Rewarding successful healing pathway discovery**
-- **Incentivizing health outcome verification**
+- Being the unit of human interrelation tangibility and provisioning of any kind of utility and providing the infrastructure for consentual human interrelation and discovering ways in which, otherwise unwanted interrelation can be had, through novel or innovative will-equilibriums reached across any domain: Including the boring devalued old ideas of currency or money (Which is a 1d projection of what this system does in its full dimensional space).
+- Enabling computation without trust to mapped and historized trust to subjective trust
+- Supporting refusal without explanation; If you will then you can. (1234 + routing-triad constraint)
+- Maintaining trustless options across all things. A range from trustless to trusted and even the untrusted (No reason to trust, but doing things as if trusting).
+- **Subjective predictive consequence and therefore convergence hyper encouraged and facilitated towards successful healing pathway discovery 'all things considered' about the patient**
+- **Incentivizing health outcome verification. Trust world. You suffer your tolerance or naivity. Lack of emotional/personal intelligence becomes expensive or predictively costly. (You keep trusting information from persons who lie or deceive or has some negative consequence because they are unfair in their dealings and so on)**
 
 It becomes "the indebtedness unit for maintaining this system and incentivizing computation efficiency and availability across the globe" - including the computational work of finding healing patterns in vast health data spaces. Practitioners who discover novel healing pathways can be rewarded when others successfully use their discoveries.
+
+This allows anyone who do "mining" of the fundamentals of this system to earn easing of will-equilibrium with others. (It can be designated in raw token quantity if you want).
+But also, by simply trying to will-manifest, which simultaneously is "mining" if you do it LLL or Trust/person-enknowing-work building, then you will discover massive will-coalescents overlapping and thus being able to manifest your will in diverse ways, including social psychological sustenance and luxurious needs.
+
+Often this is expressed, not in becoming "owner" or "pwner" of things, but "enjoyer" of things. But it could also, result in manifestation of "things" that you then own. Though, in this system, ownership is SINGULAR, it is PoP Person ownership always. This is to due with fundamentals of simulation economics and game theory, where the loss of responsibility and market-wide lever to effectuate misbehaviour or underperformance by hiding through "collectives" or "corporations" or "covers" or "nebulous responsibility" or "correlations" is the loss of transitivity of information in the system concerning what is allowed to be hidden in such a way. Therefore, when you instead enforce all things to be clear cut "a person" ownership and responsibility, then you can deduce things, instead of inferring with massive almost 100% loss of transitivity when taking correlations of correlations of correlations.
+This is the root problem, that allows the trickster, deceiver and destroyer to rise to prominence and power against the will of others.
+It is also a sufficient reason for why ScienceTM sucks. (See Terrance Tao on when correlation is transitive blog post or read some "high dimensional statistics" books or consider assumptions of probabilistic graphical models and mapping it onto systems of the real world, and why they are not applicable to the "covers" you make)
 
 ---
 
 ## Civilizational Emergence Through Trust Divergence {#civilizational-emergence}
 
-The system doesn't build one civilization - it discovers multiple civilizations where will coheres sufficiently to create directional movement. These emerge naturally through:
+The system doesn't build one civilization - it **discovers** all civilizations where Will will itself and Will coheres sufficiently to create directional movement. These emerge naturally through:
 
 - People gathering where their will manifestation aligns
-- Natural separation where wills conflict
-- **Trust map divergence when groups disagree about utility**
+- Natural separation where wills conflict; (Imagine finding will-equilibrium with others, where you are ruining it for them, or consequent repercussions of actively doing that. It has the consequence that if you don't think about, then you simply see less predictive outcomes of going against will-disentanglement. It is so to speak not will-economic to "not avoid those will you not")
+- **Trust map divergence when groups disagree about utility**; Aejetivities. Or disagreement of objectivity, that is aligning and shared across some individuals. This causes "reality to split" in terms of facts and offer instead different "worlds" in the sense of their ground "truths" of it all being different. THis is not a problem, it is merely realizing the distance of each other into manifest divergent worlds. Then "the universe" becomes the truth arbiter and judge, on those things not beholden to interpersonal relation, which is solved merely by actuality distance or disjointedness. A place on the planet for us all. But where interpersonal issues and beliefs causes separation and less interaction, instead of dispute, discord and domination. Which is "preferable". Then whatever truths one has against The Truth Of The Universe (Which we should all have humility in asserting too strongly) is then facing its manifestation in The Crucible and degrees of isolation from each other therein and thus degrees of facing "purely" the truths of the universe. (There is a caveat here: World Catastrophe and Unacceptable realities. In documents See or search for words like Might With Right and Ubiquity Law and Leverage)
 - No forced merger or boundary management needed
 - Even conflicts create landscape topology rather than requiring suppression
 
@@ -676,17 +684,23 @@ When groups systematically disagree about whether utility was provided, their tr
 
 ### High-Leverage Actor Terraforming
 
-Influential people shape the economic landscape through their subjective valuations:
+In the old delusional world about "pricing", then influential people can shape the economic landscape through valuations:
 - A billionaire valuing local artisans at 1000x creates economic attractors
 - Influential figures refusing certain practices create economic barriers
 - They terraform the landscape of possibility through differential valuation
 
+In the new landscape, then terraformation is not able to be had by dominating abstractions, since everything becomes subjective and tangible.
+But instead materializing or facilitating real manifest change upon the world.
+That is, the high leverage actor, can, as the world is of mercenaries (low dimensional choosing of who and what to work on (The extreme variety only salary or money)) at this moment, command - in effect - the masses of men and women, to put their effort and work into creating this or that.
+If done right, then it can become terraforming, offering new solutions or horizons to stand upon or work from or live in or believe or rally to.
+
 **In professional services**, high-utility practitioners become terraformers:
-- A renowned surgeon valuing a new technique creates learning attractors
-- A successful entrepreneur refusing certain practices shapes business ethics
-- Master craftspeople valuing apprentices creates skill-transfer pathways
-- **Healers who find novel pathways inspire exploration of new approaches**
-- **Patients who achieve unexpected recovery reshape understanding of possibility**
+- A renowned surgeon valuing a new technique creates learning attractors; imitation and attempting to discover manifestation-pathways, can often benefit from beliefs from other persons.
+- A successful entrepreneur refusing certain practices shapes business ethics; This allows others to find will-equilibrium strongly on those dimensions that are under consideration or in this case refusal when trying to acquire what he has to offer.
+- Master craftspeople valuing apprentices creates skill-transfer pathways that is perhaps more will-economic for the apprentices. And the vice versa could also be said. And sure, wanting to "value apprentices" can have an effect, but also, the system kinda reveals when you're lying to yourselves too much. (So, why don't you ever take the choices towards that? So, why is that so outlier in your will-topology)
+- **Healers who find novel pathways inspire exploration of new approaches and more importantly is an example of Diversity Preference that has many effects: like robustness, like suboptimals or plateauing destruction and so on**
+- **Patients who achieve unexpected recovery reshape understanding of possibility** At the very least, it is the most interesting statistical data. To discover *exactly* what causes outlier success in otherwise dreadful categorizations. THis is the utility of statistics, to discover who these persons are, such that their real biology or (mechanics of a system) can be understood entirely, to facilitate a reproduction of those mechanisms that cured it.
+You tell me if ScienceTM is doing it right or wrong. (See Terrance Tao on transitivity of correlation and something as silly as what it means to be stat sig and effect sizes in studies and their focus on symptoms and diagonsis: Doctors who apply "The ScienceTM" protocols or drugs, are idiots. They do not do anything medical professionally, they merely test and apply processes that have correlative suggestions of effect on category-persons. They have no idea of the mathematics and the room for fault in applying that process from mathematical statements of "TreatmentTM", and FURTHER the assumptions made when doing even an individual study is irrational and often deliberately removing of unwanted data. Medical doctors often become merely 'test' and 'apply what authority/book/science says' with very little understanding of the condition and especially of what is proved about the thing they apply.)
 
 This is theoretically the most peaceful path to world-structuring - consensual landscape shaping rather than force. When institutional gatekeepers lose monopoly power, actual expertise gains influence through proven utility. In healthcare especially, this breaks the monopoly of "official" medicine, allowing any effective healing approach to gain recognition through verified outcomes.
 
