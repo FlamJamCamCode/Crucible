@@ -1024,34 +1024,32 @@ Instead of memorizing "if symptoms A+B+C then disease X then treatment Y," the s
 
 The challenge presented, is to make it such that, the effect of analysis is as if it could consider all things at once.
 
-
-
-
-
-
 **The Phase Engine for Health**:
-Just as the AR Phase Engine shows will coalescence probabilities through color saturation, a Health Phase Engine could show:
+Just as the AR Phase Engine can be visualized to provide will coalescence probabilities through hue and saturation, a Health Phase Engine could show:
 - **Treatment pathways** colored by healing probability
-- **Practitioner matches** based on success with similar cases
-- **Lifestyle changes** weighted by outcome likelihood
-- **Novel approaches** discovered through pattern matching
+- **Colour every action of your life blackened if moving you towards disease or death; show 'health potion' varities for steps or literal moving in directions that had great probability of having "high health"- or "functional organism"- increasing effects.
+- **Practitioner matches** based on their position in actuality of actualization as a step or node or interactor/interactant along living real-time locally while aligning ones intent and will across many dimensions and across others' and their will across many dimension in what is called: Will-coalescence (Okay, now I've sold the concept enough. Henceforth you know what it is or else see the document about it)
+- **Lifestyle changes** "weighted by outcome likelihood" Real time living with real time predictive consequence in your will-topology (The reduction of 'all things considered' for your subjectivity or values or will or emotion or intent... Reduced into computational tractibility through Blob Classes that capture as much depth to your entire daemon preserved as possible; and transformed into a quantized landscape of will across nebulous dimensions that one can find optimal or overlap in when evaluating different discovered 'processes' from a to b.) (will-economic effects visualized).
+- **Novel approaches** discovered through "intelligent discovery"... However it may be innovative or domain specific reached.
 
-A patient with complex chronic conditions doesn't need a diagnosis fitting a narrow category. The blob classes find similar health journeys across all recorded cases, predicting which pathways led to improvement regardless of traditional disease classifications.
+A patient with complex chronic conditions doesn't need a diagnosis fitting a narrow category. The blob classes find similar health journeys across all recorded cases, predicting which pathways led to improvement regardless of traditional disease classifications. (One nice starting point at least. We make our predictions and guesses. We try to do better. Everyone tries natural selection polymorphic crucible let's those that can grow exponentially while trying to make every survive for another day of exponential growth and overtaking of it: Diversity Preference)
 
 **Practitioners Become Healing Guides**:
-- High-utility healers recognized for finding successful pathways
-- Specialization emerges from proven success patterns, not declared expertise
-- Novel healing discoveries spread through trust networks
-- The system learns from every outcome, continuously improving predictions
+- High-utility healers recognized for finding successful pathways; for being useful parts to pathways. Or coalescents along a life lived locally :P (It does not mean to not travel. It means to live in the real world or AR world going about the place you happen to find yourself in. It allows for everyone DOING SOMETHING xD Which if helped guided and navigated will allow for EXTREME TERRAFORMATION AND WORLD TRANSFORMATION xD Turn Off The TV and Zombie Machines (Viewed from bird perspective ignoring the content of the machines))
+- Specialization is often only discovered from proven success patterns, or the lack thereof though proclaimed and declared expertise.
+- Novel healing discoveries spread through trust networks; The reliability , truth, information, anxiety, security and so on foundational substrate. "The 'Any You' collective power houses".
+- The system learns from every single thing with useful information that can be extracted, continuously improving predictions
 
-This transforms medicine from a gatekept profession applying rigid protocols to a dynamic discovery process finding healing pathways through the vast space of human health states.
+This transforms medicine from a gatekept profession applying rigid protocols to a dynamic discovery process finding healing pathways through the vast space of human health states. <3
 
 **Novel Healing Discoveries**:
 The blob class approach enables recognition of healing patterns that don't fit traditional medical categories:
 - A movement pattern that helps various "unrelated" conditions
+- A communal way of living with weird rituals and circadian rhythms
+- Alternating strange polarities of lifestyles going from one extrema of place to another
 - A dietary change that improves conditions across different organ systems
 - A social intervention that accelerates physical healing
-- A combination approach that only works when applied together
+- A combination approach that only works when elaborate melodies of acts and lifestyle changes happen in musical fashion / applied correctly together (parallel in particular fashion) and sequential order of things (Like a musical piece)
 
 These discoveries spread through trust networks based on proven utility, not journal publications. A practitioner in rural Montana might discover a healing pattern that helps patients worldwide, verified through the trust-utility system rather than institutional approval.
 
