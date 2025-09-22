@@ -903,6 +903,7 @@ Medical schools will still exist, but much more in the sense of 'schools' (A hol
 - Transfer path: Related expertise → Adaptation → Utility proof
 - Innovative path: Novel attempt ...
 
+**Rant on predictability and competency and process monopolies.**
 What is expertise. How proven method of solving something. Or "FDA Approved Drugs".
 What is Science trying to do. What is regulation trying to force error side of things concerning regular Science.
 What about such a thing as Trinity Bombs?
