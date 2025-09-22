@@ -738,22 +738,23 @@ The addition of "forget" to the discovery pattern is crucial - without it, syste
 ### Three-Layer Pattern
 - Computational: Architecture/Logic/Machine
 - Human: Will/Emotion/Action
-- Economic: Demand/Negotiation/Execution
-- Trust: Identity/Reputation/Verification
+- Economic: This-over-that-choices/choice-past-generation/choice-actualizationsed
+- Trust: Identity/reputation-belief-and-connectivity/daemon-reality
 
 ### Trust Building
 Always through real interaction and consequences:
-- No abstractions without witness testimony
-- Tit-for-tat strategies work because identities can't be shed
-- Computational units inherit their operator's trust
-- Utility confirmations create trust consequences
+- No abstractions without witness testimony; The difference between facades and seeing eye to eye, and what lies behind the eye. The difference between your trusted friend or coworker, versus the depth of trust you have in a politician. The beknowing and the beshowing :P It is very useful to have the recursive stability units of trust as persons (the imagery of the benevolent father or shepherd or deontological stoic virtuous person or something like that, where any ill-doing or dishonesty could never grace their conscious without massive internal raging against it. "The opposite of a blackmailable person" hence why I mention stoicism), who then becomes conduits of these beknownings instead of the broadcasting beshownings. You can imagine information flowing, also concerning beliefs about persons or their fundamental trustworthiness which girdles or underpins the entire informative aspect to "information", then having 'different types of persons do their best at facilitating it for you'. Then imagine those with character that could be swayed by gain and those that could not. Those that universally or absolutely act, versus those that conditionally act. Hence the deontological virtuous person often becoming the ones with the highest trust-valuations or potentials or beliefs. It isn't a mere "wish to be" though that can be quite impactful. It is also, and I'd say most importantly, a fundamental aspect of character. Or greek understanding of virtue, which is Natural or daemon bound. *IS* it you. Or do you try to *possess* it. *Imitate* it.
+*Character Virtue*, versus *History Virtue* or *Acts Virtue*. (Not to say one is THE WAY to view "ethics" in all cases, but I like to distinguish between the two in that sense. Ethics is belief in the good, morality is act of the good, and ethnos is the natural ethics of a person. It is ethnos and ethics convergence that decides if morality for you is hard or not. Whether you say you "fall into vice and rise with struggle to virtue" or vice versa. The Jesus perspective, is then, I agapeanly love you all, which is to say, EVEN YOU creature of malice and deceit (ethnos accusation), yes even you, if you merely 'act' and 'believe' (adopt morality and ethics) then despite your ethnos you too shall be saved. This is the Greek understanding of Agape as well, the Love that can be universally had. Whereas the other kinds of love described by the ancient greeks (us) are very biased, like eros (romantic) erotic (sexual) xenia (exotic) philia (brotherly) storge (from parent to child) autophilia (not 299 brothers but 300 brothers) and so on)
+- Tit-for-tat strategies work because identities shedding is starting over in the trust system and potentially becoming known again or seeing viscosity of reputation gradiently expressing itself across lands. (PoP proving your personhood, gaining new PoU predictiveness in you and your pwnership&new-ownerships and moving old-ownership items into Trustless supply instead and so on)
+- Computational units ARE their owner&chain-operator trust; they damage owner.
+- Utility confirmations create trust consequences; (You can consider it interaction friction. If there is dispute in will-equilibrium real-time consent reached or step thresholds that result in disagreement. Then that creates inefficiencies in the interactuality. Which, under informed will-economic rationality causes divergence between the two. Not only in trust, but general will-economic efficiency of using each other. These things then happen in clusters of information sharing (Trust Network foundations). Which causes collective diverging from each other. (The expected state is at least: 1 actuality of pragmatic interactuality without friction by good character honesty and so trust justified. And many with too much bias to be general. As well as interactualities of those who are mostly denied utility when 'all things are considered', who then benefit from the Trustless (anonymous) varieties of interactuality))
 - **Information flows through trust create collective intelligence**
 - **Shared discoveries amplify everyone's capabilities**
-- **Trust eliminates defensive overhead and verification work**
+- **Trust eliminates defensive overhead and verification work: anything friction in interacting with another on pragmatic terms** (Towers Between Civilizations and possibly Worlds, are these types of persons.)
 - **High trust enables rich services impossible in trustless systems**
 
-### Markets as Universal Solvers
-Every layer uses market dynamics:
+### Natural Selection (Through human will -- which then encapsulate all dimension any human can think of. System cares about that which is anything of us) and reliable predictive will/daemon information flow with automatic real-time consent approximation and "the automatic" strongly mirrored and controlled as Universal Solvers (What Markets could dream of meaning, so let's pretend that):
+Every layer uses "market dynamics":
 - Hardware actuators selected for computational work
 - Trust providers compete for verification work
 - AR games manifest will fulfillment
@@ -765,28 +766,50 @@ Every layer uses market dynamics:
 ### Pattern Discovery Across Domains
 The same discovery process works everywhere:
 - Computational paths through distributed systems
-- Will coalescence paths through human connections
+- Will coalescence paths through information/communication (This point supersets all other points; in fact one should insist that all other points should be defined as subsets to it. Because if it doesn't ultimately serve our will, then it fails the vision in the first document: We Will the World. Whatever we make, is to be OUR WILL against the will of all else. (The 'our' here is Animus or Life perhaps. Will of Life (In biased multiplexed hierarchy according to Will of each (See Might With Right... Every and Any human empowered to leverage and find tangibility in will-manifestation and facilitation in all its dimensions including coming together and coming apart and acquiring land and resources and information....))))
 - Healing paths through health state space
-- Economic paths through value creation
+- "Economic" paths through "value creation" (Can you hear how outdated and obsolete these statements are? xD Only by substituting the meaning of these words. Economic and "value" and markets, with the units of this system, is it not outdated and simple incorporated as a retarded reduction of what the system does)
 - All use blob class learning to navigate vast possibility spaces
 
 ### Language as Emergent Discovery
 Language itself evolves through the same pattern:
-- Neural networks discover unnamed patterns
-- Natural transmorphisms are identified
-- Neologisms emerge using intuitive syntactic-semantic mappings
-- Trust networks test and validate new words
-- Useful terms spread, useless ones fade
-- Human vocabulary enriches to match reality's structure
-- Abstract spaces gain systematic nomenclature
+- A difference causing difference is discovered. Sometimes hinted at by Neural networks discover unnamed patterns. Or collected in nebulous blobs by the Neural Network to allow for talking about a "blob" in intuitive terms.
+- Natural transmorphisms are identified; the "mathematics" of the pespective of differentiations/sciences/cuts.
+- Neologisms "overhead free utterings/symbols" (makes them efficient) emerge aligning with intuition of the language or coherence of intuition in the language.
+- Useful terms spread, useless ones fade (expect most scientific terms, to the enlightened ones, to be obsolete at some point, at least if they were statistically born. Like mental disorders often are and other lifestyle "diseases" often are. Perhaps also prefix identification of causal pathology naming or symptomatic pathology naming: Diabetes, Old age, Heart pathology, stroke, schizophrenia, cancer and more. These are all symptomatic namings. They do not designate what is wrong with the person, only what the symptoms that are designated wrong are. Diabetes subcategories tries to designate what is causal in them. And cancer has varieties of this too. But when you talk about it, you rarely have the clear distinction of causality if it is known. Or what kind of pathological variety it is in terms of symptoms. "Only introspective proof. Observable proof." which may also be quite useful in many circumstances to have readily at hand (transitivity of knowledge and solutions is also relevant here dependent on those things))
+- Human vocabulary enriches to match reality's structure or manipulative spell-casting. Look my quest is WIZARDRY! If you don't like it? Fuck off.
+You're a hairy wizard!
 
 ---
 
-## The Worth of Every Human {#worth-of-every-human}
+## The Worth of Every Human EDIT: Animus {#worth-of-every-animus}
+WILL. WILL. WILL!
+That is what we empower! But with no illusions or force. Universe and Will. But empowered to see it synergize and amplify as much as possible.
 
-In this system, every human has worth merely by attempting to coalesce will with others. They're not "useless eaters" but will-nodes in larger emergence. This justifies basic sustenance - attempting will-coalescence IS valuable work.
+So too we can extend it to animals in the exact same manner as we do between humans.
 
-Even hermits must occasionally "go to town" to maintain witness testimony, gently incentivizing minimal social connection without violating hermit nature. The system respects diverse ways of being while ensuring everyone remains verifiable persons rather than potential sybils.
+I, for one, really want to see, what animals will do, when they are free, and can interrelate with us, in the same will-coalescence and will-disentangling manner.
+
+All we need to have that occur, is to have human+types-of-animals zones. In the exact same water The Crucible designations: Fountain, spring, river, lake etc.
+This allows, for also a multiplexing on the other lifeforms that co-habit and synergize with the Triad.
+Then a "type-of-animal" intelligibility of what action causes what thing, where the action visualization or gain, is modulated with will-economic intelligence of the system.
+
+From the perspective of the system, then including animals, or many of them, is no obstacle or challenge, as what they lack, is anyway, what this system provides: Intelligence and Information to see your Will Manifest 'all things considered'.
+That is, we can create, for each animal, an Aiddaemon, that tries to act with intelligence-entity (usually computer) advantages. Scale, information and time resolution.
+This allows for "simulating" animal choices or ways in which they can communicate, such that one can find their better will-coalescence. Or will-manifestation. It sounds, perhaps, silly, to state will-manifestation for such low creatures, that care not much about anything else, other than the now and how to better feel comfortable about that now.
+
+Nonetheless, I and the system proposed, are willing to let them "surprise" us.
+At least, offer them constant opportunity to embark upon more than mere comfort or immediate drives.
+
+In this system, every animus has worth merely by attempting to manifest will , because it has informative knowledge in relation to coalescence and disentanglement and utility potential.
+They're not "useless eaters" but will-nodes in larger emergence.
+As well as being granted the benefit of the doubt in their "expected value" or potential 'all things considered'.
+This justifies basic sustenance - attempting will-coalescence IS valuable work.
+Even if it is merely lying in mud and eating the smut.
+
+Even hermits who wish to interact with others, must establish relationship strong enough to bridge them into the system in reliable and trustworthy manner. One way is to occasionally "go to town" to maintain witness testimony, gently incentivizing minimal social connection without violating hermit nature.
+
+The system respects diverse ways of being while ensuring everyone remains verifiable persons rather than potential sybils.
 
 ### Trust Bridges as Human Infrastructure
 
