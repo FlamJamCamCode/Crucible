@@ -1201,10 +1201,10 @@ Neural networks discovering patterns in reality don't just predict - they can **
 ### The Poverty of Current Language
 
 Human language evolved for survival and basic coordination, not for capturing the full complexity of reality. We lack words for:
-- The specific feeling of compatibility between two people who haven't met
-- The exact type of computational pathway that emerges in distributed systems
-- The particular quality of trust that enables risk-free data sharing
-- Thousands of patterns that blob classes detect but we cannot name
+- The specific feeling of compatibility between two people who haven't met... ? syndaemonic? codaemonic? symdaimonean?
+- The exact type of computational pathway that emerges in distributed systems. Some spline graph generatives becomes our 'best current language'.
+- The particular quality of trust that enables risk-free data sharing..? "costorge" (love towards a parent)? or perhaps euphilia (the best brotherly love)? or perhaps phalanxia? ^^
+- Thousands of patterns that blob classes detect but we cannot name, but perhaps we need not neologize if AR can symbolically or intuitive encoded visuals or sensory augmentations for us to help us navigate it.
 
 ### Neologisms from Neural Discovery
 
@@ -1212,11 +1212,11 @@ When blob classes achieve high predictive power about specific patterns, they ca
 
 **Example: "Sittable" vs deeper cuts**
 Traditional language: "Things you can sit on" includes chairs, rocks, boxes
-Blob class discovery: Multiple distinct patterns within "sittable":
+Blob class discovery: Multiple distinct patterns within "sittable" (common coding practice to do such reframing and gentle neologizing):
 - **"Throneable"**: Objects that confer social status when sat upon
 - **"Perchable"**: Temporary sitting spots for brief rest
 - **"Nestable"**: Sitting places that envelope and comfort
-- **"Stabilance"**: Objects offering sitting with movement (exercise balls, swings)
+- **"Astabilances"**: Objects offering sitting with movement (exercise balls, swings)
 
 Each neologism captures predictive power about:
 - How long someone will sit
@@ -1233,11 +1233,13 @@ Different domains benefit from different vocabulary enrichments:
 - **"Sync-drift"**: Temporary will alignment that predictably disperses
 - **"Anchor-node"**: Individuals who stabilize group will dynamics
 - **"Flutter-match"**: High-energy but unstable will coalescence
+(This is AI generated, actually useful neologism xD Plenty of useful ai generated content in these documents (I have used basically all kinds))
 
 **Computational Utility Space**:
 - **"Compute-dense"**: Pathways with high calculation per network hop
-- **"Trust-gradient"**: The rate of trust change across network boundaries
-- **"Latency-shadow"**: Hidden delays that cascade through systems
+- **"Trust-gradient"**: The rate of trust change across network boundaries (g for geometry)
+- **"Trust-tradient"**: The rate of trust change across time (t for temporal)
+- **"Latency-shadow"**: Hidden delays that cascade through systems (and persons)?
 - **"Burst-ready"**: Resources optimized for sudden demand spikes
 
 **Trust Network Space**:
@@ -1245,6 +1247,8 @@ Different domains benefit from different vocabulary enrichments:
 - **"Rep-leak"**: How reputation gradually transfers across weak links
 - **"Trust-crystal"**: Highly stable trust configurations resistant to perturbation
 - **"Verify-light"**: Relationships needing only minimal spot-checking
+
+Not half bad!
 
 ### Systematic Neologism Evolution
 
