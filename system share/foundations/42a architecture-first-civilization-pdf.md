@@ -895,11 +895,97 @@ This doesn't eliminate education - trusted institutions (no such thing. You're a
 
 Medical schools will still exist, but much more in the sense of 'schools' (A holding back from work. Greek sense of "intermission of work, leisure for learning". people united by a general similarity of principles and methods. School of Fish I mean Thought.), but as providers whose graduates tend to receive high stable or increasing coalescence over time (Which if system is good and persons not insane, implies will-performance as such over time), not as gatekeepers of titles. The correlation between institutional training and proven utility becomes visible and market-tested; and subject to control groups and competition in providing competency and reliability some places on our planet.
 
+
 **Multi-Path Expertise**:
 - Traditional path: Medical school → Residency → Practice → Utility proof
 - Apprentice path: Learn from high-utility practitioner → Practice → Utility proof  
 - Autodidact path: Self-study → Careful practice → Utility proof
 - Transfer path: Related expertise → Adaptation → Utility proof
+- Innovative path: Novel attempt ...
+
+What is expertise. How proven method of solving something. Or "FDA Approved Drugs".
+What is Science trying to do. What is regulation trying to force error side of things concerning regular Science.
+What about such a thing as Trinity Bombs?
+What are corporations trying to do applying the above things.
+What are corporations? Who are doing what?
+How do the schooling and training and proof of competency then play in concerning the above setting.
+
+Is it conceivable that other avenues can be thought of, that provide even better results? :P
+
+1) Discovery of processes that work. Things you can do in this world that causes things categorized as x to become category y.
+2) For any x that isn't able to result in y through process 1) then repeat 1 with new category x and new process of the above that still results in desired category y or some new y_2 approaching desire state of y.
+3) Try to assess will-economics in terms of will-coalescence when scaling or making more abundant one of the above discovered processes.
+4) When scaling such a process, different constraints of scalability will exist. Such as the training of persons for meeting the scale demands. Apply 1.
+
+This is actualization layer in effect. There is less emphasis here on the aiddaemon and subaiddaemonic assessment of these will-economics.
+   It is hand waved over as will-economics. But it is elaborate part of the foundational substrate of PoP PoU Trust Networks and Aiddaemon innovations or components.
+   Then applying "Discovery" in its most general unqualified variety. Where a more specific variety would be DiscoveryOS for bringing compute into the will-economic mesh in efficient terms. However, it is clear, with many other things, the discovery part is human genuity and experimentation systems (Which could again be DiscoveryOS, but with actuators relevant to instantiation and perturbing the experiments of interest).
+
+Anyway. So, this is a teachable moment. What is the "concern" in letting go of the regulatory and schooling structure?
+   It is something about errors being unacceptable when they occur.
+   That is to say, it is a concern about the will of the most meticulous and responsible persons being able to dominate the hazardous masses from walking into trouble they and everyone else will surely regret.
+   Here, the old system has a structure that is status quo and justified (mostly) in the eyes of them many. So they get to, through these institutions, to dominate without too much questioning or problems. But, who are this "they"? And how do we know anything with depth about their ability to achieve their goal of safety well, in relation to alternatives?
+
+   I have often had a "Might is Right... Or.. My might is certainly right" attitude to things. But with these systems, I abandon it, and instead agree with the foundational systematic equality. Then do equality voting/rallying and consentual interaction in the most informed and empowered way. With "any philosophy" embeddedable for testing out. But... What then when the above. Or much worse.
+
+   The person who takes no insurance or prepares for anything. Then catastrophe strikes, and charity and mercy is found despite having warned him/her time and time again.
+   Or worse, unable to save them from their inability to think ahead and be wise about it.
+
+   So, which one is it? Might is Right or Systematic Equality?
+   Might With Right is my answer for now. Much can be had in consentual leverage and will-equilibrium.
+   Much can be had by world-denying unless accepting that "certain things are simply dominatingly decided and imposed".
+   Then further the other options, though I doubt it will be necessary, merely: fun to do MoWD and a nice fallback security of having established MIRA like alliances or beliefs. Okay, perhaps it will be in certain hotspots. But for the most parts it will not.
+
+   "Neither." It is objective predictiveness or truth of the argument. Assessed and judged by... Technocrats? AI? 
+   Many ways to view the world. Covid science control world. "My might is right. Because justification".
+   Might Is Right, as if beyond Right and Wrong.
+   How do we find out who was right, and who was wrong?
+   How obvious may the running off the cliff be, before we intervene with someone insisting they are right? And if we intervene, how so? Might and domination? Enforced and with force?
+   Level 1.. Consentual and leverage. You want a? real time moment by moment will-equilibrium seeking..
+   Level 2.. If you are here and rallied here, THEN these are the rules, This is how you are dominated.. So leave is the only dissent you have available. (Including things like forced work / aka "escapable slavery" / "serfdom???" )
+   Level 3.. Let's make a game that tries to elucidate aspects to it. Whoever wins gets to ... [ Insert sufficient perturbation to make their running off the cliff cushioned, parachuted or cliff small enough for them to survive it ].
+   Level 4.. No interaction with them seem to work. Not consentual, cooperative, condemning, zero-sum world availability cost leveraging, nor able to find a contestation solution that is less than 'anything goes'. Okay then, is it unacceptable what they do? If it is, is it acceptable to dominate them? In cost of lives? Perhaps none? What about in terms of morality? Or arrogance of daring to will above and against the others. Or them in particular?
+
+   One can say Covid is an example that very quickly simply moved to level 4. Because, well they can. There are no options in level 2 and level 3 is assumed reality despite obviously being games. Like lawyering or rules or corporations or marketing or "democracy" and so on.
+
+   So, The concern of letting go of these 'reliability' and 'safety' institutions.
+   How do you actually have those things in systems that assume equality?
+
+   Level 2, does what "democracy" does in terms of equality in potential of reaching unequal states of sovereignty or authority.
+      But with opportunity and choice, with accountability and comprehension of what was tested, to see if it works or not.
+      Most of the time it is not something normal persons think about, that the way to be the dominator is to climb the house of cards of "democratic" state institutions. (You have to rationalize your actions within the 'office' you are appointed. But otherwise, or within those confines, you are the dominator)
+
+   I believe the answer has something to do with intelligence and making it immediately tangible that there are consequences when choosing against intelligence networks. Should one pick a path that is unacceptable, then it has immediate consequences in the eyes of "intelligence". Like Trust Networks that have diverged and represents Wisdom of Crowds, in whatever fashion they achieve it, whether dictator scientist or popularity voting of relevant professionals or whatever else they might do "persons who have spent an inordinate amount of time researching it whoever they are" or "persons of particular intelligence who have spent more than cursory investment into the field and their persuadedness by options as presented by those having spent all their time and have diverging opinion on the matter" or whatever else they may choose. But should one then do, against any such Wisdom of Crowds / Trust Network / High Leverage Actors, then the consequences in terms of leverage can be felt immediately through the levels of MWR. This creates "best bet on plurality" scenarios that aligns with the Diversity Preference of Natural Selection systems.
+
+   A way to bootstrap it: The regularoty networks of today, simply go masks off, and do PoP chain of authority instead of the cover of "the state".
+      Then they immediately represent one such intelligence to face against or ensure you're acting in reasonable alignment with. Or else the many that believe in their capacity will... Will what? Well they're also inside a Triad... So, they will...
+
+   Let's take the anti-vax movement and brain surgery as two examples of regulatory and schooling.
+
+   Anti-vax persons. As it stands they have Authority State of which they believe sinister lying poisoning and venomous vipers of. (Or else that they are seriously misguided and stupid).
+   What do they look like in action while only implementing Level 1 of MWR.
+   There they will find much better systems to facilitate the tangibility of it, a system of science and discovery of what works, and coalescence with others interweaving with their will-manifestation. They will discover Trust nodes and share information and learning. So to speak "become an alternative that avoids vaccines" instead of only avoiding vaccines. I.e. "had we not discovered vaccines, what other things could we have done to solve the problem, and is there anything of novelty and advantage to be gained there". As well as the divergence within consequences and other aspects that causes a convergence with proper feedback and intelligence and memory of things to facilitate that much of the actually hurtful things or stupid things are simply nipped at the bud before doing a full-flowering of it.
+
+   In the case of brain surgery, what is the point of interest, it is something about "a process having been discovered" (how?) that facilitates a high likelihood (belief) in bringing cat x to cat y through a person who has Proof of Competency (belief) Utility (observable with some gray zones) or Proof of Never-Failing (beliefs).
+
+   Not beholden to hard line ensuring no errors are ever made, then there are some psychological lessons from gaming, where providing "a metric" (even if it isn't the underlying valuation system) that they can work to increase, that is extremely beneficial in making persons dedicate more and more time effort and intelligence into something. Socialize it, make it competitive and provide metrics and rankings. That is a useful psychological way to make persons invest their everything all the time into something. Which, if you can make the underlying valuation or match-making holistic is then fine. A tokenization on top of 'all things considered' is fine "eventually convergent" and "underlying match making and everything else they don't see the why and hows of, does not use the tokens, but the will-economical landscapes or topologies".
+
+   So while, it doesn't ensure no errors are ever made. It is "solving it" from the point of view of finding and providing the best pathways there can be had with the real constraints of the universe and what is and be encouraged to be or discovered to be.
+
+   The Old World and The New World. The space to "let us try". Read the historical entries files as potential beginnings of trying.
+
+   Another way of dealing with fear of letting go, what if you don't let go, but you simply facilitate those that have the worst systems and governance, can be provided our attempts at the new plurality methods and nss polymorphic crucible.
+
+   Another way is doing the above, then doing regulation as only top 10% able to practition. Or only those within 99% performance of the 99 percentile are allowed to practice it, then the bar is dynamic and relative, but not a proxy, but rather 'the game of providing the utility or simulation/emulation of it'.
+
+   Discovery of ensuring no mistake is ever made. How To -- A guide.
+   Chapter 1:
+      First you account for all variables and lock them all into a stasis, then you only allow movement away from stasis in controlled fashion one variable change at a time ...
+   Chapter 2:
+      Then you account for all outside your system, then ensure you can reach interaction escape horizon
+   Chapter 3:
+      Then you reach it.   
+
 
 All paths are valid if they result in proven utility. The market doesn't care about your credentials, only your confirmed outcomes. This democratizes expertise while maintaining quality through actual results.
 
