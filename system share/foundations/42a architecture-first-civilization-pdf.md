@@ -1531,11 +1531,14 @@ The blob classes become our collaborators in developing language that matches re
 
 ---
 
+
+
+
 ## Critical Distinctions {#critical-distinctions}
 
 1. **Will fulfillment, not attention capture** - The system helps manifest what you want, not extract your engagement
 
-2. **Subjective trust and value** - No objective ratings or prices, everything is perspectival
+2. **Subjective trust and value** - No objective ratings or prices, everything is sub ject ive per spect i val f u f u f u f u
 
 3. **Discovery, not prescription** - From hardware to civilizations, everything emerges
 
