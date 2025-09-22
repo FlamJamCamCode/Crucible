@@ -985,19 +985,20 @@ Anyway. So, this is a teachable moment. What is the "concern" in letting go of t
    Chapter 2:
       Then you account for all outside your system, then ensure you can reach interaction escape horizon
    Chapter 3:
-      Then you reach it.   
-
+      Then you reach it.
 
 All paths are valid if they result in proven utility. The market doesn't care about your credentials, only your confirmed outcomes. This democratizes expertise while maintaining quality through actual results.
 
 **Trust Network Specialization**:
 Different trust networks might value different aspects:
-- Emergency medicine network values speed and triage ability
-- Surgical network values precision and complication rates
-- Holistic network values patient satisfaction and long-term outcomes
-- Research network values innovative approaches and knowledge advancement
+- Emergency medicine network values speed and triage ability (See example of both Trust Network leverage but also Triad enforcing of protocol instead of regulation in example like CohesionNet or some of the subsequent documents like water and electricity)
+- Surgical network values precision and complication rates; (What isn't captured here that may be of value to you if you wanted surgery? System is holistic and this may be what someone values and it may be quite insufficient or not what their focus is. Let's say throughput / costs / availability at least as one other variable here. What about "rates"? Perhaps, your caring was in understanding WHEN if ANY there is failure. And whether you're anywhere near the states that has failure. Step 2 in the discovery pattern or actualizational layer in action.)
+- "Holistic" network values patient satisfaction and long-term outcomes; sounds oxymoronic to say holisitc then name two things they value.
+- Research network values innovative approaches and knowledge advancement; "calculated risk taking".
 
 A practitioner might rank differently across networks, creating nuanced reputations rather than binary "licensed/unlicensed" status.
+Here rank refers to beliefs in capacity of being relative usefulness in pathway towards from x to y state -- ignoring general will-coalesence.
+But alongside will-coalesence, then surely they will differ, because human interrelation and beliefs are not homogenous.
 
 ### Medicine as Healing Pathway Discovery
 
@@ -1006,7 +1007,7 @@ The same blob class principles that handle combinatorial explosion elsewhere tra
 **Traditional Medicine**:
 - Diagnose specific disease from symptom checklist
 - Apply standardized treatment protocol
-- Success measured by protocol compliance
+- Success mostly not measured at all, but mostly whether they return for more treatment or not; or die; or get hospitalized with it later. If measured then usually some bureaucratic schematic checklist. 
 
 **Blob Class Medicine**:
 - Patient state mapped to high-dimensional health space
@@ -1020,6 +1021,13 @@ Instead of memorizing "if symptoms A+B+C then disease X then treatment Y," the s
 - Emotional and social context
 - Treatment response patterns
 - Thousands of unnamed factors
+
+The challenge presented, is to make it such that, the effect of analysis is as if it could consider all things at once.
+
+
+
+
+
 
 **The Phase Engine for Health**:
 Just as the AR Phase Engine shows will coalescence probabilities through color saturation, a Health Phase Engine could show:
