@@ -1110,8 +1110,10 @@ Blob classes solve this through:
 - **Transmorphic encoding**: Leveraging natural syntactic-semantic relationships; (The idea of operators and not only data. Basically. But in language.)
 - **Outcome focus**: Caring about what works, not what it's called
 
-Whether finding computational paths, compatible humans, or healing journeys, the blob class approach handles complexity that would crush categorization-based systems.
--
+   Whether finding computational paths, compatible humans, or healing journeys, the blob class approach handles complexity that would crush categorization-based systems.
+
+---
+
 ### The Learning Stack
 0. No devices actuality delivery of aiddaemonic capacities. (This is the naked man savage in 'theme park' variety that tries to allow for experience almost as if they had technological cyborg maxxed up. But it requires trust in the systems and game master. I'll make a document about it. It is subtext or use case or example of Magical Archeofuturism) Remember: Plurality Diversity Preference and so on is the name of the game. "Making room for".
 1. **Tiny Local NNs**: Personal devices learn immediate patterns; Usually some encoding scheme to translate between languages of others (See Aiddaemonic Language Bridge) This allows efficient command and interactions. Which is the most important things, so long as you have communication to heavier firepower elsewhere.
@@ -1188,7 +1190,7 @@ Just as Discovery OS makes anti-discovery hardware worthless (consider jailbreak
 
 Furthermore, we will be providing open source iterations of much of the foundations. We want everyone to find a provider they Trust. Not everyone will be able to provide themselves for now or in the immediate future.
 
-Also, if it catches fire: States will try too. Either to try and catch up with The New World. Or in attempts to bring it about and make themselves obsolete.
+Also, if it catches fire: States will try too. Either to try and catch up with The New World. Or in attempts to bring it about and make their systems obsolete while forging with all they can towards their perturbations of all it will become along the way and ahead.
 
 ---
 
