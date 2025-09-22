@@ -310,6 +310,7 @@ Blob class learning happens at the gossip level:
 - Accumulation of testimony creating "network-strength-of-existence"
 - Binding pseudonyms to persons who face real tit-for-tat consequences; The ability to act against a person, not flags, corporations or other abstractions.
 - No identity revelation required, just personhood verification
+- This also serves as a kind of pre-mining reward to reward. And of value.
 
 This enables trust without surveillance. Bad actors can't just create new identities after betrayal - they lose their accumulated witness network. **More importantly, their reputation becomes "trust network viscous"** - but this viscosity operates through gradients of trust network overlap.
 
@@ -450,20 +451,20 @@ This creates profound system dynamics:
 - False confirmations risk the confirmer's trust reputation
 - Systematic disagreements cause trust clusters to naturally separate
 - Trust maps diverge when groups fundamentally disagree about value delivery
-- Mining rewards flow to those confirming real utility provision
+- Mining rewards flow to those providing real utility, and those that confirm and those that generate unfakability decentralization by PoP. 
 - Identity itself can be socially recovered or contested through witness consensus
 
-**This is THE mechanism that prevents gaming** - every utility claim must be validated by a real person with reputation at stake. The blockchain becomes a record of actual value delivery confirmed by real humans, not just computational proof-of-work.
+**This is THE mechanism that prevents gaming** - every utility claim must be validated by a real person with reputation at stake. The blockchain becomes a record of actual value delivery confirmed by real humans, not computational proof-of-work, but real persons stating beliefs of utility provisioning.
 
-**Trust Maps are Subjective and Divergent**: Your trust scores for others differ from mine. When we disagree about whether utility was provided, our trust maps diverge. Over time, this creates natural trust clusters of people who share similar value assessments.
+**Trust Maps are Subjective and Divergent**: Your trust scores for others differ from mine. When we disagree about whether utility was provided, our trust maps diverge. Over time, this creates natural trust clusters of people who share similar value assessments. Who, so to speak, can cooperate or interact pragmatically together, and those that can not do so with them. 
 
 ---
 
 ## The AR Phase Engine: Will Fulfillment, Not Attention {#ar-phase-engine}
 
-The AR Phase Engine visualizes opportunities for will manifestation through colored overlays in physical space. **This is NOT about capturing attention or competing for eyeballs** - it's about helping humans find pathways to fulfill their actual desires.
+The AR Phase Engine visualizes aejectivities or virtual worlds of alignment shared, opportunities for will manifestation through colored overlays in physical space. **This is NOT about capturing attention or competing for eyeballs** - it's about helping humans find pathways to fulfill their actual desires - but with shared sensory realities: Phases or Augmented Realities that are shared across persons creating aejective truths.
 
-Example: Walking out your door, five paths show different colors:
+Example of 'your own AR experience': Walking out your door, five paths show different colors:
 - Red saturation: romantic potential
 - Green: money-making opportunities  
 - Azure: intellectual growth
@@ -476,7 +477,15 @@ For someone seeking healing, the AR overlay might show:
 - Turquoise: healing through novel treatments
 - Each saturation based on blob class predictions from similar health states
 
-As you walk, the system helps you discover will-coalescence opportunities. When two people's systems recognize mutual interest through biometrics and consent, saturation increases for both. Similarly, when approaching potential healing resources, the system shows increased saturation based on pattern matches with successful recoveries.
+As you walk, the system helps you discover will-coalescence opportunities and display aejectivities (subjectivities, but then shared across some subjects: Avoids the question of objectivity and allows for virutal realities to be included in the 'truths'). 
+
+When two people's systems recognize mutual interest, automatically observed by their own private systems with no relay or outflow of data, that observe perhaps also biometrics (like heartrate, pupil dilation, chills and sweating; perhaps mimics of the face) and perhaps direct signal of consent, then progressive disclosure of information can occur that may then result in further saturation increases for both. Or many other fun things, like inducing emulated sensation of the other's biometrics readings. Or things like pallette of topics surrounding them, that you share and with intuitive colouring of predictive will direction of each topic choice.
+
+Similarly, when approaching potential healing resources, the system could show increased saturation based on pattern matches with successful recoveries.
+Note: It is a category of games called LLL, that serve to bring about Living Life Locally, while doing PoP and PoU and perhaps even Trust Network, usually using AR to bring about a better experience; which may then use the Phase Engine aspects of bringing about aejectivity and not only solipsistic virtual augmentations.
+
+To AR with no shared reality ceases to be that much fun, whereas, shared edits can be very interesting, especially since aejectivity isn't only aesthetics, but 'shared truths' in general, including visuals.
+
 
 ### The Aiddaemon
 
@@ -484,16 +493,17 @@ Your deeply private AI guide that:
 - Learns your true will through dialogue
 - Helps navigate will-fulfillment opportunities
 - Operates within YOUR trust map
-- Never captures attention, only fulfills intention
+- Never captures attention, in fact seeks to never bother you as its highest achievement, to be a ghost to you, but like you and only fulfill you
 - Creates feedback loops of self-understanding
 - Maintains extreme privacy with granular control
-- **Is itself selected through trust networks** - you choose which Aiddaemon implementation to trust
-- **Becomes more powerful with trust** - sharing more data with trusted services enables richer reasoning without encryption overhead
+- **Is itself selected through trust networks** - you choose which Aiddaemon implementation to trust; Example of why "system share". Definitely, not because a rather large task to implement on your own.
+- **Becomes more powerful with trust** - sharing more data with trusted services enables richer reasoning and always-on Aiddaemon devices and service.
 - **Assists in health navigation** - helping you understand your unique health state and find promising healing pathways
 
-The Aiddaemon represents your daemon - that archetypal spirit or foundational part that is you or your becoming. Like all system components, multiple Aiddaemon providers exist, and you select based on your trust network's experiences and your own values. High trust enables sophisticated AR visualizations and deep reasoning that would be computationally impossible with defensive architectures.
+The Aiddaemon represents your daemon - that archetypal spirit or foundational part that is you. Like all system components, multiple Aiddaemon providers existill, and you select based on your trust network's experiences and your own values. High trust enables sophisticated AR visualizations and deep reasoning that would be computationally impossible with defensive architectures.
 
-For health journeys, your Aiddaemon becomes especially valuable - learning your patterns, recognizing what helps or harms, and guiding you toward practitioners and approaches with high success probability for your unique state.
+For health journeys, your Aiddaemon becomes especially valuable - learning your patterns, recognizing what helps or harms, and guiding you toward practitioners and approaches - pathways / steps to take in life / acts - with high success probability for your unique state.
+Constantly assessing and learning. "Well did it work... At every second minute hour day week month year." (Privacy is in focus... See SOLID system and we're going much more extreme with this. Layers upon layers of security that takes about social engineering as well)
 
 ---
 
@@ -504,7 +514,7 @@ Software exists in three dynamic layers that can either crystallize or continuou
 1. **Architecture Space**: Pure description of what must be computed
    - Can crystallize into specific Logic Space implementations
    - OR dynamically discover logic options from the Logic Atlas
-   
+
 2. **Logic Space**: Semantic transformations independent of implementation
    - Can crystallize into particular Machine Space implementations  
    - OR dynamically discover machine/actuator options
@@ -531,9 +541,9 @@ The Actualization View represents the **system using itself to fulfill itself** 
 This layer incorporates:
 - **Proof of Person (PoP)**: Ensuring computational providers are real verified entities
 - **Proof of Utility (PoU)**: Confirming actual utility delivery for system operations
-- **Trust Networks**: Routing computation through trusted pathways
-- **Economic lubricants**: Money, barter, reputation, or any mechanism reaching transaction equilibrium
-- **Will coalescence**: The system's own will to compute meeting providers' will to serve
+- **Trust Networks**: The most fundamental human constraint that allows interaction and cooperation. Including system substrate of routing computation through trusted pathways or sharing information with realiability in both delivery and belief in truth.
+- **Economic lubricants**: Money, barter, reputation, company, overlapping benefit in elaborate ways added, or any mechanism reaching transaction equilibrium
+- **Will coalescence**: The joining together acts or steps, such that it has massive positive sum effects, and is able to materialize. Key component to realizing intent. Manifesting will. (There are others, which are not dealt with in this description, like ensuring you be allowed (Triads / The Crucible) and it not be thwarted opposed or subsequently destroyed (will-disentanglement) and you'd be able to easily find alternatives (actualizational layer / Discovery OS a key component in that))
 
 It's inherently plug-and-play - any "lubricant" that enables transaction agreement can be incorporated. Whether it's cryptocurrency, trust scores, social capital, or novel exchange mechanisms, if it helps reach acquiescence between parties, it becomes part of the actualization layer.
 
@@ -548,9 +558,9 @@ The Actualization Layer thus becomes a holistic view where the entire system arc
 ### Key Innovations
 
 - **Logic deduplication**: Identical transformations exist only once globally
-- **Progressive disclosure**: Zoom from system-wide view to atomic operations
+- **Detail by Zoom**: Zoom from system-wide view to atomic operations
 - **AI-assisted implementation**: Natural language drives development
-- **Context-aware assistance**: AI understands architectural boundaries
+- **Context-aware assistance**: AI agent trained per architectural boundary as documentation and expert implementor of the boundary.
 - **Dynamic vs crystallized execution**: Choose between fixed optimization or continuous discovery
 - **Utility generalization**: Same pattern works for computation, electricity, logistics, or any service
 
@@ -560,7 +570,7 @@ Example workflow:
 3. Choose crystallization (fixed) or discovery (dynamic) mode
 4. Logic layer finds transformations from Atlas or creates new ones
 5. Actualization layer shows real-time execution options
-6. System optimizes based on trust, cost, and availability
+6. Will-economic optimization.
 
 ---
 
@@ -573,7 +583,7 @@ Examples:
 - Enriched uranium might be worthless or priceless depending on who you are
 - Your enemy's burger joint has low utility FOR YOU specifically
 
-"Fair price" (where you'd take either side equally) is transaction waste - real value comes from subjective differences that make trade worthwhile. **In person-to-person services, transactions become purely positive-sum** - a dance creates joy for both dancers, a conversation enriches both minds, a shared meal nourishes both souls. The "work" IS the value, with no loss to either party.
+"Fair price" (where you'd take either side equally) is transaction waste - real value comes from subjective differences that make trade worthwhile. **In person-to-person services, transactions with will-coalescence become purely positive-sum; paying for things becomes unnecessary most of the time; you simply go about guided into where your will to do X results in enrichment that allows you to get Y also that you otherwise would have had to buy, if you had merely done X with the will-coalesence that resulted in the enrichment sufficient for Y** - a dance can create joy for both dancers (strip club or dance lesson versus romantic but lewd dance evening where one is innocently new to it but the other enjoy it tremendously; meanwhile it served a scenery and setting that allowed a tourist attraction to get far more attraction and customers. You go figure how will-coalescence can play into things in 10000 dimensions at once; with the subsequent positive-sum of aligning things like so), a conversation can enrich both minds (need not be a psychologist paid handsomely, but instead the exact right person, who needed a taxi drive and had to relax his mind for a little bit, and loved doing that with some relaxed talking), a shared meal nourishes both souls (and so on.. YOu do it.. Perhaps do chain of causality by doing it. One drov ethere which had will-coalescent on the way that paid for food, but the other bought the food at a place that resulted in some animal and enrivonment intent of both to be promoted and the purchases made in terms of gas and food both landed in a chain of spending that was will-aligned with them for a very long money re-spend scenario. I.e. I spend 100 dollars, it is in stasis or used against my will by the seller who received them. Versus it landed in hands of someone who instantly spent them on something also aligned with my will upon earth. Who then subsequently did the same. and the same and the same and the same and the same and the same and the same. And suddenly it had the effect of lubricating a chain of effects upon the earth that was heavily will aligned with me). The "work" IS the value, with no loss to either party.
 
 ### Trust Networks as Snake Filters
 
@@ -585,7 +595,7 @@ But trust networks do more than just filter - they **actively improve market out
 - Economic pathways become visible through trusted connections
 - The network becomes smarter than any individual member
 
-This transforms markets from zero-sum competition into positive-sum collaboration through trusted information sharing. **In person-to-person service domains, transactions can be purely positive-sum** - the interaction itself is the value, with no "work" that isn't part of the mutual gain. A dance partner, a conversation, a shared meal - these create value through the interaction itself.
+This transforms markets from zero-sum competition into positive-sum collaboration through trusted information sharing. **Transactions can be purely positive-sum** - the overlap utility had by ther mutual interaction is value, with no "work" that isn't part of the mutual gain. 
 
 ---
 
@@ -593,19 +603,20 @@ This transforms markets from zero-sum competition into positive-sum collaboratio
 
 The system makes all supply and demand visible at granular levels through:
 - **Proof of Utility (PoU)**: Verified delivery of promised utility BY REAL PERSONS
-- **Computational marketplaces**: Real-time bidding for resources
+- **Computational marketplaces**: Real-time pathway dynamics through resources; not contract but real time actualization of manifestation and discovery of alternatives. Natural Selection and constant barrage of alternatives new and old -- waiting their turn to grow exponential and take over as a new and more will-economic or will-aligned pathway in actualization of intent -- subset: computation.
 - **Trust-weighted routing**: Preferring trusted providers while allowing trustless options
 
-Blockchain provides trustless booking and verification, while trust networks add subjective quality layers. You can choose anywhere on the spectrum from fully trustless to highly trusted execution.
+Blockchain provides trustless trust, while trust networks add subjective quality layers. You can choose anywhere on the spectrum from fully trustless to highly trusted execution, to literally only your (p/o)wn substrates.
 
 **The Trust-Utility Spectrum**:
-- **Maximum trust**: "Here's all my data, I trust you to not look and to forget"
+- **Maximum trust**: "Here's all my data, I trust you to not look, and to forget"
 - **High trust**: "Process my data directly, I trust your reputation"
 - **Medium trust**: "Process my data but provide audit logs"
 - **Low trust**: "I'll self-host but use your protocols"
-- **Zero trust**: "Full homomorphic encryption or nothing"
+- **Zero trust**: "Full homomorphic encryption and extreme scattered sharding of every minute coherence of computation or data; or nothing"
 
-Each option is just another utility provider in the market. Trustless computation isn't "better" - it's simply more expensive computation that includes cryptographic guarantees as part of the service. The market serves paranoids and trust-optimists equally.
+Each option is just another utility provider in the market. Trustless computation isn't "better" - it's simply more demanding and specialized computation that may include cryptographic guarantees as part of the service. The market serves paranoids and trust-optimists equally.
+
 
 ### Economic Transformation Through Trust
 
@@ -613,11 +624,12 @@ Trust networks create fundamental economic advantages:
 - **Eliminated overhead**: No need for defensive mechanisms with trusted partners
 - **Direct value exchange**: Skip intermediaries and verification layers
 - **Richer services**: Share more data for better outcomes with trusted providers
-- **Spot-check efficiency**: Random verification replaces constant surveillance
-- **Computational savings**: No encryption overhead with trusted nodes
-- **Credential disruption**: Proven utility replaces institutional gatekeeping
+- **Spot-check efficiency**: Strategic verification with Trust system makes redundant most surveillance
+- **Computational savings**: No encryption overhead with trusted nodes (If every hop through network is trusted node (See CohesionNet) then you need not encrypt any of it)
+- **Credential disruption**: Proven utility replaces institutional gatekeeping; The map that constantly is fitting itself to the actual landscape with all human constraints and realities attempted holistically accounted for; crowdsourced in its generation and updating with commanding nodes based on beliefs of Trust or Worthiness or Trustworthiness and real ability to bring about subjective satisfaction.
 
 The economic impact is profound: every dollar not spent on verification, regulation, defensive computation, or credentialing bureaucracy can be spent on actual value creation. Trust literally makes the economy more efficient.
+
 
 **Professional Services Revolution**:
 Instead of paying for credentials, markets pay for proven utility:
