@@ -1051,55 +1051,59 @@ The blob class approach enables recognition of healing patterns that don't fit t
 - A social intervention that accelerates physical healing
 - A combination approach that only works when elaborate melodies of acts and lifestyle changes happen in musical fashion / applied correctly together (parallel in particular fashion) and sequential order of things (Like a musical piece)
 
-These discoveries spread through trust networks based on proven utility, not journal publications. A practitioner in rural Montana might discover a healing pattern that helps patients worldwide, verified through the trust-utility system rather than institutional approval.
+These discoveries spread through real-time will-performance and prediction and will-economic ability to see them really manifest. But also they spread systematically in natural selection systems enabling variants / mutations to grow exponentially across substrates it functions in, *due to trust networks*. These then grow as they prove to be will-coalescents (will-economic belief attempt) based on proven utility, not journal publications or singular monopolizing maps of belief or hierarchy. A practitioner in rural Montana might discover a healing pattern that helps patients worldwide, verified through the trust-utility system rather than institutional approval.
 
-The system doesn't care if you call it "medicine" or "healing" or "wellness" - it only cares if people actually get better. This democratizes health improvement while maintaining quality through verified outcomes.
+The system doesn't care if you call it "medicine" or "healing" or "wellness" - it only cares if people actually see their will-manifest and perhaps some dominating aspects of higher levels including protocol design (Level 2 Triad in the abstract substrates). 
+This democratizes health improvement while maintaining quality through verified outcomes.
 
 **Radical Health Discoveries Enabled**:
-The blob class system recognizes healing patterns that institutional medicine would reject:
-- A sound frequency that accelerates bone healing
-- A social ritual that improves autoimmune conditions  
-- A breathing pattern that reverses certain heart conditions
-- A combination of "unrelated" interventions that only work together
+The blob class system recognizes healing patterns that institutional medicine would reject (Medicine and alternative medicine has no distinction here; nor medicine and non-medicine. There is action/actuation and consequences in relation to will-manifestation. That's all the category of the system.):
+- A sound frequency that accelerates bone healing; "why not"... Helps that extra vibration of getting the blood flow out in avascularities or some psycho somatic or spiritual beyond current phenomenological lucidity.
+- A social ritual that improves autoimmune conditions; if you didn't know about hormones and other mechanisms that psychological rooted somatic effects. Then you'd think it silly. But hey, read the rest or any magical claim with a grain of humility. There is more to know and be able to do than you think you've acquired. Your maps are further from reality than you think they are. The phenomenological has been humiliated time and time again. Or what we thought were the limits to phenomenon proved to be further away. With mysteries piercing through it.
+- A breathing pattern that reverses certain heart conditions; neologize a word for rhythmic ception. Like proprioception.
+- A combination of "unrelated" interventions that only work together; silly example: Lowered immune system then given cancer treatment that would otherwise be fought out of effect by immune system -- like semi-compatible exoimmune system from another who is able to detect and tag the cancer. Then done in cycles of turning off immune system, introducing the others better immune system for that particular cancer mutation. Then letting yours turn on again and kill off the other immune system as it was decaying anyway. Rest. Then repeat. Potentially even from exotic lifeforms who are heavily anti-cancer adapted like bluewhales or greenlandic sharks. (Challenge then is to make semi-compatible the exotic immune system while yours is off; If I do cancer you all submit and let me do old age without your privy as to how ..; The way you cure cancer is chimaeric research. You take blue whales and similar very large animals who need immense anti-cancer immune system to survive or otherwise only live a few years. Then you do chimaerism between the human and blue whale or greenlandic shark until it is compatible with your cells, though perhaps not your immune system: Semi-compatible. To do chimaerism (This is such a trajectory and turn of the world if you learn how to... So ... xD ...) Okay, then this one. You can do billion scale automated experiment in pietry dishes where you grow your cells with cancer cells and without and do novel mutations in your immune system genes, then you continue until one of these billion dishes show nice properties and you let it grow in NSS fashion. Then we avoid Chimaerism world). Or any other combo of things.
 - Environmental modifications that trigger spontaneous remissions
 
 These discoveries don't need to fit medical theory or pass institutional review. They only need to demonstrably help people heal. The trust-utility system ensures quality through outcomes while remaining open to paradigm-breaking discoveries.
 
 **Health as Will Manifestation**:
-Ultimately, healing becomes another form of will manifestation - the will to be well finding pathways through the infinite space of possible interventions. The system helps each person find their unique path, guided by the accumulated wisdom of all who healed before them, verified by those who confirm their recovery, and open to possibilities that don't yet have names.
+Obviously, healing is some quality of state of our being that is part of our will or intent and so it seeks a form of will manifestation and through the systems will-coalescence to actualize it efficiently across the universe-landscape and other entities as it is and predictive to be. The will to be well finding pathways through the infinite space of possible interventions. The system helps each person find their unique path, step by step always a choice this or that or 100 or thousand other ways, but intelligence and eyes to see the will-economics or effect in your will-topology, guided by the accumulated wisdom of all who healed before them, verified by those who confirm their recovery, and open to possibilities that don't yet have names.
 
 ---
 
 ## Neural Learning, Not Explicit Rules {#neural-learning}
 
-The "Atlas" isn't a database of explicit mappings like "Node B has TENSOR_CORE_FP16_GEMM at 0.2ms latency". Instead, it's neural network blob classes that encode nebulous learned representations of what pathways work under what conditions.
+The "Atlas" isn't a database of explicit mappings like "Node B has TENSOR_CORE_FP16_GEMM at 0.2ms latency". Instead, it's neural network blob classes that encode nebulous learned representations of what metapathways or pathway stability or map stability or vantage point change stability or reality cut / neocategorizations work under what conditions. To paraquote Nietszche: The Transcategorization of all ideas.
 
 ### The Universal Blob Class Pattern
 
 This pattern appears at every level of the system:
-- **Discovery OS**: Learning which actuators bundle together
-- **Compute Pathways**: Learning which routes succeed
-- **Will Coalescence**: Learning which wills resonate "all things considered" - including human states, intent types, emotions, backgrounds, and countless subtle factors
-- **Trust Networks**: Learning reputation patterns
-- **Economic Routes**: Learning value flows
-- **Language Evolution**: Learning which neologisms capture real patterns
-- **Abstract Spaces**: Mathematical and logical structures gaining intuitive names
-- **Healing Pathways**: Learning what leads from illness to health across all factors
+- **Discovery Assistance / OS / automation / facilitation / encouragement**: Learning which actuators bundle together
+- **Will / architecture / Compute Pathways**: Learning which routes succeed
+- **Will Coalescence**: Learning which will / architectures / pathways intersect and overlap postive sum or constructively interfere and resonate "all things considered" - including human states, intent types, emotions, backgrounds, and countless subtle factors  
+- **Trust Networks**: Learning worthy of the word trust patterns and persons
+- **Economic Routes**: Learning value flows (This is simply a bad reduction of what the system does. But YES you can keep any game within. Including money/token games.)
+- **Language Evolution**: Learning which neologisms capture real patterns; communication improvements and its consequences in terms of making things work and happen.
+- **Abstract Spaces**: Mathematical and logical structures gaining intuitive names; composable and modular names where syntax and semantic is intuitively and tightly bound. "Triangle Inequality" "Green's Theorem". Composable? Triangle Inequality ???
+- **Healing Pathways**: Learning what leads from illness to health across all factors and across all REAL AND POSSIBLE POTENTIAL PATHWAYS :D Not only wishful treatment, but real possible will-manifestation put into overdrive by will-coalescence AND: Will-Disentanglement. (That one guy in the lecture hall.. Those 99 out of 100 uninterested or unfitting to you persons that obfuscated that 1 in a 100 for you)
 
-Each domain faces combinatorial explosion that makes explicit naming impossible. The solution is always the same: dimensional reduction into learned blob classes.
+Each domain faces combinatorial explosion that makes explicit naming impossible and not desired due to the dynamism we want -- the individual will-topology may be very stable and acquire private language, but often the chaos of interplay of such topologies will be highly dynamic and chaotic: Will Atlas / Architecture Atlas is the closest we get and it has coherence in clusters not globally or universally. Across such discoherences we need more dynamism than can be captured in words.
+The solution is always the same: essential dimension reduction into learned blob classes encoding some "you" well. Some aspect to your daemon well. Some dimension of will or being. Aiddaemonic mirroring of your daemon to empower you into computer advantage or whatever other substrate of intelligence. (Pattern is: Artificial Intelligence is nice. But only if slave to my will. So, I can't micromanage you. So behavioralist become me. Serve and act as if me. Then constantly seek to understand if any aspect fails to be me. Be my AI Aid Daemon that mirrors my daemon. Together we are a Daiddaemon. Master and Slave. Like Mind and Body. Then Will and Minds (Aiddaemon and powerful subaiddaemons) and Bodies (Subaiddaemon of actuation). And when we join forces in will-coalescence we often reach empowerment through merging of our daemons in some greater utilitization perspective Multaiddaemon.)
 
 ### Why Blob Classes Beat Explicit Rules
 
 Consider the impossibility of explicit systems:
 - Naming every actuator combination: Exponential explosion
 - Categorizing every human grouping with all conditions: 2^n × infinite state space
-- **Diagnosing every health state: Infinite symptom × genetic × environmental combinations**
+- **Diagnosing every health state: Infinite symptom (generate questionaire infinitum) × genetic × environmental combinations**
 - Mapping every computational path: Infinite permutations
-- Defining every trust relationship: Subjective and dynamic
-- Describing every will coalescence scenario: Combinatorially impossible
+- Defining every trust or interpersonal relationship: Subjective and dynamic
+- Describing every will coalescence scenario: Combinatorially impossible; The Point of entropy reduction is what combinatorially. Microconfigurations do what?
+It has the consequence that if you can't do will-coalescence, then you probably could, if first you establish a simple few elements or daemons Triad.
+The Large Triad Open Society Will-coalescence dream is by far the hardest. The planetary variety almost impossible due to unacceptability of killing and such making the precautionary work immense. (Note Triads are nested in each other. See Daemonia architectures or The Crucible documents. The natural organization of things. The roads between it all, funnily enough can inhabit them all. And so too between these or those and this and that and that which is connected with this and that and those and these and recurse)
 
 Blob classes solve this through:
-- **Compression**: High-dimensional patterns in manageable representations
+- **Compression**: High-dimensional patterns in the individual daemon highest information "will span"-equiv idea "vectors" "manageable representations" "manifolds" making their will-topology or language or map to use as compass upon taking steps in the world and discovering its will-topological movements.
 - **Prediction**: Future success based on learned patterns across entire state spaces
 - **Adaptation**: Continuous learning from new experiences
 - **Generalization**: Applying patterns to novel situations
