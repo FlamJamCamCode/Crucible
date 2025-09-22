@@ -1674,14 +1674,18 @@ Through AR, we add layers where **sentient will can "go free"** from other aspec
 
 We remain the mountains and sea, but we can also be the clouds and stars, the past and future, the possible and impossible. AR lets us experience our unity with selective aspects of universal will while temporarily suspending others.
 
+(See Uber Future Visions Documents)
+
 The system makes Byron's poetic insight practical:
 - We ARE the computational substrate (through our devices and utilities)
 - We ARE the trust network (through our witnessed connections)
 - We ARE the collective intelligence (through our shared discoveries)
 - We ARE the will seeking manifestation (through our desires made visible)
 - **We ARE the universal will learning to harmonize its infinite expressions**
+(In the sense that we are also of the mountains and sea, and in the sense that we are also this body of mine, not that I am my hammer in a very all-encompassing sense with no distinct or difference or distance "All is One. Ohm" :P)
 
-### AR as Reality's Superset
+### AR as Reality's "approximately or wished functional" Superset 
+*Approximate or 'desired function' superset. What is removed or not in the AR experience but IRL present? Stuff that is subject to Muffling, greying out and so on of realities that isn't spacetime disentangled, but wished and finding a cheap will-economic way by phase engine AR control*
 
 But here the system transcends both Schopenhauer and Byron through Augmented Reality. AR creates a **superset universe** where sentient will can selectively "go free" from other aspects of universal will while remaining embodied.
 
@@ -1698,7 +1702,7 @@ But here the system transcends both Schopenhauer and Byron through Augmented Rea
 - Emotional energy visibly flows between people
 - Sentient will experiences freedom while honoring selected constraints
 
-The "laws" of AR reality represent **conscious selection** from universal will's possibilities:
+The "laws" of AR reality represent **conscious selection** from universal will's possibilities (AR and VR: You get to make your truths: Metaverse or nietszchean steroids for transvaluations):
 - **Consistent**: This virtual building always appears here (chosen stability)
 - **Personal**: Only you see your will-pathways (individual freedom)
 - **Consensual**: Shared AR spaces with agreed rules (collective freedom)
@@ -1792,6 +1796,7 @@ The pessimism of blind will transforms into the creative joy of conscious manife
 We are simultaneously the ocean and the wave, the mountain and the peak, the universal and the particular. Through technology, we don't escape this paradox but learn to dance with it - sometimes merging with universal will, sometimes asserting our unique expression, always discovering new ways that the one can become many and the many can become one.
 
 ### Philosophical Completion
+Will to Will Penultimate Project.
 
 This system completes Schopenhauer's vision by making will's operations visible and navigable rather than blind and chaotic. It answers Byron's unity with nature by extending "nature" to include our technological augmentations AND our ability to selectively align with aspects of universal will. It resolves the modern tension between virtual and physical by embracing both as valid realms of will's expression.
 
@@ -1815,6 +1820,9 @@ Byron asked if he was not too of the mountains and sea. The answer is yes - and 
 In recognizing our unity with all, we gain the freedom to align with what resonates and release what doesn't. We are the mountains and sea, but we need not be every mountain or every sea. Through AR we can walk with gravity while flying with imagination. Through VR we can be pure peak without valley, pure wave without shore. Through physical reality we ground these experiments in lasting form.
 
 The system doesn't deny our cosmic unity - it enables us to explore what that unity means when consciousness can choose its expressions. We are drops in the ocean who have learned to sometimes be clouds, sometimes rain, sometimes rivers, while never forgetting our essential water-nature. Byron's recognition becomes not a fixed identity but an infinite playground of possibility.
+
+It is all One and at the same time all different. It is all Zero Dimensional and at the same Infinite Dimensional.
+*Monad and Fractal*
 
 ---
 
