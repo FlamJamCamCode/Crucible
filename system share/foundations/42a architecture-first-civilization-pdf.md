@@ -23,7 +23,7 @@
 
 ## Core Vision: Will Manifestation Infrastructure {#core-vision}
 
-This system creates a global computational and social fabric where human will can manifest efficiently through discovered pathways rather than prescribed routes. It replaces extraction-based economics with fulfillment-based economics, surveillance with trust networks, and centralized control with emergent organization.
+This system creates a global computational and social fabric where human will can manifest efficiently thro♠♠ugh discovered pathways rather than prescribed routes. It replaces extraction-based economics with fulfillment-based economics, surveillance with trust networks, and centralized control with emergent organization.
 
 The fundamental question at every layer: **"How do we manifest will in reality?"**
 
@@ -810,46 +810,84 @@ Even if it is merely lying in mud and eating the smut.
 Even hermits who wish to interact with others, must establish relationship strong enough to bridge them into the system in reliable and trustworthy manner. One way is to occasionally "go to town" to maintain witness testimony, gently incentivizing minimal social connection without violating hermit nature.
 
 The system respects diverse ways of being while ensuring everyone remains verifiable persons rather than potential sybils.
+   Trustless Trust and Trusted Trust. Boostrapping in the few through Trusted Trust and between the many Trustless Trust.
+   It doesn't matter what the underlying mechanism for trust is, so long as it works well. 
+      You can have Trustless Trust and it be entirely wrong. ANd you can have Trust Trust too.
+      What matters is dynamics of seeing will expressed in tangibility in dissent.
+      Then have the will of the many able to grasp that with exponential rates that can triumph over any misgiving 
 
 ### Trust Bridges as Human Infrastructure
 
 Beyond basic worth, humans gain profound value by becoming **trust bridges** between untrusting networks:
+The particular mechanics is only The Polymorphic Crucible of Animus and Universe. Therefore any particularity described is 'chosen'.
+But it should be clear that being highly trustworthy or mutually trusted across distrusting entities is highly valuable.
+I have hinted at some utility one can provide in that position: Progressive Disclosure between persons in total Oblivion of it.
+But there are many other aspects. Like, that of escrowing or PoU (including MoWD outcomes and agreements).
+The value of being such Beacon of Trust is immense.
+You can see it in any Unification of distinct things. Without a unifying entity that they all trust, then it is very difficult to coalesce or align efforts.
+There's a funny song I like: The March of The Varangian Guards.
+Very many different categories or cuts of kind, but all united in effort (That is all the unity there ever is: effort-particular, daemon/will-laterally, love and life (you can't avoid also being united by life titles and animals, and reproduction and similar creatures and gods as star constellations)) by some beacon called "The King of The Greeks". It carries deep truth, and often it isn't ♣ but a symbol/abstraction/flag ♦ with the ♣ being fluid but having to rationalize their will within the confines of the ♦. In ancient Egyptian terms: Gold Cap on top of pyramid (Or fractal pyramid (If enough sub-structure perlevel in recursion in fractal (capacity of each level leadership to have many directly beneath him/her) then it becomes dense looking or simply pyramid. So you can say, fractal pyramid is the expected outcome, but the perfect fractal pyramid in terms of leadership is merely called a pyramid)) that unifies the tree like structues (hierarchies of command) or one of stone (mechanical arbitration and intelligence) or a mere portrait or writing (law or expert systems; the word as the master and all men as slave).
+
+(Why is it good to have many directly beneath you? Well, assume it is the case that it is a harmonious pyramid, strong built and radiant. Then what is the necessary truths about the selection of each person beneath him? Exactly. That they are so good, that the time they each need of the commander above is proportional to the number below him. He only has that much time to fix something a person in the level below him couldn't. Therefore, the dense pyramid, is the 'perfect' selection of leadership below him, there could not be any more directly below him, even if there were an infinite number of him. His command is so to speak: perfect outsourced and requires no time of him. The harmony of the pyramid is dense. Resonance and vibration is stable. The goal of leadership is selection such that no indirect leadership is needed. Only direct act is ever needed again, and the non-linearity of command is simply outsourced by sufficiently good selection of leaders below. (When you have the inverted aspect to the pyramid that The Crucible provides (polymorphic too) then anyone can bubble up dissent or plug and play request at any level. That is to say, to achieve perfect conditions, is harmony in the will of all. And so ultimate goal of leadership can be assessed in this the crucible too.) To Rule as a Leader. To need not command for ruling is as willed already. That is the goal. Non-linear ruling not by having to dictate, but by having reached harmony. Then ponder the word "lead" "leading" "Leader". Then perhaps suffix -ship, both the word ship but also words like fellowship and kinship)
+
 
 **Trust Bridge Value Scales With**:
-- **Trust asymmetry**: Bridging highly mistrustful networks creates more value
+- **Trust asymmetry**: Bridging highly mistrustful networks allows for pragmatics to gain space of manifestation. Allows for will-orchestration across domains (remember mutually benefit where does it align, in disentanglement? in what?)
 - **Privacy preservation**: Enabling connection without revealing why
-- **Scale effects**: Bundling predictions into untraceable perturbations
-- **Network reach**: Connecting otherwise isolated trust clusters
+- **Scale effects**: Bundling predictions into untraceable perturbations (will-fields) (It will be so much fun when there are massive amounts of instantiations of these systems and everyone running around with AR backscatter glasses/lenses/devices/head-wear/drones/projections/holograms yeah :P Will be many fun varieties. Will is the Way.)
+- **Network reach**: Connecting otherwise isolated trust clusters (that is the future 'globalizational effect on a market' truthful realiable interaction interface between two clusters)
 
 This creates new vocations:
 - **Trust Bridge Specialists**: Cultivating trust across enemy lines
 - **Resonance Diplomats**: Creating unexpected connections between opposed groups
-- **Peace Weavers**: Using coalescence prediction to prevent conflicts
+- **Peace Weavers**: Using coalescence/disentanglement(often implicit effects of the latter, otherwise disruption by some from each. It takes few to ruin a coalescence. Think a lecture or concert or church congregation in attendance or a party or a walk in the park or whatever. You can be 1000s of persons and have 1 person ruin or severely disrupt it depending on the circumstances. Same aspect with more somber matters, like violence and permanent damage to body and mind, xor rape or other psychological trauma, or being killed.) prediction to prevent conflicts
 - **Cultural Translators**: Bridging incompatible worldviews
 
-Your worth isn't just in your own connections but in **enabling connections between others who would never connect directly**. You become infrastructure for the will-field itself - a human router making the impossible possible while keeping reasons obscured in cryptographic noise.
+Your worth isn't just in your own connections but in **enabling connections between others who would never connect directly**. You become infrastructure for the will-field itself - a human router making the impossible possible while keeping reasons obscured by trust and smart mechanisms of projections enabling clear-cut will-field perturbations.
 
 As trust bridges scale up:
 - **Ring signatures**: "One of these 50 trusted nodes predicts resonance"
 - **Bundled perturbations**: Multiple predictions mixed into single field distortion
 - **Layered anonymity**: Each scale adds cryptographic distance from source
-- The "why" becomes increasingly intractable to discover
+- The "why" and "who" becomes increasingly intractable to discover; only the "attracted became" remains.
 
 ### The End of Credentialism
 
-The trust-utility system **replaces all traditional titles** with proven utility rankings:
+The trust-utility system **replaces all traditional titles** with holistic beliefs 'all things considered' empowerment, tightly associated with, or let strongly influenced by the will-manifestation system predictions. But in more mile-stone stepping systems then may include such things as historicity of utility book-keeping/rankings:
 
 **Traditional System**:
-- "MD" = Graduated from medical school
-- "PhD" = Completed doctoral program  
-- "CPA" = Passed accounting exams
-- "Licensed Electrician" = State certification
+- "MD" = Graduated from medical school (Unnamed persons who also had this, gave them the tag too. (Recursion problem without recursive stability proving))
+- "PhD" = Completed doctoral program (Same as above) 
+- "CPA" = Passed accounting exams (A bit different, but a test to pass. I.e. able to repeat with mutatis mutandis some ritual.)
+- "Licensed Electrician" = State certification (Regurgitation of compliance and regulation, as well as a bit about how electricity functions and how to build such systems in robust, resillient and realiable manner with more than sufficient responsibleness. )
+
+What is true about all of these: They are bars of more or less silly degree, where from many such persons managing to jump over the bar, possess some competency or capacity to solve certain tasks that are useful to others.
+   Often, they acquire the usefulness after having done the title jumping.
+   Mostly, they function as a way to prevent any will-coalescence or efficient will-economy as well as normal economy.
+   As an example: I am unemployable in Denmark because I have no education and no certifications. Or de facto I am.
+   The point being, there are plenty of persons who could do a task for others competently or quickly learn to do it competently, but they are not allowed, because of HR and title stuff.
+   Usually because of a few incidents towards the negative (Will-coalescence easily disrupted by few. Laws made to prevent such disruption as it was costly. But at the cost of then future will-coalescence constrained, regulated and tested for. Similar to why stores need cashiers and not simply have the products there and a jar to put money in. Ethnos. Scandinavia without too many outsiders is like that.)
+
+   It is all up to you, but in general, expert systems ruin all outliers, all that falls outside their cuts of reality. Which usually mean that any "union that tries to universalize or treat members equally" ends up in fairness paradoxes, and causing the "better states" to not act in better ways, in their attempt to fix "the worse states". And so on.
+
+   Even only, treating each person, not equal before the law or regulation, one would unlock massive economic gains. There are plenty of men out there who could responsibly and competently do the work across many many manual labour domains. But they are not allowed, because they don't have the certification/education. Similarly, there are plenty of young people, men & women who would do wonders if employed in the nurture sector, but they are not allowed.
+   And similarly for any corporations, plenty of persons that has exactly what a corporation needs, but they have no shot because they didn't happen to have pot committed 8 years of education and 10 years of experience "having held position elsewhere" in the exact right place.
+
+   Again! This is me opinionating in my sour frustration of my society and the west; but the point of these systems, is not at all to opinionate, but to provide a meta-framework to allow for testing of metals of Triads and will in general. Beliefs and so on. So you get the gradual testing of will in MWR level 1 or will-coalescing, and you get the explicit testing of categories and persons with level two Triads in The Crucible (direct command and dominance. Law and order by proscription of authority etc. (Which includes all systems you have today, all embeddable in it)). And the briding law and consentual interaction with raw might: Level 3 Metagame of World Dynamics. Then finally when Raw Might is the only option, real constraints of applying raw might enter, and how to go about the reality or prospect of losing on acceptable terms. (Might is Right Alliances (MIRAs) The Ultimate Testimony of the Power of the Trustworthy to a fault person. Bridging all moral disputes and anxieties of defeat and allowing amoral alliances on account of those fundamental Trust traits (Transitivity! If you refuse to part from institutions that does not allow your effectual trustworthiness to rule. Then de facto you are not, no matter what your character may otherwise be. So it takes a leap of faith to find a way to either remove that which makes you untrustworthy or else begin anew in your own name and being, then see rallying behind that whole being and not mere a word all sorts of things/creatures can hide behind (Power of Daring to SPeak Inequality! You get to distance yourself and see the causalities of having done so. (One soft-way is to fractalize your institution first under persons. So there is no inheritance. It is rally under person not division or anything like that. Consentual and voluntary. Representation as best see. Fractal Pyramid.)))).
 
 **Trust-Utility System**:
-- "Brain Surgeon" = Those who prove utility in brain surgery through trust networks
-- "Tax Advisor" = Those whose tax advice receives positive PoU confirmations
-- "Electrician" = Those whose electrical work consistently functions safely
-- "Teacher" = Those whose students confirm learning actually occurred
+- "Brain Surgeon" = "Doe. A doe. A female deer. Me. A name I give myself.". Beyond the word, some reality exists, to piercingly understand the capacity of using some pathway to manifest some will, that is what matters. Including brain surgery, where "the will to survive" for the patient is of tremendous concern. (It generally is, but it is brought in full anxious view when one is sick like that).
+   So, it may be a historicity of "Those who prove utility in brain surgery through trust networks". But it can be "whatever". Let's say, for some reason, you were willing to believe, I could do it better, without having a proven record. Well. It may then be tried. There is always "a first". And always a "before and reason to believe", an "is" that makes me thing "could be" or "will be".
+- "Tax Advisor" = "Those whose tax advice receives positive PoU confirmations" I don't know where to start. Other than this is squarely in the setting of the old world. There will not be "taxes".
+   What are "taxes"... In terms of "contracts".. The "social contracts" of the "territory institution" to which you are dominated by. There will be no "contracts" other than MoWD. Man will be FREE. Moment to Moment.
+      In all its consequence. There is no reason to bind realiability or promises in some forceful institution, when you have this system. OTHER than when you don't, like in MoWD and Level 4 and beyond.
+- "Electrician" = "Those whose electrical work consistently functions safely" How do you know, that something meant to last 100 years, is built correctly and won't break in 5 years? or 20 years? Wait 20 years to see if the person will hve a good historicity? Nope... With these memetics, you are allowed to do ANYTHING (1234 constrainted) And that ESPECIALLY means use any information and judge as best you can and share it empowered by systems of cosmic orchestration.
+- "Teacher" = "Those whose students confirm learning actually occurred" Are you beginning to see how narrow minded and confining, especially for an intelligent person to have such statements asserted in places.
+   That is meritocracy, it fundamentally lobotomizes the intelligents to be dominated by the imbeciles under the guise of promoting competency to positions of power.
+   Statistics. The Dismal Sciences. The Projective low dimensional space that some persons have found informative, they make law to rule by or maps all much use to navigate by. Calling all other acts "inequality" and "injustice" and "unfairness". The loss of meritocracy or equality. The Lobotomization of The Intelligent. "Well in this instance, it isn't the usualy metric space that makes the difference for why..." "INJUSTICE!!!! BIAS!!! NEPOTISM!!!!"
+   Or "There is unequalness in outcomes given these SES metrics. Hence we have inequality and injustice and unfairness!" Or maybe there was simply a difference between the categories you made of things of reality in relation to the projective space you measured them by. Equity and Equality. It's the same thing, but equity hides the metrics it corrects for (projective space, shadows on the wall, categories, gerrymandering, cuts, values of what to be equal (why not also orgasms? Or eye colours? Or hair on bodies? Or food flow through body. A valuation of what must be optimized equal in the oblivion of consequence on all other things (while denying the fundamental reality of everything being unequal))). And equality makes explicit the metrics it corrects for. But otherwise it is the same thing.
+   The solution is to dream, then dance with whatever there is, not think in so comparitive terms, but rather in harmonies and entire sceneries. The abstinent person need not be worse off having waited until marriage, if the dream of it were beautiful enough and came about. And so on. WHat is Cacophony and letting other symphonies or cacaphonies be sensed while trying to immerse and feel a symphony, all the minute chords and plays. Valleys and Peaks.
+      This is Will-Disentanglement in poetic form. And in stable form of being: Daemonia. The coming together of complementary daemons with the absence of the disruptive or non-heavenly ones.
 
 This doesn't eliminate education - trusted institutions become "utility factories" that produce capable practitioners. Medical schools might still exist, but as providers whose graduates tend to receive high utility scores, not as gatekeepers of titles. The correlation between institutional training and proven utility becomes visible and market-tested.
 
