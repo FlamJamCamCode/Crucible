@@ -1078,7 +1078,7 @@ The "Atlas" isn't a database of explicit mappings like "Node B has TENSOR_CORE_F
 ### The Universal Blob Class Pattern
 
 This pattern appears at every level of the system:
-- **Discovery Assistance / OS / automation / facilitation / encouragement**: Learning which actuators bundle together
+- **Discovery Assistance /♦♣ OS / automation / facilitation / encouragement**: Learning which actuators bundle together
 - **Will / architecture / Compute Pathways**: Learning which routes succeed
 - **Will Coalescence**: Learning which will / architectures / pathways intersect and overlap postive sum or constructively interfere and resonate "all things considered" - including human states, intent types, emotions, backgrounds, and countless subtle factors  
 - **Trust Networks**: Learning worthy of the word trust patterns and persons
@@ -1111,7 +1111,7 @@ Blob classes solve this through:
 - **Outcome focus**: Caring about what works, not what it's called
 
 Whether finding computational paths, compatible humans, or healing journeys, the blob class approach handles complexity that would crush categorization-based systems.
-
+-
 ### The Learning Stack
 0. No devices actuality delivery of aiddaemonic capacities. (This is the naked man savage in 'theme park' variety that tries to allow for experience almost as if they had technological cyborg maxxed up. But it requires trust in the systems and game master. I'll make a document about it. It is subtext or use case or example of Magical Archeofuturism) Remember: Plurality Diversity Preference and so on is the name of the game. "Making room for".
 1. **Tiny Local NNs**: Personal devices learn immediate patterns; Usually some encoding scheme to translate between languages of others (See Aiddaemonic Language Bridge) This allows efficient command and interactions. Which is the most important things, so long as you have communication to heavier firepower elsewhere.
@@ -1127,7 +1127,7 @@ Everything learns and adapts:
 - Humans learn will-understanding through AI dialogue
 - Markets learn value distributions
 - The system learns how to learn better
-- **Language learns to match reality through blob class discovery**
+- **Language learns to match will-economic efficiency and intercommunication through blob class discovery with human encoding schemes "words" (often neology)**
 - **Abstract spaces (mathematics, logic) gain intuitive nomenclature**
 - **Transmorphisms encode semantic relationships syntactically**
 - **Everything learns to forget what no longer serves**
@@ -1141,23 +1141,26 @@ The power isn't in naming things but in recognizing patterns. A blob class that 
 This is why the system works: it doesn't try to map an unmappable space. Instead, it learns to navigate through experience, encoding wisdom in blob classes that guide future manifestations.
 
 But the deepest wisdom recognizes that even these patterns are temporary. Today's highly predictive blob class becomes tomorrow's outdated assumption. **What must remain is not the patterns but the pattern-finding** - not the learning but the learning about learning. This meta-knowledge is the true treasure that survives as all specific knowledge "turns to ash."
+And we should wish it so, we want to change eventually to transform and dream anew and break the habits and patterns of old. And our systems should encourage our will to transformations or even terraformations, not be chains around our ankles.
 
 ### The Imperative to Forget
 
-But there's a deeper wisdom: **the system must forget to keep learning**. Blob classes that were predictive yesterday become outdated as reality shifts. The system needs:
+But there's a deeper wisdom: **the system must forget to keep learning**. Blob classes that were predictive yesterday become outdated as reality shifts -- or settle in suboptimality not having captured deeper cuts that persists as stable eternal forms across maps ;). The system needs:
 
 - **Active forgetting**: Pruning outdated patterns that no longer predict well
 - **Meta-learning preservation**: Keeping the ability to learn while letting specific knowledge fade
-- **Pattern refresh cycles**: Continuously rediscovering rather than ossifying
-- **Learning about learning**: This meta-knowledge must survive even as all specific data "turns to ash"
+- **Pattern refresh cycles**: Continuously rediscovering rather than ossifying; give me no maps yet again and let my mind grasp for light in the dark and solutions to the mysteries I can not even see yet. "To start from the beginning. It's a very good place to start"
+- **Learning about learning**: This meta-knowledge must survive even as all specific data and category and maps "turns to ash" (As some remote store called the Atlas that some phrygian librarians cohere across maps of measuring meaning) The goal is to build a new, not "quickly discover again by look up" but to learn about learning. To discover or learn again from the "grug grug ugh uk ok ok" state.
 
 As the ancient wisdom states: "Dust to dust." All specific patterns will become unreal and fade. But the capacity to discover new patterns - the meta-learning of how reality's patterns emerge and evolve - this must remain. The Discovery OS that clings to outdated actuator bundles will fail. The one that remembers how to discover anew will thrive.
 
+Perhaps think of it this way, oughts and truths, Phases Engine and Triads. Across it all something remains.
+
 This applies to every level:
-- Languages must forget obsolete words while keeping morphological productivity
+- Languages must forget snappy words - that functionally depluralize cuts (The prime example is a word like: "fuck" or "nice": Remember to truly forget it, then try communication anew and see the learning and metalearning blossoming. That in generality. (It is easiest when you do generational isolation to see it in action. So you can try it, new language generated that a new generation use and are encouraged to make their own language in communicative bridged interfaces that prevents old maps to flow into new map state)) - obsolete words while keeping morphological productivity
 - Trust networks must forget old betrayals while keeping trust-building capacity  
-- Will coalescence must forget failed gatherings while keeping connection ability
-- Even the system's knowledge of itself must refresh to avoid recursive staleness
+- Will coalescence must forget across all units of its functioning; reset of systems; rediscovering or reconnecting in fresh ways to aiddaemon and all else. (Of course, the maps of old are not deleted. But remember to forget or try afresh. Maybe this is marriage councilling come to think of it. Let's amnesia about each other. 40 first dates or something. Only meta learning kept :P)
+- Even the system's knowledge of itself must refresh to avoid recursive staleness The Self-recursive Polymorphic Crucible of Crucibles of Crucibles of Crucibles of .. Or "TSRPC: TSRPC of Crucibles" (theft of GNU :P)
 
 The deepest intelligence isn't in what you know but in maintaining the ability to discover what you need to know when you need to know it.
 
@@ -1166,21 +1169,26 @@ The deepest intelligence isn't in what you know but in maintaining the ability t
 A natural concern arises: "What if the predictive blob classes are manipulative?" This is solved by **the system applying itself to itself**:
 
 - **Don't trust a predictor?** Use one from your trust network
-- **Worried about manipulation?** Run your own blob class learner
-- **Prefer different values?** Join trust networks with aligned predictors
-- **Want transparency?** Choose open-source blob class systems
+- **Worried about manipulation?** Run your own blob class learner; Or randomize or strategically attack your providers by ghost running from "gold standard third parties" and see if you are subject to significant bias or manipulation that is less aligning to your will: Or simply discover better discovery. Will-coalescents of Will-coalescence components or providers.
+- **Prefer different values?** Then your will-economics would reflect that. Exactly or as approximately as your system providers are able to approximate the degree you do indeed prefer it differently given the reality of others and what is. But the closer to the now we are the more clunky and discrete in act and choice it all is: Join trust networks with aligned predictors.
+- **Want transparency?** Choose open-source blob class systems; Want trustlessness? pay the overhead costs and potential wait times for delivery or novel genuity that allows for Trustless implementations. (Cost(gain) of mining is made negative(positive) sum due to PoP foundation)
 
-The trust system and PoP-PoU dynamics that govern all other utilities also govern blob class prediction itself. If predictive systems fail to manifest genuine will fulfillment, they lose trust scores. If they manipulate rather than serve, trust networks diverge away from them.
+The trust system and PoP-PoU dynamics that govern all other utilities also govern blob class prediction itself. If predictive systems fail to manifest genuine will fulfillment, they decay as fast as human will switches and protocol allows for by diversity preference and rules of growth and decay. (Triad in abstract of The Crucible Triads applied polymorphically in subaiddaemons of computers/machines (substratum), then authority (same choices ♦♣ (cryptocurrencies are almost always diamond and PoW voting weighing as authority, which is their claim to being Trustless)) and "halo" the Protocol) If they manipulate rather than serve, trust networks diverge away from them. 
 
 This is the beauty of recursive self-application: the system's own mechanisms protect against its potential misuse. Your will to have non-manipulative prediction is itself a will the system enables you to manifest through trust-based selection of predictive services.
+*It euspirals >^^<*
 
 The blob classes themselves become subject to:
 - Proof of Utility confirmation by real persons
 - Trust network filtering and recommendation
-- Market competition for genuine predictive value
+- Market competition for genuine predictive value (We like Markets. Everyone. We like markets. We redefined what it means. Even Zarathustra is coming out of his cave and uttering more than a mere "meh")
 - Natural selection favoring actual will fulfillment
 
-Just as Discovery OS makes anti-discovery hardware worthless, the trust system makes manipulative predictors worthless. They might exist, but they won't be trusted or used by those who recognize their manipulation.
+Just as Discovery OS makes anti-discovery hardware worthless (consider jailbreaking devices. iBricks versus ... ... One is useful in novel singular utility of devices. The other: not so much. Too much time and investment into it. Say, a nokia 3310 is worth much more than an iPhone in Discovery OS meshes that is fundamental substrate of making it all work. Consider only the CohesionNet utility of 3310. Or take random subaiddaemon projective possibilities for intelligent and connected control of something. Whereas an iPhone: No programmability that is singular and owned and controlled by you. "But daimonic chips are cheap!" Sure. But still, when utilization of such other devices become automatic, then the only thing a person need do, is "turn on" the device and bring along and potentially connect to different places and see if it becomes will-coalescent in some discovered pathway), the trust system makes manipulative predictors worthless. They might exist, but they won't be trusted or used by those who recognize their manipulation.
+
+Furthermore, we will be providing open source iterations of much of the foundations. We want everyone to find a provider they Trust. Not everyone will be able to provide themselves for now or in the immediate future.
+
+Also, if it catches fire: States will try too. Either to try and catch up with The New World. Or in attempts to bring it about and make themselves obsolete.
 
 ---
 
