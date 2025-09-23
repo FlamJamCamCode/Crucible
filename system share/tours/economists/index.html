@@ -1,0 +1,28 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Economists Entry</title>
+<style>
+	body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #0b0e12; color: #e6e8eb; }
+	.container { padding: 16px; }
+	.section { margin-bottom: 16px; }
+	.card { border: 1px solid #1d232b; border-radius: 8px; padding: 16px; background: #0f141a; }
+	.button { padding: 8px 12px; border: 1px solid #2a3542; border-radius: 6px; background: #16212d; color: #e6e8eb; cursor: pointer; }
+	.link { color: #7cc7ff; }
+</style>
+<div class="container" id="root"></div>
+<script>
+	function post(msg) { parent && parent.postMessage({ source: 'tour-app', ...msg }, '*'); }
+	const steps = [
+		{ title: 'Value Discovery & Routing', html: `<div class=card><h2>Value Discovery</h2><p>Markets as dynamic discovery with will-based routing.</p><p>Read: <a class=link href="../..//foundations/13%20markets_value_discovery.md" target="_blank">Markets & Value Discovery</a></p></div>` },
+		{ title: 'NSS and Incentives', html: `<div class=card><h2>NSS</h2><p>Natural Selection Structures and coalition stability.</p><p>Read: <a class=link href="../..//foundations/24%20nss.md" target="_blank">NSS</a></p></div>` },
+		{ title: 'Open a Lobby', html: `<div class=card><h2>Open a Lobby</h2><button id=openLobby class=button>Open Crucible vs Old World Lobby</button></div>` },
+	];
+	let idx = 0;
+	const root = document.getElementById('root');
+	function render() { root.innerHTML = steps[idx].html; post({ type:'state', step: idx, total: steps.length, title: 'Economists Entry', stepLabel: steps[idx].title, progress: (idx+1)/steps.length }); bind(); }
+	function bind(){ const b=document.getElementById('openLobby'); if(b){ b.onclick=()=> post({ type:'open', view:'html', file:'immersion/lobbies/crucible-vs-oldworld.html' }); } }
+	post({ type:'capabilities', steps: true, nav: true });
+	render();
+	window.addEventListener('message', (e)=>{ const d=e.data||{}; if(d.type==='nav'){ if(d.action==='prev') idx=Math.max(0,idx-1); if(d.action==='next') idx=Math.min(steps.length-1,idx+1); if(d.action==='goto'&&Number.isInteger(d.index)) idx=Math.max(0,Math.min(steps.length-1,d.index)); render(); } });
+	window.addEventListener('keydown', (e)=>{ if(e.key==='ArrowLeft'){ e.preventDefault(); idx=Math.max(0,idx-1); render(); } if(e.key==='ArrowRight'){ e.preventDefault(); idx=Math.min(steps.length-1,idx+1); render(); } });
+</script>

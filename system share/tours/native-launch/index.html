@@ -1,0 +1,34 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Native Launcher Tour (PoC)</title>
+<style>
+	body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #0b0e12; color: #e6e8eb; }
+	.container { padding: 24px; max-width: 780px; margin: 0 auto; }
+	.card { border: 1px solid #1d232b; border-radius: 8px; padding: 16px; background: #0f141a; }
+	.button { padding: 10px 14px; border: 1px solid #2a3542; border-radius: 6px; background: #16212d; color: #e6e8eb; cursor: pointer; }
+	.small { color: #9aa4af; font-size: 12px; margin-top: 8px; }
+	.input { padding: 8px 10px; border: 1px solid #2a3542; border-radius: 6px; background: #0f141a; color: #e6e8eb; width: 100%; }
+</style>
+<div class="container">
+	<h2>Launch a Native App</h2>
+	<div class="card">
+		<p>This tour demonstrates opening a native application via a custom protocol.</p>
+		<p>Enter a custom URI (e.g., <code>steam://rungameid/570</code> or <code>mygame://launch?level=1</code>):</p>
+		<input id="uri" class="input" placeholder="myapp://action?param=value">
+		<div style="margin-top:12px">
+			<button class="button" id="launch">Request Launch</button>
+		</div>
+		<div class="small">For security, the host will ask permission before opening the external application.</div>
+	</div>
+</div>
+<script>
+	function post(msg) { parent && parent.postMessage({ source: 'tour-app', ...msg }, '*'); }
+	let step = 0; const total = 1; const title = 'Native Launcher Tour (PoC)';
+	function announce() { post({ type: 'state', step, total, title }); }
+	announce();
+	document.getElementById('launch').addEventListener('click', () => {
+		const uri = document.getElementById('uri').value.trim();
+		if (!uri) { alert('Enter a custom URI'); return; }
+		post({ type: 'open', view: 'protocol', uri });
+	});
+</script>

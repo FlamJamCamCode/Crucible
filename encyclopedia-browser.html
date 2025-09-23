@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The New World Encyclopedia</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .subtitle {
+            color: #7f8c8d;
+            font-style: italic;
+            font-size: 1.2em;
+        }
+
+        .search-container {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        #searchInput {
+            width: 100%;
+            max-width: 600px;
+            padding: 15px 20px;
+            font-size: 16px;
+            border: 2px solid #bdc3c7;
+            border-radius: 25px;
+            outline: none;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.9);
+        }
+
+        #searchInput:focus {
+            border-color: #3498db;
+            box-shadow: 0 0 20px rgba(52, 152, 219, 0.3);
+        }
+
+        .category-tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border: 2px solid #bdc3c7;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+
+        .tab:hover, .tab.active {
+            background: #3498db;
+            color: white;
+            border-color: #3498db;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+        }
+
+        .entries-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .entry-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .entry-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .entry-title {
+            color: #2c3e50;
+            font-size: 1.3em;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .entry-type {
+            display: inline-block;
+            background: #e74c3c;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .entry-type.historical { background: #e74c3c; }
+        .entry-type.foundation { background: #3498db; }
+        .entry-type.dialectic { background: #9b59b6; }
+        .entry-type.technical { background: #27ae60; }
+        .entry-type.other { background: #95a5a6; }
+
+        .entry-description {
+            color: #7f8c8d;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+
+        .entry-link {
+            display: inline-block;
+            color: #3498db;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 8px 16px;
+            border: 2px solid #3498db;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .entry-link:hover {
+            background: #3498db;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .stats {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .entries-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .category-tabs {
+                justify-content: center;
+            }
+            
+            .tab {
+                font-size: 0.9em;
+                padding: 8px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The New World Encyclopedia</h1>
+            <p class="subtitle">A Comprehensive Guide to the Great Transition</p>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search entries by title, content, or keywords...">
+        </div>
+
+        <div class="category-tabs">
+            <div class="tab active" data-category="all">All Entries</div>
+            <div class="tab" data-category="historical">Historical</div>
+            <div class="tab" data-category="foundation">Foundations</div>
+            <div class="tab" data-category="dialectic">Dialectic</div>
+            <div class="tab" data-category="technical">Technical</div>
+        </div>
+
+        <div class="entries-container" id="entriesContainer">
+            <!-- Entries will be populated by JavaScript -->
+        </div>
+
+        <div class="stats" id="stats">
+            <!-- Statistics will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <script>
+        // Encyclopedia entries data
+        const encyclopediaEntries = [
+            // Historical Entries
+            {
+                title: "New World Genesis",
+                type: "historical",
+                category: "Historical Overview",
+                description: "The pivotal period when three distinct bootstrap scenarios emerged as pathways for establishing Polymorphic Crucible-based governance systems.",
+                keywords: ["bootstrap", "terraforming", "neo-colonialism", "constitutional fork", "polymorphic crucible"],
+                path: "system share/historical-entries/new-world-genesis.md"
+            },
+            {
+                title: "The Terraformer Bootstrap",
+                type: "historical",
+                category: "Private Sovereignty Initiative",
+                description: "The first bootstrap scenario involving high-leverage land acquisition in anarchic territories to establish Crucible-based governance through private means.",
+                keywords: ["high leverage", "land acquisition", "private military", "triad implementation", "anarchic territories"],
+                path: "system share/historical-entries/terraformer-bootstrap.md"
+            },
+            {
+                title: "The Neo-Colonial Alliance",
+                type: "historical",
+                category: "International Intervention Initiative",
+                description: "Coalition of nations establishing Triad-based governance in regions with suffering populations, challenging traditional sovereignty concepts.",
+                keywords: ["alliance", "neo-colonialism", "humanitarian intervention", "triad bootstrap", "sovereignty rights"],
+                path: "system share/historical-entries/neo-colonial-alliance.md"
+            },
+            {
+                title: "The Great Fork",
+                type: "historical",
+                category: "Constitutional Division Initiative",
+                description: "Peaceful constitutional division within existing nation-states to establish parallel Polymorphic Crucible governance systems.",
+                keywords: ["semi-revolution", "constitutional fork", "peaceful transition", "fractal pyramid", "empty sovereign"],
+                path: "system share/historical-entries/great-fork.md"
+            },
+            {
+                title: "Bootstrap Encyclopedia Seeds Recipe",
+                type: "historical",
+                category: "Original Source",
+                description: "The foundational document outlining the three potential bootstrap scenarios for establishing New World governance systems.",
+                keywords: ["bootstrap", "scenarios", "terraformer", "neo-colonial", "fork"],
+                path: "system share/historical-entries/boostrap-encyclopedia-new-world-genesis-seeds-recipe.txt"
+            },
+
+            // Foundation Documents
+            {
+                title: "Executive Summary & Vision",
+                type: "foundation",
+                category: "Core Vision",
+                description: "Comprehensive overview of the New World vision and foundational principles.",
+                keywords: ["vision", "executive summary", "overview"],
+                path: "system share/foundations/1 exec_summary_vision.md"
+            },
+            {
+                title: "Foundational Mechanisms",
+                type: "foundation",
+                category: "Core Systems",
+                description: "Basic mechanisms underlying the New World governance and organizational systems.",
+                keywords: ["mechanisms", "foundation", "systems"],
+                path: "system share/foundations/2 foundational_mechanisms.md"
+            },
+            {
+                title: "Technical Architecture",
+                type: "foundation",
+                category: "Implementation",
+                description: "Technical framework for implementing New World systems and infrastructure.",
+                keywords: ["technical", "architecture", "implementation"],
+                path: "system share/foundations/3 technical_architecture.md"
+            },
+            {
+                title: "Crucible Sovereignty System",
+                type: "foundation",
+                category: "Governance",
+                description: "Detailed exposition of the Crucible system for sovereignty and governance structures.",
+                keywords: ["crucible", "sovereignty", "governance"],
+                path: "system share/foundations/17 crucible_sovereignty_system.md"
+            },
+            {
+                title: "Will Coalescence & Meta-Utility",
+                type: "foundation",
+                category: "Philosophy",
+                description: "Philosophical foundations of will-based authority and meta-utility frameworks.",
+                keywords: ["will", "coalescence", "meta-utility", "authority"],
+                path: "system share/foundations/12 will_coalescence_meta_utility.md"
+            },
+            {
+                title: "Natural Selection System (NSS)",
+                type: "foundation",
+                category: "Economic Framework",
+                description: "Economic system based on natural selection principles and performance-based ownership.",
+                keywords: ["nss", "natural selection", "economics", "performance"],
+                path: "system share/foundations/24 nss.md"
+            },
+            {
+                title: "System Integration Synthesis",
+                type: "foundation",
+                category: "Integration",
+                description: "Comprehensive synthesis of how various New World systems integrate and function together.",
+                keywords: ["integration", "synthesis", "systems"],
+                path: "system share/foundations/22 system_integration_synthesis.md"
+            },
+            {
+                title: "Civilizational Emergence",
+                type: "foundation",
+                category: "Civilization Theory",
+                description: "Framework for understanding how new civilizations emerge and develop.",
+                keywords: ["civilization", "emergence", "development"],
+                path: "system share/foundations/14 civilizational_emergence.md"
+            },
+            {
+                title: "Living in New World",
+                type: "foundation",
+                category: "Practical Life",
+                description: "Practical guide to life and organization within New World systems.",
+                keywords: ["living", "practical", "daily life"],
+                path: "system share/foundations/35. living-in-new-world.md"
+            },
+            {
+                title: "Metagame of World Dynamics",
+                type: "foundation",
+                category: "Strategic Framework",
+                description: "Strategic framework for understanding and navigating global power dynamics.",
+                keywords: ["metagame", "world dynamics", "strategy"],
+                path: "system share/foundations/28 Metagame of World Dynamics.md"
+            },
+
+            // Dialectic Analysis
+            {
+                title: "Exhaustive Dialectical Analysis",
+                type: "dialectic",
+                category: "Philosophical Analysis",
+                description: "Comprehensive dialectical examination of New World principles and contradictions.",
+                keywords: ["dialectical", "analysis", "philosophy"],
+                path: "system share/dialectic-oracleness/exhaustive-dialectical-analysis.md"
+            },
+            {
+                title: "Dialectical Synthesis",
+                type: "dialectic",
+                category: "Philosophical Synthesis",
+                description: "Synthesis of dialectical tensions and resolutions within New World frameworks.",
+                keywords: ["dialectical", "synthesis", "resolution"],
+                path: "system share/dialectic-oracleness/dialectical-synthesis.md"
+            },
+
+            // Technical Documents
+            {
+                title: "Computational Utility Networks",
+                type: "technical",
+                category: "Infrastructure",
+                description: "Technical framework for computational infrastructure and utility networks.",
+                keywords: ["computational", "utility", "networks", "infrastructure"],
+                path: "system share/foundations/8 computational_utility_networks.md"
+            },
+            {
+                title: "Language Evolution System",
+                type: "technical",
+                category: "Communication",
+                description: "System for evolving and managing language within New World contexts.",
+                keywords: ["language", "evolution", "communication"],
+                path: "system share/foundations/5 language_evolution_system.md"
+            },
+            {
+                title: "AR Phase Engine Specifications",
+                type: "technical",
+                category: "Augmented Reality",
+                description: "Technical specifications for augmented reality phase engine systems.",
+                keywords: ["ar", "augmented reality", "phase engine", "specifications"],
+                path: "system share/foundations/21 ar_phase_engine_specs.md"
+            }
+        ];
+
+        let currentFilter = 'all';
+        let filteredEntries = [...encyclopediaEntries];
+
+        // DOM elements
+        const searchInput = document.getElementById('searchInput');
+        const entriesContainer = document.getElementById('entriesContainer');
+        const tabs = document.querySelectorAll('.tab');
+        const statsContainer = document.getElementById('stats');
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            renderEntries();
+            updateStats();
+            
+            // Search functionality
+            searchInput.addEventListener('input', function() {
+                const searchTerm = this.value.toLowerCase();
+                filterEntries(searchTerm, currentFilter);
+            });
+            
+            // Tab functionality
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    this.classList.add('active');
+                    currentFilter = this.dataset.category;
+                    const searchTerm = searchInput.value.toLowerCase();
+                    filterEntries(searchTerm, currentFilter);
+                });
+            });
+        });
+
+        function filterEntries(searchTerm, category) {
+            filteredEntries = encyclopediaEntries.filter(entry => {
+                const matchesSearch = searchTerm === '' || 
+                    entry.title.toLowerCase().includes(searchTerm) ||
+                    entry.description.toLowerCase().includes(searchTerm) ||
+                    entry.keywords.some(keyword => keyword.toLowerCase().includes(searchTerm));
+                
+                const matchesCategory = category === 'all' || entry.type === category;
+                
+                return matchesSearch && matchesCategory;
+            });
+            
+            renderEntries();
+            updateStats();
+        }
+
+        function renderEntries() {
+            entriesContainer.innerHTML = '';
+            
+            if (filteredEntries.length === 0) {
+                entriesContainer.innerHTML = '<div style="text-align: center; grid-column: 1/-1; padding: 40px; color: #7f8c8d;">No entries found matching your search criteria.</div>';
+                return;
+            }
+            
+            filteredEntries.forEach(entry => {
+                const entryCard = document.createElement('div');
+                entryCard.className = 'entry-card';
+                
+                const highlightedTitle = highlightSearchTerm(entry.title, searchInput.value);
+                const highlightedDescription = highlightSearchTerm(entry.description, searchInput.value);
+                
+                entryCard.innerHTML = `
+                    <div class="entry-type ${entry.type}">${entry.category}</div>
+                    <div class="entry-title">${highlightedTitle}</div>
+                    <div class="entry-description">${highlightedDescription}</div>
+                    <a href="${entry.path}" class="entry-link" target="_blank">Read Entry</a>
+                `;
+                
+                entriesContainer.appendChild(entryCard);
+            });
+        }
+
+        function highlightSearchTerm(text, searchTerm) {
+            if (!searchTerm) return text;
+            
+            const regex = new RegExp(`(${searchTerm})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function updateStats() {
+            const totalEntries = encyclopediaEntries.length;
+            const displayedEntries = filteredEntries.length;
+            const categories = [...new Set(encyclopediaEntries.map(entry => entry.type))];
+            
+            const categoryCounts = categories.map(category => {
+                const count = encyclopediaEntries.filter(entry => entry.type === category).length;
+                return `${category.charAt(0).toUpperCase() + category.slice(1)}: ${count}`;
+            }).join(' | ');
+            
+            statsContainer.innerHTML = `
+                <h3>Encyclopedia Statistics</h3>
+                <p>Displaying ${displayedEntries} of ${totalEntries} total entries</p>
+                <p>${categoryCounts}</p>
+            `;
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

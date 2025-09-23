@@ -1,0 +1,23 @@
+{
+	"id": "philosopher-humanist",
+	"name": "Philosopher & Humanist",
+	"description": "Begin with will, ethics, and meaning; then see civilizational emergence and practice.",
+	"steps": [
+		{ "path": "system share/foundations/12 will_coalescence_meta_utility.md" },
+		{ "path": "system share/foundations/15 will_manifestation_philosophy.md" },
+		{ "path": "system share/foundations/14 civilizational_emergence.md" },
+		{ "path": "system share/historical-entries/new-world-genesis-gpt5.md" },
+		{ "path": "system share/foundations/35. living-in-new-world.md" }
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
