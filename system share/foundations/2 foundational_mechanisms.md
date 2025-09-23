@@ -117,6 +117,21 @@ The reason, why "The Golden Rule" or "Categorical Imperative" is applied in some
 Instead the main mechanism of punishment is tied to this PoP and being "excluded" by the many in the inverted pyramid and pyramid structures (SRFP). Which has sometimes the same and sometimes different ways of expressing itself. In the inverted pyramid it is interactive pressure and sabotage, avoidance and more that is changed and disempowers a person in places and systems and interactions with others. In the pyramid fashion it is often simply by being banished from lands of this planet. (Fractal Pyramids are replacing governments and "territory institutions". The 'voting mechanism' can be anything, but it may use the PoP aspects for very large such systems to constantly get a flow of 'democratic will/vote' or 'particular persons will/voting'. (And yes you can do very very very accurate 1 person 1 vote with this system. But it isn't directly born with 100% security from the PoP in itself. You have to do 'LLL games' on top of it that does more identification than "decentralized strength proving". And also possibly punishment or banishment from lands if someone cheats with the votes))
 
 
+Might is Right. What does it provide us with?
+This scheme. We shall KNOW the Right you are and see.
+You be the monster to the creatures or life on the planet you want to be.
+"This monster to those beings. That kind of monster to these."
+
+Insodoing, we shall then know what category of "these or those" we then consider you to be, and what kind of monster we are to each of them.
+
+We're all evil in some way. We're all monsters to some creatures. Some life. But the great war that will come is who will dominate the other to simply be unable to be monsters towards which creatures. (Mosquito you are what? Your dog you are what? A puppy? A lamb? A Calf? piglet? bare fully grown pig? a kitten? an old man? Your enemy in ethics without any effect on your part of the world? a random man? the "worst" man? a random woman? the "worst" woman? and to a little girl, you are what? what about a VERY little girl barely having gotten a developing brain you are what? What about the human life containing mostly The Architect of a little girl and in the process of building her, to that you are what? (What do you know about the depths of reality. Pascal's Womb. What if I'm wrong about what we can't know for sure. What if you're wrong.) And so on.)
+As well as what kind of monster the winners will be, towards those that then insist on being the disallowed monster to particular creatures.
+
+In the end, this will be the great display and redemption of the doctrine of Might is Right.
+The Might that becomes Right. That wins the cause and effect struggle of enforcing what is Right.
+The Might that then Is Right.
+
+
 
 
 
