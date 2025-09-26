@@ -2,7 +2,25 @@
 
 ## The Fundamental Problem
 
-Human language evolved for rough communication, not precise reality control. We're trapped using words that cut reality in ways that don't serve us - inherited categories that carry baggage, lack precision, and force us into prepositional explosions.
+Human language evolved for rough communication, not precise reality control. We're trapped using words that cut reality in ways that don't serve us - inherited categories that carry baggage, lack precision, and force us into prepositional explosions of vocabulary/definition of code; or else predicative explosion of executing/implementation code.
+
+Simply combinatorics view:
+unit-phonetic-ways: vowels/phonetics * consonants/percussion * pitch/tone (resolution of clear distinctiveness for the communicants) * overtone * hand-gesture * emotional-state/mimics * "beat-box"-box-of-simultaneous-modulations-possible * rhythm repeats of percurssion * stø-.-d
+unit-symbolic-ways: keyboard-failure-mode / kmonad not setup + discrete varieties only
+
+If one is to have exponential sized vocabulary, then 
+1) You have to be good at learning or making languages :P (sticky brain for words) Remembering concepts or words.
+2) a decent size of variants per syllable or "sound"
+3) logical structure of compositions which makes it "generative" instead of "lookup".
+
+a b c d f e w e q h cja pf if euo pd os o fo ri gu h p p jh ajs dj hfhogh ori kidj kd vjvjkd pppa si jf 
+a g8u g dio o a s080s  ido fo afjei fie ieei f uoibi os dif foei qo fof lfj ;a;sovjo we uoghoh b oisao 
+agow oi aois dgio b oa0u4et0u 0t s0 dpo  ga''asdj a wp[[ gpwo pg a sldj ]] als fowi fo oiqo df  rijr oo
+aosijd ifj if wp ppaps e g wi b pc vkkaks  fla owi eogi  alks lkgj ls dioj og wo eiog o las cmv b  msmm
+Could be nice predicative coding.
+But when combining it with prepositional words. THen it becomes clear the economization and efficiency gains that can be made to the above clinic of prepositional application. :P
+Also, you tell me about a predicative language that has so few repeat of symbols.
+
 
 ## The Prepositional Disease
 

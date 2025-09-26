@@ -3,6 +3,8 @@
 ## The Core Insight
 
 Traditional systems fail because they have fixed roles and relationships. When something breaks, the system doesn't know how to recover. Discovery OS is different - every component is ALWAYS discovering its purpose IN SERVICE TO ITS ONE HUMAN MASTER, so failure is just another state to discover from.
+Code is static in traditional systems for the most part.
+Code is will-economic fluidity in DiscoveryOS.
 
 ## Discovery as the Ground State
 
