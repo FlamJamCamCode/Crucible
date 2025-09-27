@@ -4,56 +4,64 @@
 
 Discovery OS isn't just for edge devices - it runs at EVERY level of each human's personal Aiddaemonic hierarchy. From the master's personal Aiddaemon orchestrating their computational slaves down to individual sensors, each layer runs Discovery OS adapted to serve that ONE human's will.
 
-## Hierarchical Discovery Instances - One Human's Slave Empire
+## Hierarchical Discovery Instances - One Human's Slave Empire; It is funny how, 'that is easily implemented if using humans willing to submit' ^^ 
 
 ```
-┌─────────────────────────────────────────┐
+┌──────────────────────────────────────────┐
 │ Personal Aiddaemon (Discovery OS XXL)    │
 │ - Discovers: How to serve THIS human     │
 │ - Controls: Entire slave infrastructure  │
 │ - Optimizes: Master's will fulfillment   │
-└────────────────┬────────────────────────┘
+└────────────────┬─────────────────────────┘
                  │
-┌────────────────┴────────────────────────┐
+┌────────────────┴─────────────────────────┐
 │ Regional Sub-aiddaemons (Discovery OS L) │
 │ - Discovers: Regional patterns for master│
 │ - Controls: Master's city/datacenter     │
 │ - Optimizes: Master's regional needs     │
-└────────────────┬────────────────────────┘
+└────────────────┬─────────────────────────┘
                  │
-┌────────────────┴────────────────────────┐
+┌────────────────┴─────────────────────────┐
 │ Cluster Sub-aiddaemons (Discovery OS M)  │
 │ - Discovers: Local patterns for master   │
 │ - Controls: Master's rack/building       │
 │ - Optimizes: Master's local resources    │
-└────────────────┬────────────────────────┘
+└────────────────┬─────────────────────────┘
                  │
-┌────────────────┴────────────────────────┐
-│ Device Discovery OS (Discovery OS S)      │
+┌────────────────┴─────────────────────────┐
+│ Device Discovery OS (Discovery OS S)     │
 │ - Discovers: Device patterns for master  │
 │ - Controls: Master's individual hardware │
 │ - Optimizes: Device efficiency for master│
-└────────────────┬────────────────────────┘
+└────────────────┬─────────────────────────┘
                  │
-┌────────────────┴────────────────────────┐
-│ Micro Discovery OS (Discovery OS XS)      │
+┌────────────────┴─────────────────────────┐
+│ Micro Discovery OS (Discovery OS XS)     │
 │ - Discovers: Sensor patterns for master  │
 │ - Controls: Single function for master   │
 │ - Optimizes: Specific measurement        │
-└─────────────────────────────────────────┘
+└──────────────────────────────────────────┘
 
 ALL SERVING ONE HUMAN MASTER
 ```
 
 ## Scale-Appropriate Discovery
 
-### Master Aiddaemon Level
+### Master Aiddaemon Level ; Wanna try it? Human Version First? Perhaps in order to bring about the machine version for the participants? As well as solving issues of the day simultaneously in nice will-coalescence fashion.
 
 ```forth
 \ Discovery OS XXL - Planetary scale
 : MASTER-AIDDAEMON-DISCOVERY ( -- )
     \ Discovers patterns across entire system
-    GLOBAL-DEMAND-PATTERNS DISCOVER
+    Master Mirroring
+    Will Chronic Dispatch
+    Will Acute Local Satisfy Actualize
+
+    World-Will DISCOVER InvPyra
+
+    Will Coalesce
+    Will Project Purpose Subaiddaemons
+
     CROSS-REGIONAL-FLOWS DISCOVER
     WILL-FULFILLMENT-STRATEGIES DISCOVER
     RESOURCE-ALLOCATION-PATTERNS DISCOVER
@@ -62,6 +70,10 @@ ALL SERVING ONE HUMAN MASTER
     MILLION-NODE-EXPERIMENTS RUN
     DEEP-LEARNING-MODELS TRAIN
     QUANTUM-OPTIMIZATION ATTEMPT ;
+
+
+
+
 
 \ Example discovery: Daily rhythm
 : DISCOVERED-PLANETARY-PATTERN ( -- )
