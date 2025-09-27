@@ -52,21 +52,43 @@ ALL SERVING ONE HUMAN MASTER
 ```forth
 \ Discovery OS XXL - Planetary scale
 : MASTER-AIDDAEMON-DISCOVERY ( -- )
-    \ Discovers patterns across entire system
+    \ Private locality immediate solve 
+    \ ---- Setup accuracy improvements
     Master Mirroring
+
+    \ ---- Local Automatics
+    \\ Non-immediate orchestrations relating to personhood in the now / local proxmity.
     Will Chronic Dispatch
+    \\ Immediate variety (Like having fresh water poured into a glass or similar such things and delivered by drone etc; Whatever your subaiddaemonic substrate is....)
     Will Acute Local Satisfy Actualize
 
-    World-Will DISCOVER InvPyra
+    \ Discovers patterns across entire system; fetch world-will information streams into belief about beliefs/will sturcture
+    \ ---- Interactive with other dependent setup 
+    \\ This is attempt at figuring out what the World Wants or Wills. It is usually some subsection relevant to you. 
+    \\ Having good notions of what others will is ultimately what allows for coalescence. Those best at doing this can supply it
+    \\ Collectively the information streams allow for superset knowledge from any one aiddaemon view (almost certainly so)
+    \\ Inverted Pyramid or Inverted Fractal Pyramid or Skyreflection Pyramid or whatever you want to call it.
+    \\ The belief structure of all. Where each fractal point has its own skyreflection.
+    World-Will DISCOVER Sky-Pyramid
 
-    Will Coalesce
-    Will Project Purpose Subaiddaemons
+    \ ---- Actualize in the world Master Mirror Will
+    \ By Master Mirroring Will Purpose is clearer, write some purpose variety onto substrate pwned
+    Will Purpose Subaiddaemon Projection 
+    \ Next instruct all pwned substrate to discover best paths to fulfill will / purpose in weconomic terms and interacting with others. Which uses the initial map or some part of the Sky-Pyramid or otherwise simply does it discovery actions from the state and the purpose it has. Including all its connectivity and its trade-offs by using / willing / will-equilibrium-meeting
+    Will Coalesce 
 
+    \ ---- Setup Master Command Center Viewpoint data
+    \\ Do some will-field physics weather calculations; which is nice background program-daemon running. Nice for Jord or Sol command-center tools or 'gamifications'.
     CROSS-REGIONAL-FLOWS DISCOVER
+    \\ Provide weconomic pathways for display 
     WILL-FULFILLMENT-STRATEGIES DISCOVER
+    \\ For some reason resource allocation view also important separate from general will. Perhaps it is santa claus and where resources goes is a distinct section of resposibilities that has to be done or run through despite not being encapculated in any will of the master
     RESOURCE-ALLOCATION-PATTERNS DISCOVER
-    
-    \ Has massive resources for discovery
+
+    \ ---- Hardcoded control for some reason
+    \\ Has massive resources harded for discovery wagainst beliefs by will-topologies wof wutility (At some point it is simply utility which is more general name than will-utility. But because utility means something very narrowly viewed now, then I use wutility)
+    \\ Aiddaemon highest level probably never has any purpose other than Master Mirror
+    \\ Therefore the thing below here isn't really a thing
     MILLION-NODE-EXPERIMENTS RUN
     DEEP-LEARNING-MODELS TRAIN
     QUANTUM-OPTIMIZATION ATTEMPT ;
@@ -74,7 +96,8 @@ ALL SERVING ONE HUMAN MASTER
 
 
 
-
+\ Context: This is an example of fluid-code projected into use somewhere. Therefore there is no issue in hardcodedness like 0.89 or the words being particular and opinionated about reality below and beyond its real confines
+\ For it to make sense running at the Aiddaemon level then we imagine these sections conflating largest scale Subaiddaemons with Aiddaemon itself.
 \ Example discovery: Daily rhythm
 : DISCOVERED-PLANETARY-PATTERN ( -- )
     \ System load follows Earth's rotation
